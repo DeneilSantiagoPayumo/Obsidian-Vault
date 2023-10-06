@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "5ff00d1e46ab9b43",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2e20e128d239ec2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b189f2ff5fc000f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Anthropology/Resources/Deadlines for SAN.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40e8381fe24677aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2f402de45269a36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92d793b88b79c2af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d6f7ab45f41c9c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05ccc9ec0e24a320",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d285b5b3318a3d3f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5
+  },
+  "right": {
+    "id": "b111db0526a562cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0520b85783dce016",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef00be0cc7027fae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Social Anthropology/Resources/Deadlines for SAN.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "24760c3f536dd3d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Social Anthropology/Resources/Deadlines for SAN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00397ec6703b3ae5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "4367f2680b4cf5a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Social Anthropology/Resources/Deadlines for SAN.md"
+              }
+            }
+          },
+          {
+            "id": "c92f2338ec8121d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8dac4af141146c47",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "134264ca02179adc",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6658dcec1f8abb7",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "publish:Publish changes...": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "homepage:Open homepage": false,
+      "janitor:Janitor: scan vault": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "3b189f2ff5fc000f",
+  "lastOpenFiles": [
+    "Obsidian-Vault-Cambridge",
+    "General University Folder/1. Projects/Pembroke/A map of Pembroke.md",
+    "Remote-Vault/Untitled.md",
+    "Remote-Vault",
+    "Untitled.md",
+    "Templates/Admonition callouts.md",
+    "Github Repo",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Concept, puzzles and theories.md",
+    "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
+    "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
+    "Sociology/Resources/Deadlines for Sociology.md",
+    "Templates/Cornell Notes.md",
+    "Social Anthropology/Resources/Deadlines for SAN.md",
+    "Social Anthropology/Resources/List of lectures for SAN.md",
+    "Sociology/Resources/List of lectures for SOC.md",
+    "Politics/Resources/List of lectures for Politics.md",
+    "Politics/Resources/Deadlines for Politics.md",
+    "General University Folder/3. Resources/What to do today!.md",
+    "General University Folder/3. Resources/Deadlines.md",
+    "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
+    "General University Folder/1. Projects/Pembroke/Local Supermarkets.md",
+    "General University Folder/1. Projects/Pembroke/Cafes, Coffee Shops and Eateries.md",
+    "General University Folder/1. Projects/Google Calendar.md",
+    "General University Folder/3. Resources/Seeley and Haddon library.md",
+    "Politics/Notes/Lecture and Focused Notes/The Sovereign.md",
+    "General University Folder/1. Projects/Fresher's Week/Freshers timetable p1.png",
+    "Z. Photo Dump/Pasted image 20230925153356.png",
+    "Politics/Notes/Bibliography notes/Hobbes",
+    "Z. Photo Dump/Pasted image 20231003170944.png",
+    "Z. Photo Dump/Pasted image 20231004121143.png",
+    "Z. Photo Dump/Pasted image 20231004121119.png",
+    "Z. Photo Dump/Pasted image 20231004121114.png",
+    "Z. Photo Dump/Pasted image 20231004121105.png",
+    "Z. Photo Dump/Pasted image 20231004121050.png",
+    "Z. Photo Dump/Pasted image 20231004121040.png",
+    "Z. Photo Dump/Pasted image 20231004121015.png",
+    "International Relations/Resources/List of lectures for IR",
+    "International Relations/Resources/Deadlines for IR",
+    "International Relations/Notes/Lecture and Focused Notes",
+    "International Relations/Notes/Bibliography Notes",
+    "International Relations/Resources",
+    "International Relations/Notes",
+    "International Relations/Archived Material",
+    "Untitled.canvas"
+  ]
+}

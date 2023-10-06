@@ -1,0 +1,18 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Ultra Lobster",
+  "enabledCssSnippets": [
+    "autofading-ui",
+    "bigger-link-popup-preview",
+    "better-bullet-points-in-edit-mode",
+    "collapsing-sidebar",
+    "custom-icons-for-specific-folders",
+    "enlarge-image-on-hover",
+    "hyphenation-and-justification",
+    "image-cards",
+    "nicer-checkboxes",
+    "stylish-blockquotes",
+    "tag-pills"
+  ]
+}

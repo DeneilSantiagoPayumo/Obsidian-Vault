@@ -1,0 +1,16 @@
+For the first two weeks of SOC, I need to read:
+- [ ] Du Bois, The Forethought and Chapter 1
+- [ ] Durkheim E The division of Labour in Society
+- [ ] Marx, K. and F. Engels pg 221-248
+- [ ] Weber, M - The Protestant Ethic and the Spirit of Capitalism
+- [ ] Anderson, B Imagined Communities (C1 and C8)
+- [ ] Chatterjee, Partha 1986 Nationalist Thought and the Colonial World
+- [ ] Appadurai, A - Disjuncture and Difference in the Global cultural Economy pg 295-310
+- [ ] Billig Michael, Banal Nationalism
+- [ ] Brubaker Ethnicity without groups
+- [ ] Yuval-Davis chapter 4-8
+
+
+>[!Quote] Quote
+>I am available Monday afternoon (October 9th, 2023) between 4:00 -5:30 pm and Tuesday 3:00-4:30 pm (October 10th, 2023) for the initial whole group meeting.
+>Otherwise we can all meet at either Homerton or the Faculty of Education – it is just a wee distance from Pembrooke for students.
