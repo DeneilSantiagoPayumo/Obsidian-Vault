@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+                "file": "General University Folder/4. Archives/Placeholder.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+                "file": "General University Folder/4. Archives/Placeholder.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+                "file": "General University Folder/4. Archives/Placeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md"
+                "file": "General University Folder/4. Archives/Placeholder.md"
               }
             }
           },
@@ -194,8 +194,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3b189f2ff5fc000f",
+  "active": "92d793b88b79c2af",
   "lastOpenFiles": [
+    "International Relations/Notes/Lecture and Focused Notes/Placeholder.md",
+    "General University Folder/4. Archives/Placeholder.md",
+    "International Relations/Notes/Bibliography Notes/Placeholder.md",
+    "International Relations/Archived Material/Placeholder.md",
+    "Politics/Resources/Deadlines for Politics.md",
+    "Social Anthropology/Notes/Bibliography notes/Placeholder.md",
+    "Sociology/Notes/Bibliography Notes/Placeholder.md",
+    "Sociology/Archived Materials/Placeholder.md",
+    "Social Anthropology/Archived Material/Placeholder.md",
+    "Politics/Archived Material/Placeholder.md",
+    "Social Anthropology/Archived Material/Untitled",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
     "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
     "General University Folder/3. Resources/What to do today!.md",
     "General University Folder/3. Resources/Contact information for lectures.md",
@@ -214,17 +226,6 @@
     "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
     "Sociology/Resources/Deadlines for Sociology.md",
     "Templates/Cornell Notes.md",
-    "Social Anthropology/Resources/List of lectures for SAN.md",
-    "Sociology/Resources/List of lectures for SOC.md",
-    "Politics/Resources/List of lectures for Politics.md",
-    "Politics/Resources/Deadlines for Politics.md",
-    "General University Folder/3. Resources/Deadlines.md",
-    "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
-    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
-    "General University Folder/1. Projects/Google Calendar.md",
-    "General University Folder/3. Resources/Seeley and Haddon library.md",
-    "Politics/Notes/Lecture and Focused Notes/The Sovereign.md",
     "General University Folder/1. Projects/Fresher's Week/Freshers timetable p1.png",
     "Z. Photo Dump/Pasted image 20230925153356.png",
     "Politics/Notes/Bibliography notes/Hobbes",
@@ -241,7 +242,6 @@
     "International Relations/Notes/Lecture and Focused Notes",
     "International Relations/Notes/Bibliography Notes",
     "International Relations/Resources",
-    "International Relations/Notes",
     "Untitled.canvas"
   ]
 }
