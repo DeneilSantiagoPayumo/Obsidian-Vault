@@ -10,7 +10,7 @@ The only substantial difference between the several head editions occurs within 
 The manuscript of the Leviathan is interesting however. The MS (manuscript) lacks the dedication to Francis Godolphin (as it is presented to the king) and there are some other minor differences. For example, (the ones of historical interest) has the MS refer to the independents in more hostile terms: perhaps Hobbes toned down the hostility displayed to the Presbyterians and Independents to fit the support for the independents?
 
 It's hard to consider Hobbes motives: was the MS intended for Godolphin and then switched to gain favour with the king? Or is it a reflection of Hobbes' belief that Charles would not return from Britain, with the presentation of the MS be a part of Hobbes to gain favour with the king.
-/commit
+
 ## TO MY MOST HONOR'D FRIEND MR FRANCIS GOLDOLPHIN of *Godolphin*
 
 Hobbes here 'humbly dedicates' this discourse of Common-wealth to his friend. He knows that the world won't receive it too well but he believed it necessary to do so.
