@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Anthropology/Resources/Deadlines for SAN.md",
+                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Anthropology/Resources/Deadlines for SAN.md",
+                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Anthropology/Resources/Deadlines for SAN.md",
+                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Anthropology/Resources/Deadlines for SAN.md"
+                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md"
               }
             }
           },
@@ -194,8 +194,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "92d793b88b79c2af",
+  "active": "3b189f2ff5fc000f",
   "lastOpenFiles": [
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
+    "General University Folder/3. Resources/What to do today!.md",
+    "General University Folder/3. Resources/Contact information for lectures.md",
+    "General University Folder/1. Projects/Pembroke/Local Supermarkets.md",
+    "General University Folder/1. Projects/Pembroke/Cafes, Coffee Shops and Eateries.md",
+    "Social Anthropology/Resources/Deadlines for SAN.md",
     "Obsidian-Vault-Cambridge",
     "General University Folder/1. Projects/Pembroke/A map of Pembroke.md",
     "Remote-Vault/Untitled.md",
@@ -208,19 +214,14 @@
     "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
     "Sociology/Resources/Deadlines for Sociology.md",
     "Templates/Cornell Notes.md",
-    "Social Anthropology/Resources/Deadlines for SAN.md",
     "Social Anthropology/Resources/List of lectures for SAN.md",
     "Sociology/Resources/List of lectures for SOC.md",
     "Politics/Resources/List of lectures for Politics.md",
     "Politics/Resources/Deadlines for Politics.md",
-    "General University Folder/3. Resources/What to do today!.md",
     "General University Folder/3. Resources/Deadlines.md",
     "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
     "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
     "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
-    "General University Folder/1. Projects/Pembroke/Local Supermarkets.md",
-    "General University Folder/1. Projects/Pembroke/Cafes, Coffee Shops and Eateries.md",
     "General University Folder/1. Projects/Google Calendar.md",
     "General University Folder/3. Resources/Seeley and Haddon library.md",
     "Politics/Notes/Lecture and Focused Notes/The Sovereign.md",
@@ -241,7 +242,6 @@
     "International Relations/Notes/Bibliography Notes",
     "International Relations/Resources",
     "International Relations/Notes",
-    "International Relations/Archived Material",
     "Untitled.canvas"
   ]
 }
