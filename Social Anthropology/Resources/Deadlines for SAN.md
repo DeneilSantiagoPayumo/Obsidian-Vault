@@ -1,6 +1,9 @@
 I need to:
 - [ ] Choose an ethnography to read to discuss on the 11th
 
+>[!important]
+>You will not need to do any of the reading (aside from the core ones)
+
 Lecture wise:
 I need to read:
 - [ ] Engelke, M - Think Like an Anthropologist

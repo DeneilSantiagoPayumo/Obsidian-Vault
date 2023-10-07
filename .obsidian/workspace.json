@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b2e20e128d239ec2",
+        "id": "a347b12cea9542c2",
         "type": "tabs",
         "children": [
           {
-            "id": "3b189f2ff5fc000f",
+            "id": "35c924a87278848e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General University Folder/4. Archives/Placeholder.md",
+                "file": "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 314.5
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General University Folder/4. Archives/Placeholder.md",
+                "file": "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General University Folder/4. Archives/Placeholder.md",
+                "file": "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General University Folder/4. Archives/Placeholder.md"
+                "file": "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md"
               }
             }
           },
@@ -163,18 +163,20 @@
             }
           },
           {
-            "id": "e6658dcec1f8abb7",
+            "id": "ea99d8ddb30ab8ba",
             "type": "leaf",
             "state": {
               "type": "google-calendar-view-month",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,39 +196,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "92d793b88b79c2af",
+  "active": "ea99d8ddb30ab8ba",
   "lastOpenFiles": [
-    "International Relations/Notes/Lecture and Focused Notes/Placeholder.md",
-    "General University Folder/4. Archives/Placeholder.md",
-    "International Relations/Notes/Bibliography Notes/Placeholder.md",
-    "International Relations/Archived Material/Placeholder.md",
-    "Politics/Resources/Deadlines for Politics.md",
-    "Social Anthropology/Notes/Bibliography notes/Placeholder.md",
-    "Sociology/Notes/Bibliography Notes/Placeholder.md",
-    "Sociology/Archived Materials/Placeholder.md",
-    "Social Anthropology/Archived Material/Placeholder.md",
-    "Politics/Archived Material/Placeholder.md",
-    "Social Anthropology/Archived Material/Untitled",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
-    "General University Folder/3. Resources/What to do today!.md",
-    "General University Folder/3. Resources/Contact information for lectures.md",
-    "General University Folder/1. Projects/Pembroke/Local Supermarkets.md",
-    "General University Folder/1. Projects/Pembroke/Cafes, Coffee Shops and Eateries.md",
-    "Social Anthropology/Resources/Deadlines for SAN.md",
-    "Obsidian-Vault-Cambridge",
-    "General University Folder/1. Projects/Pembroke/A map of Pembroke.md",
-    "Remote-Vault/Untitled.md",
-    "Remote-Vault",
-    "Untitled.md",
-    "Templates/Admonition callouts.md",
-    "Github Repo",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Concept, puzzles and theories.md",
-    "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
+    "Sociology/Notes/Bibliography Notes/Manifesto of the Communist Party.md",
+    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
     "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
+    "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
+    "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
+    "The theory of duty, authority and obligation in Politics.md",
+    "General University Folder/3. Resources/Deadlines.md",
     "Sociology/Resources/Deadlines for Sociology.md",
-    "Templates/Cornell Notes.md",
+    "Sociology/Resources/List of lectures for SOC.md",
+    "General University Folder/3. Resources/Seeley and Haddon library.md",
+    "International Relations/Notes/Lecture and Focused Notes/Placeholder.md",
+    "International Relations/Resources/Deadlines for IR.md",
+    "Karl Marx.md",
+    "General University Folder/3. Resources/Important events for societies.md",
+    "General University Folder/3. Resources/Contact information for lectures.md",
+    "General University Folder/3. Resources/What to do today!.md",
+    "General University Folder/1. Projects/Fresher's Week/A list of mandatory freshers events..md",
     "General University Folder/1. Projects/Fresher's Week/Freshers timetable p1.png",
+    "General University Folder/1. Projects/Pembroke/A map of Pembroke.md",
+    "General University Folder/1. Projects/Pembroke/Cafes, Coffee Shops and Eateries.md",
+    "General University Folder/1. Projects/Pembroke/Local Supermarkets.md",
+    "Social Anthropology/Resources/List of lectures for SAN.md",
+    "Social Anthropology/Resources/Deadlines for SAN.md",
+    "International Relations/Resources/List of lectures for IR.md",
+    "Social Anthropology/Archived Material/Untitled",
+    "Obsidian-Vault-Cambridge",
+    "Remote-Vault",
+    "Github Repo",
     "Z. Photo Dump/Pasted image 20230925153356.png",
     "Politics/Notes/Bibliography notes/Hobbes",
     "Z. Photo Dump/Pasted image 20231003170944.png",
