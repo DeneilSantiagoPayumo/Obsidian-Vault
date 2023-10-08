@@ -136,12 +136,207 @@ This development of the spirit of Capitalism is considered in part of a developm
 The rationalization of private law was achieved in the highest hitherto degree in the Roman law of late antiquity. It remained backwards and did not favour alone countries of high capitalistic development. This is by no means the relationship of a man to his calling as a task has grown - these rationalize life from different point of views and directions. Rationalism is a historical concept that covers a whole world of different things.
 
 
+## LUTHER'S CONCEPTION OF THE CALLING
+
+It appears that neither of the Catholic people possessed any expression for a 'calling' that existed for Protestant people.
+In Luther's translation of the bible, it has been used in Jesus Sirach (xi. 20 and 21) in our modern sense), taking on meaning in everyday speech of all Protestant people.
+
+The valuation of the fulfilment of duty in worldly affairs is the highest form from which the moral activity the individual could assume. This gave everyday worldly activities a religious significance in this sense. The only way of living acceptably was not to surpass worldly morality in monastic asceticism, but solely through the fulfilment of obligations imposed upon the individual.
+
+Luther developed his conception as a reformer. He thought of activity in the world as a thing of the flesh, willed by God, eating and drinking morally neutral. But with the development of sola fide (the idea that God's pardon for guilty sinners is granted to and received through faith), the calling grew in importance - the monastic life was devoid of value as a means of justifications, the renunciation of the duties of this world a product of selfishness. In contrast, labour feels like brotherly love - that fulfilment of duties is the only way to live acceptably to God.
+
+This was an important results of the reformation.
+
+```ad-important
+It's important to note that Luther cannot be claimed for the spirit of capitalism - the religious circles today are not friendly to capitalism, and Luther himself would've repudiated any connection to that of Franklin.
+```
+
+The effect of the Reformation was that it organised worldly labour in a calling massively. The way that this calling could be developed took place in different Protestant churches.
+
+In Luther's first years as a reformer, he thought of calling as primarily for the flesh: that one may attain salvation in any walk of life, no use laying weight on the form of occupation. As he became more involved in the world, he came to value work more highly, shifting to a traditional interpretation of Providence. The individual should remain once and for all in the station and calling in which God had placed them - restraining his worldly activity within the limits imposed by the established station in life.
+
+It was impossible for Luther (starting from a background of belief and obedience to God's will) to establish a connection between worldly activity and religious principles - the purity of doctrine being more difficult for churches 'after the struggle of the 'twenties'. Therefore, the concept remained traditional - something man has to accept and adapt to himself.
+
+# Part II The Practical Ethics of the Ascetic Branches of Protestantism
+
+## THE RELIGIOUS FOUNDATIONS OF WORLDLY ASCETICISM
+
+There have been four principal forms of ascetic Protestantism:
+1. Calvinism
+2. Pietism
+3. Methodism
+4. The sects growing out of the Baptist movement.
+
+None of these movements are completely separated from the others.
+
+We are interested in the influence of psychological sanctions, originating in religious beliefs and the practice of religion, gave a direction to practical conduct and held the individual to it.
+
+### A. CALVINISM
+
+The doctrine of predestination today is considered its most characteristic dogma.
+
+Weber sketches the historical significance of the dogma - how it originated and how it fits into the framework of Calvinistic theology.
+
+Two paths are possible: the phenomenon of the religious sense of grace is combined in the most active and passionate of those great worshippers. This assurance 'breaks over them with elemental force'. To Luther, God's secret decree was also to him the source of his religious grace. To the Church fathers of Lutheranism, it was an article of faith that grace was revocable.
+
+With Calvin the process was the opposite was true: the significance of the doctrine had increased. It is derived from the logical necessity of his thought - the interest of it solely in God, men for the sake of God.
+
+Only a small proportion of men are chosen for eternal grace and to 'apply earthly standards of justice to His sovereign decrees is meaningless and an insult to His Majesty' since He and He alone is free. It can only be understood insofar it has been his pleasure to reveal them.
+
+For the damned to complain their lot would be the same for animals to bemoan the fact they were not born as men. God's grace is impossible to change: impossible to attain for those who never got it.
+
+In his extreme inhumanity the doctrine had one consequence - loneliness of the single individual, forced to follow his path alone to meet an ordained destiny.
+
+This brought the negative attitude of Puritanism to all the sensuous and emotional elements in culture and in religion - no use towards salvation. This formed the basis of their culture - mental antagonism to culture, and pessimistically inclined individualism.
+
+In spite of membership in the Church for salvation, the Calvinist's relationship with God was carried in isolation.
+
+It follows that the Christian brotherly love was forced to take under pressure of the inner isolation of the individual through the Calvinistic faith - world exists to glorify God, and the Christian is only to increase this glory by fulfilling the commandments. But God requires social achievement of the Christian as he wills that social life will be organized according to his commandments. 
+
+Labour in the service of impersonal social usefulness appear to promote the glory of God, and hence to be willed by Him. The complete elimination of these questions of the meaning of world and life was self-evident to the Puritans.
+
+To this Calvinism added another tendency which worked in the same direction -  the individual existed entirely with his own religious responsibility. The source of Calvinistic's utilitarian character lies here.
 
 
+How was this doctrine born in an age to which the after-life was more important than all interest of life in the world?
 
+For Calvinist, this was not a problem. They felt themself to be a chosen agent of the Lord, certain of their own salvation. They reject in principle the assumption that one can learn from the conduct of others whether they are chosen or damned, feeling that it was an unjustifiable attempt to force God's secrets.
 
+It was impossible for man to be satisfied with Calvin's trust in the testimony of the expectant faith resulting from grace.
 
+Two principal types of pastoral advice appear: it is held to be a duty to consider oneself chosen, and to combat all doubts as temptations of the devil. Lack of self-confidence is the result of insufficient faith, of imperfect grace.
 
+This worldly activity was considered the most suitable means of counteracting feelings of religious anxiety. The highest religious experience of which you can obtain is the unio mystica (mystical bond with God), a feeling of absorption into God.
 
+Lutheranism combines the unio mystica with that deep feeling of sin-stained unworthiness, essential to preserve the faithful Lutheran. The typical religion of the reformed church has repudiated both this purely inward emotional piety of Lutheranism and the Quiestist escape from everything of Pascal. 
 
+The community of the elect with their God could only be perceptible to them as their God working through them, conscious of it, their actions originating in the faith caused by God's grace, justifying itself as the quality of that action.
 
+As the Calvinist viewed pure feelings and emotions with suspicion, faith for them had to be proved by its objective results - Christian conduct which serves to increase the glory of God.
+
+It was through the consciousness of his conduct, rested on a power within himself working for the glory of God, that he attained the highest good towards which this religion strove the certainty of salvation. Even useless good works may be a means of attaining salvation, getting rid of the fear of damnation.
+
+Therefore, God helps those who help themselves. 
+
+The normal Catholic layman may have lived ethically: fulfilled his duties, but did not form a rational system of life, just a system of individual acts that he could use to atone for sins or towards the end of his life. As though the individual could decide his temporal fate. To the Catholic the absolution of his Church was compensation for his own imperfection, that could dispense atonement, grace, forgiveness and so on.
+
+For the Calvinist, friendly and human comforts did not exist - he couldn't atone for human weakness. The God demanded of his believers a life of good works combined into a unified system. The moral conduct of average man was deprived thereof of its unsystematic character.
+
+The difference of the Calvinistic from mediaeval asceticism is evident: the transformation of asceticism to activity within the world. An ethically unsystematic life did not satisfy the highest ideals which it had set up even for the life of the layman. The most important thing was the fact that man lived a rational life remained alone a monk, the holiest of acts to surpass all worldly morality.
+
+The development of Calvinism supplied this - proving one's faith in worldly activity, giving broader groups of religiously inclined people a positive incentive to asceticism. The genuine Calvinist doctrine that the glory of God required the Church to bring the damned under the law was outweighed by the conviction that it was an insult to God if an unregenerate soul should be admitted to his house.
+
+It was this doctrine that upheld the belief of the militant defenders of the holy life that they were weapons in the hand of God, preventing a premature collapse into a purely utilitarian doctrine of good works which would never have been capable of motivating such sacrifices for non-rational ideal ends.
+
+There was a great difference which is striking to contemporaries between moral standards of the courts of Reformed and of Lutheran princes, the latter being degraded by drunkenness and vulgarity.
+
+This doctrine of predestination was only one of several possibilities but its effect was powerful.
+
+## PIETISM
+
+It is quite legitimate to look upon the whole connection between predestination and doctrine of proof a Pietistic development of Calvin's original doctrines. But even the continental Pietism in the reformed church was just a simple intensification of the Reformed asceticism.
+
+Election could not be proved by theological learning at all - with Pietism, and a deep distrust of the Church, it belonged officially to gather the adherents of the praxis pietatis in conventicles removed from the world. All members in this community tried to live a life freed from the temptation of the world, to be made certain of their rebirth by external signs manifested in their daily conduct.
+
+They led a greater emphasis on the emotional side of religion. In this way, this is the decisive characteristic of the Pietism which developed within the Reformed church that seemed originally foreign to Calvinism.
+
+this extreme effect, the desire to separate the elect from the world, leading to a monastic community life did not appear as the Reformed Pietism strove to make salvation of his everyday routine of life in a worldly calling.
+
+Lutheranism necessarily felt this rational asceticism to be a foreign element and the lack of consistency in German Pietistic doctrines a result of the difficulties growing out of that fact. As a dogmatic basis of systematic religious conduct Spener combines these ideas with Calvinistic doctrines of good works.
+
+Pietism's ascetic elements outweighed the emotional: methodical development of one's grace, the idea that "God's providence works through those in such a state of perfection" and so on. Essentially this worked out similar to Calvinism, assuming grace is offered to all men but for everyone either once at a moment in his life or at some other moment.
+
+The most important value of the Brotherhood lay in an active Christian life, in missionary, bringing in professional work in a calling.
+
+This uncertainty within its religious basis makes it weaker than the consistency of Calvinism, and makes this very one-sided to make this emotional element the distinguishing element of Pietism compared to Lutheranism. Compared to Calvinism, the rationalization of life was less intense because the pressure of occupation with a state of grace had continually been proven. 
+
+## Methodism
+This combination of an emotional but still ascetic type of religion with indifference of the dogmatic basis of Calvinistic asceticism is also of the Methodist movement - an emotional act of conversion with emphasis on feeling and repentance under certain circumstances. This formed the basis of a belief in the undeserved possession of divine grace.
+
+This religion entered an alliance with the ascetic ethics that had been stamped with rationalism by Puritanism.
+
+The only sure basis was in principle held to be a pure feeling of absolute certainty of forgiveness, derived from the testimony of the spirit. One reborn in this manner can by virtue of the divine grace already working in him attain sanctification, the consciousness of perfection.
+
+For those Methodists who were adherents of the doctrine of predestination of grace and perfection instead of the consciousness of grace which grew out of ascetic conduct depended only on the single act of repentance meant one of two things - a fatalistic interpretation of Christian freedom, and with it a breakdown of methodical conduct, or the self-confidence of the righteous man reaching untold height.
+
+In face of the attacks of opponents, attempts were made: increased emphasis on the normative authority of the bible, and the other strengthening Wesley's anti-Calvinistic faction within the movement. In the end only the concept of regeneration, an emotional certainty of salvation as the result of faith, was maintained as the indispensable foundation of grace and sanctification, resulting in freedom from the power of sin as the proof of grace.
+
+It led then to the aspirations to the higher life, the second blessedness, as a makeshift for the doctrine of predestination. The emotion, once awakened, was directed into a rational struggle for perfection (so the rational character of its faith did not lead to a spiritualized religion of freedom like German Pietism).
+
+The regeneration of Methodism is created as a supplement to the pure doctrine of works, a religious basis for ascetic conduct.
+
+## THE BAPTIST SECTS
+
+We find a second independent source of Protestant asceticism beside Calvinism, adopting gits forms of religious thoughts - Baptists, Mennonites and the Quakers.
+
+The feature of all these communities is something we're familiar with - the believer's church, the visible church in the language of the Reformation churches, no longer looked upon as a trust foundation for supernatural ends, increasing the glory of God (Calvinism) or as a medium for bringing salvation to men (Catholic and Lutheran) but a community of personal believers of the reborn. As a sect. Purely external, that only adults who have gained their own faith should be baptized, is meant to symbolize.
+
+As a permanent possession, the Baptist sects retained from these dominating motives of their early period a principle with which has been acquainted in Calvinism. They repudiated all idolatry of the flesh as a detraction from the reverence due to God alone.
+
+The Baptist denominations carried out the most radical devaluation of all sacraments as a means to salvation, accomplishing the extreme religious rationalization of the world in its most extreme form.
+
+All Baptist communities desired to be pure Churches in the sense of the blameless conduct of their members - a sincere repudiation of the world and its interests, and unconditional submission to God as speaking through the conscience, were the only unchallengeable signs of true rebirth and this conduct was indispensable to Salvation. The gift of God's grace could not be earned but only one who followed the dictates of his conscience could be justified in considering himself reborn.
+
+Since predestination was rejected, the rational character of Baptist morality rested psychologically on waiting for the Spirit to descend, the characteristic of the Quaker meeting. Insofar Baptism affected the normal workaday world, the idea that God only speaks when the flesh is silent evidently meant an incentive to the deliberate weighing of courses of action and their careful justification in terms of the individual conscience.
+
+This quiet character of conduct allowed no other course than of worldly asceticism.
+
+The intensity of interest in economic occupations was increased in the first place by the refusal to accept office in the service of the state, and after its abandonment in principle it still remained effective in practice - the strict refusal to bear arms or to take oaths formed a sufficient disqualification for office. Hand in hand, Baptist denominations went an invincible antagonism to aristocratic way of life - a consequence of the prohibitions of all idolatry of the flesh. 
+
+The immense importance attributed by the Baptist doctrine of salvation to the role of conscience was the greatest significance for the development of the spirit of Capitalism - honesty is the best policy that especially the quakers adopted. On the other hand, we expect to find that the influence of Calvinism was exerted more in the direction of the liberation of energy for private acquisition.
+
+A further element can be considered only in another connection - not taking deliberately the objective social institutions of the older Protestant Churches and their ethical influences. We have preferred rather to take the results which subjective adoption of ascetic faith that may have led in the conduct of an individual.
+
+The mercantilist regulation of the State might develop industries but not the spirit of Capitalism - enforcing a particular type of external conformity that weakened the subjective motives of rational conduct.
+
+## ASCETICISM AND THE SPIRIT OF CAPITALISM
+
+We can treat ascetic Protestantism as a single whole.
+
+Richard Baxter was an apologist of the Westminster Synod and a Presbyterian, but grew away from the dogmas of pure Calvinism - opposing Cromwell's usurpation, unfavourable to the sects and enthusiasm of the saint. He sought his field of labour in the practical promotion of the moral life through the church.
+
+He sought labour in the promotion of moral life through the church.
+
+One is struck at the emphasis placed in the discussion of wealth - a great danger, its temptations never end.
+
+Here, asceticism seems to have turned against the acquisition of earthly goods compared to Calvin who saw no hindrance to the effectiveness of the clergy in their wealth, permitting them to employ their means profitably.
+
+The real moral objection rather is to relaxation in the security of possession, the enjoyment of wealth with the consequence of idleness and the temptations of the flesh - only because possession involves this danger of relaxation that it is objectionable at all.
+
+Waste of time is the deadliest of sins. Life is too short for that. Time is valuable as every hour lost is lost to labour for the glory of God.
+
+Baxter holds that wealth does not exempt anyone from the unconditional command - even the wealthy shall not eat without working, for even they do not need to labour, there is God's commandment which they must obey.
+
+In the Puritan view, the providential character of the play of private economic interests takes a different emphasis - the providential purpose of the division of labour is to be known by its truth. The specialization of occupations makes the development of skill possible to a quantitative and qualitative improvement in production, serving the common good, identical to the good of the greatest possible number.
+
+Irregular work is unavoidable but an unwelcome state of transition.
+
+The quaker holds that man's life in his calling is an exercise in ascetic virtue, a proof of his state of grace through his conscientiousness - rational labour in a calling, God's demand.
+
+One can combine callings if it is useful for the common good or one's own.
+
+This usefulness is measured primarily in moral terms, but criteria is found in private profitableness.
+
+Wealth is bad ethically insofar that it is a temptation to idleness and sinful enjoyment of life - its acquisition is bad when it is done with the purpose of living merrily and without care. The performance of duty in a calling is enjoined.
+
+The emphasis on the ascetic importance of a fixed calling provided an ethical justification of the modern specialized division of labour.
+
+Clarifying the points of the Puritan idea of the calling and the premium it placed on ascetic conduct was bound to influence the development of a capitalistic way of life. Asceticism turned to destroy one thing: the spontaneous enjoyment of life.
+
+The toleration of pleasure in cultural goods certainly ran against one characteristic limitation: they must not cost anything.
+This worldly Protestant asceticism acted powerfully against the spontaneous enjoyment of possessions, restricting consumption but also having the psychological effect of freeing the acquisition of goods from the inhibitions of traditionalistic ethics, breaking the bonds of the impulse of acquisition in that it not only legalized it but looked upon it as directly willed by God.
+
+Asceticism condemned both dishonesty and impulsive avarice - what was condemned as covetousness was the pursuit of riches for their own sake. Wealth itself is a temptation, but asceticism was the power - looking upon the pursuit of wealth as an end in itself, the attainment of it a fruit of labour in a calling.
+
+The limitation of consumption, combined with its release of acquisitive activity results in the accumulation of capital through ascetic compulsion to save. The puritan outlook favoured the development of a rational bourgeois economic life. The cradle of economic man.
+
+With the consciousness of standing in God's grace, the bourgeois business man, could follow his interests as long as his moral conduct was spotless and the use of his wealth was not objectionable. It gave him a comforting assurance that the unequal distribution of goods was a special dispensation of Divine Providence. 
+
+Calvinism opposed organic social organization in the fiscal-monopolistic form. Its leaders were universally among the most passionate opponents of this type of politically privileged commercial. They placed the individualistic motives of rational legal acquisition by virtue of one's own ability and initiative. The Puritans took pride in their morality.
+
+Rational conduct on the basis of the idea of the calling was born.
+Limitation to specialized work is a condition of any valuable work in the modern world, hence deeds condition each other today. The Puritan wanted to work in a calling. So we did, building the cosmos of the economic order.
+
+Capitalism no longer needs the spirit of asceticism. The pursuit of wealth, stripped of its religious and ethical meanings, tends to become associated with purely mundane passions, giving it the character of sport (US).
+
+His work is not done: it would be necessary to investigate how Protestant asceticism was in turn influenced by its development and its character by social conditions. The modern man cannot give religious ideas a significance for religion of which they deserve.

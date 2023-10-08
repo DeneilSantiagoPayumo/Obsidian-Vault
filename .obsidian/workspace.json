@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a347b12cea9542c2",
+        "id": "816fe7526cd7e876",
         "type": "tabs",
         "children": [
           {
-            "id": "35c924a87278848e",
+            "id": "1250cbfafdf35d0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
+                "file": "General University Folder/3. Resources/Seeley and Haddon library.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
+                "file": "General University Folder/3. Resources/Seeley and Haddon library.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
+                "file": "General University Folder/3. Resources/Seeley and Haddon library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md"
+                "file": "General University Folder/3. Resources/Seeley and Haddon library.md"
               }
             }
           },
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,35 +195,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ea99d8ddb30ab8ba",
+  "active": "1250cbfafdf35d0c",
   "lastOpenFiles": [
-    "Sociology/Notes/Bibliography Notes/Manifesto of the Communist Party.md",
-    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
-    "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
-    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
-    "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
-    "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
-    "The theory of duty, authority and obligation in Politics.md",
     "General University Folder/3. Resources/Deadlines.md",
-    "Sociology/Resources/Deadlines for Sociology.md",
-    "Sociology/Resources/List of lectures for SOC.md",
-    "General University Folder/3. Resources/Seeley and Haddon library.md",
-    "International Relations/Notes/Lecture and Focused Notes/Placeholder.md",
-    "International Relations/Resources/Deadlines for IR.md",
-    "Karl Marx.md",
     "General University Folder/3. Resources/Important events for societies.md",
     "General University Folder/3. Resources/Contact information for lectures.md",
-    "General University Folder/3. Resources/What to do today!.md",
-    "General University Folder/1. Projects/Fresher's Week/A list of mandatory freshers events..md",
-    "General University Folder/1. Projects/Fresher's Week/Freshers timetable p1.png",
+    "General University Folder/2. Areas/Friends/College Family.md",
+    "General University Folder/1. Projects/Google Calendar.md",
+    "General University Folder/1. Projects/Pembroke/Local Supermarkets.md",
+    "Untitled.canvas",
+    "General University Folder/3. Resources/Seeley and Haddon library.md",
+    "General University Folder/4. Archives/Placeholder.md",
+    "International Relations/Resources/Deadlines for IR.md",
+    "Templates/Admonition callouts.md",
+    "Max Weber.md",
+    "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
+    "Politics/Resources/List of lectures for Politics.md",
     "General University Folder/1. Projects/Pembroke/A map of Pembroke.md",
     "General University Folder/1. Projects/Pembroke/Cafes, Coffee Shops and Eateries.md",
-    "General University Folder/1. Projects/Pembroke/Local Supermarkets.md",
-    "Social Anthropology/Resources/List of lectures for SAN.md",
-    "Social Anthropology/Resources/Deadlines for SAN.md",
-    "International Relations/Resources/List of lectures for IR.md",
+    "Social Anthropology/Notes/Bibliography notes/Nightwork, sexuality, pleasure and corporate masculinity in a Tokyo hostess club.md",
+    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
+    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
+    "General University Folder/3. Resources/What to do today!.md",
+    "The theory of duty, authority and obligation in Politics.md",
+    "Sociology/Notes/Bibliography Notes/Manifesto of the Communist Party.md",
+    "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
+    "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
+    "Sociology/Resources/Deadlines for Sociology.md",
+    "General University Folder/4. Archives/Fresher's Week/Freshers timetable p1.png",
     "Social Anthropology/Archived Material/Untitled",
     "Obsidian-Vault-Cambridge",
     "Remote-Vault",
@@ -243,7 +243,6 @@
     "International Relations/Resources/Deadlines for IR",
     "International Relations/Notes/Lecture and Focused Notes",
     "International Relations/Notes/Bibliography Notes",
-    "International Relations/Resources",
-    "Untitled.canvas"
+    "International Relations/Resources"
   ]
 }
