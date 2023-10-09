@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Clair de Lune",
+  "cssTheme": "Dracula for Obsidian",
   "enabledCssSnippets": [
     "autofading-ui",
     "bigger-link-popup-preview",
