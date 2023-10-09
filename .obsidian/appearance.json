@@ -1,7 +1,7 @@
 {
-  "accentColor": "",
-  "theme": "obsidian",
-  "cssTheme": "Dracula for Obsidian",
+  "accentColor": "#c800ff",
+  "theme": "system",
+  "cssTheme": "Sanctum",
   "enabledCssSnippets": [
     "autofading-ui",
     "bigger-link-popup-preview",
@@ -14,5 +14,8 @@
     "nicer-checkboxes",
     "stylish-blockquotes",
     "tag-pills"
-  ]
+  ],
+  "baseFontSize": 17,
+  "translucency": true,
+  "nativeMenus": true
 }

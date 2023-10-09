@@ -16,6 +16,7 @@ SOC:
 What do I want to do this week starting the 09/10/23?
 
 For Monday, start IR reading, continue anthropological reading, finish book 2
+Also, buy chocolate, nail-clippers.
 
 Book 2: look for summaries (no time for all that)
 
