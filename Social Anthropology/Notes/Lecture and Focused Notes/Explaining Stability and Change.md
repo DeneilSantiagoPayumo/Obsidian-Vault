@@ -1,5 +1,7 @@
-
-## Send to Grace and Finley!
+Lecture: Concept, puzzles and theories
+Date: 06-10-23
+Lecturer: Matei Candea
+Tags: [[Conceptual Tools]]
 
 He will talk about evolutionism and Functionalism.
 

@@ -95,7 +95,7 @@ This is a similar pattern of many European agents in Asia who find themselves tr
 
 ```ad-question
 title: Two questions to help us understand them:
-collapse: closed
+collapse: open
 First, what was the nature of the encounter between European enterprises and Asian states?
 The second question revolves around the nature of the European response and its focus on adaptation.
 ```

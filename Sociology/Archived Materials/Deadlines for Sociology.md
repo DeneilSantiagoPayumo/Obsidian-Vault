@@ -10,7 +10,3 @@ For the first two weeks of SOC, I need to read:
 - [ ] Brubaker Ethnicity without groups
 - [ ] Yuval-Davis chapter 4-8
 
-
->[!Quote] Quote
->I am available Monday afternoon (October 9th, 2023) between 4:00 -5:30 pm and Tuesday 3:00-4:30 pm (October 10th, 2023) for the initial whole group meeting.
->Otherwise we can all meet at either Homerton or the Faculty of Education – it is just a wee distance from Pembrooke for students.
