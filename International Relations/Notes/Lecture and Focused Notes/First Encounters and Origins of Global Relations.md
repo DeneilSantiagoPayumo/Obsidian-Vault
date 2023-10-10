@@ -1,7 +1,6 @@
 Lecture: First Encounters and Origins of Global Relations
 Date: 09-10-23
 Lecturer: Sharman
-Tags: [[]]
 
 ---
 ## Lecture notes:
@@ -57,7 +56,7 @@ Third, there was the exchange of disease - things like smallpox, common cold or 
 There was also animals not seen that were exchanged: horses, cattle, pigs, crops, sugar, bananas.
 This was something known as the Columbia exchange.
 
-There was a figure named [[Lockheart]] who said one of the bad habits we have is reading history backwards: Europeans (mainly the Ports) won in the end so therefore they must've won from the beginning, with the Americans losing. This is a deeply wrong idea as for a long time (at least 100 years or longer) Europeans were pretty marginal and most of the population of the America went in regards to their business as before.
+There was a figure named [[Lockhart]] who said one of the bad habits we have is reading history backwards: Europeans (mainly the Ports) won in the end so therefore they must've won from the beginning, with the Americans losing. This is a deeply wrong idea as for a long time (at least 100 years or longer) Europeans were pretty marginal and most of the population of the America went in regards to their business as before.
 
 
 Even if European monarchs said: "I'm in charge" and such, that doesn't make it so: that these aspirations were delusional boasts for decades and over a century after the point they were made.
@@ -81,15 +80,4 @@ The world recognizably became one place within the 1500s to 1600s created this t
 Lastly, people get on best when they can't understand each other: this is not always the case and that at least in these early modern encounters of people between these cultural backgrounds, misunderstandings would've been best. The real violence came when Europeans forced people to understand European ideas and these international relations were carried on the basis of local rules became reinterpreted as European ways of understanding things.
 
 This is the subject of a different lecture.
-
-
-
-## Questions I had:
-
-> [!Question] Question
-> Place question here
-
-
-> [!Question] Question
-> Place question here
 ## Summary:

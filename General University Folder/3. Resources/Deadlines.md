@@ -15,13 +15,22 @@ SOC:
 
 What do I want to do this week starting the 09/10/23?
 
-For Monday, start IR reading, continue anthropological reading, finish book 2
-Also, buy chocolate, nail-clippers.
+MONDAY: SOC, IR
 
-Book 2: look for summaries (no time for all that)
+Exception: read pt 2 of anthropology, maybe 3?
+Complete the rest of IR reading (lockhart)
 
-For Tuesday, start Du Bois + Durkheim, finish anthropological reading
+TUESDAY: SAN, POL
 
-For Wednesday, finish Durkheim (if not done so already) and finish anything else
+Start SAN lecture reading
+Start Hobbes (second half), introductions and conclusions
 
-Add more!
+WEDNESDAY: SOC, IR
+
+THURSDAY: SAN, POL
+
+FRIDAY: SOC, IR
+
+SATURDAY: SAN, POL
+
+SUNDAY: SOC, IR

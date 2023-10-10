@@ -8,3 +8,5 @@ Take a look at the table of contents after I do the supervision for anything
 
 SAN1 Lecturer - Barbara Bodenhorn
 SOC1 Lecturer - Jo Dillabough
+
+bb106 - Barbara

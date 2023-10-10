@@ -1,4 +1,4 @@
-Tags: [[The theory of duty, authority and obligation in Politics]]
+Tags: [[Hobbes, the Leviathan]]
 ## Political Obligation
 
 Political obligation is the duty incumbent on any person or set of person legitimately subject to a legitimate political authority to obey the legitimate commands of that authority (Hobbes, pg. 32)

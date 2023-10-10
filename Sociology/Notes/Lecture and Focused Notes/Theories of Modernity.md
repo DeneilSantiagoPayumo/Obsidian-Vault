@@ -1,7 +1,6 @@
 Lecture: Sociology (Soc1) - Lecture 1A
 Date: 05-10-23
 Lecturer: Patrick Baert
-Tags: [[Karl Marx]], [[Max Weber]], [[Emile Durkheim]] and [[W.E.B Du Bois]]
 
 ---
 For now, we will focus on Marx, Weber, Durkheim and Du Bois.

@@ -1,6 +1,5 @@
 *Page 221 - 248*
-This topic links into [[Theories of Modernity]] and [[Karl Marx]]
-This has ties to [[Religion]] and [[Capitalism]]
+This topic links into [[Theories of Modernity]]
 
 ---
 ## The Poverty of Philosophy.

@@ -64,5 +64,21 @@
       ],
       "key": "A"
     }
+  ],
+  "window:zoom-in": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "="
+    }
+  ],
+  "window:zoom-out": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "-"
+    }
   ]
 }

@@ -1,7 +1,7 @@
 Lecture: Concept, puzzles and theories
 Date: 06-10-23
 Lecturer: Matei Candea
-Tags: [[Conceptual Tools]], [[Lenin]]
+Tags: [[Conceptual Tools]]
 
 ---
 ## (Conceptual Tools)

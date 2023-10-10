@@ -1,5 +1,4 @@
-This ties into [[Theories of Modernity]] and [[Emile Durkheim]]
-This links to [[Capitalism]]
+This ties into [[Theories of Modernity]] 
 
 ### Introduction:
 This should be read within the context of the attempts to come to grips with the complex division of labour that emerged with the industrial revolution - best understood as an attempt to define and come to grips with an unprecedented system
@@ -15,7 +14,7 @@ The final product was the result of the integration of the work of a great numbe
 
 Durkheim, compared to Marx and others, was more perturbed of the 'abnormal' conditions of labour: how will a complex and advanced system of division affect cohesion and solidarity of societies. How could the autonomy of the individual be reconciled with the necessary regulation and discipline? How can social bonds be maintained.
 
-The twofold distinction between labour was in tune with nineteenth-century thought, [[Spencer]]'s distinction between military and industrial societies, [[Maine]]'s societies based on status as against those based on contract and above all, [[Tonnies]]'s distinction between Gemeinschaft and Gesellschaft. Whereas these two were convinced that human evolution has led to individualism and a decline of societal regulation, Durkheim was convinced without social solidarity individualism would lead to the decay of society.
+The twofold distinction between labour was in tune with nineteenth-century thought, Spencer's distinction between military and industrial societies, Maine's societies based on status as against those based on contract and above all, Tonnies's distinction between Gemeinschaft and Gesellschaft. Whereas these two were convinced that human evolution has led to individualism and a decline of societal regulation, Durkheim was convinced without social solidarity individualism would lead to the decay of society.
 
 Spencer and Maine believed that freely engaged contract between individuals were gradually replacing obsolete solidarities and regulation whereas Durkheim objected that individual contracts could not lay the foundation of a social order and contracts could only be engaged on an already existing moral order. Contracts therein presuppose social order but cannot form its foundation - it hasa primacy over individually motivated actions.
 
@@ -35,7 +34,7 @@ Durkheim stresses that the collective consciousness in the world of modernity ca
 
 This world is marred by a variety of pathological phenomena, the industrial scene characterised by hostility and struggle between labour and capital, normlessness, lack of regulation and so on. Durkheim argues that these normal states of affairs, class struggles and commercial crises, are abnormal and pathological.
 
-Durkheim finds a solution in the ideas of [[Saint-Simon]] and [[August Comte]], that there were indeed 'organic' periods of harmony and 'critical' periods of transition.
+Durkheim finds a solution in the ideas of Saint-Simon and August Comte, that there were indeed 'organic' periods of harmony and 'critical' periods of transition.
 
 The division of labour is 'abnormal', one standing from 'forceful imposition' that weakens human enterprise. Though Durkheim was by no means averse to state intervention, his action for saving this society did not include state action: state action is too far removed from the lives of ordinary men and women to be of much utility in overcoming the contemporary anomic and forced division of labour - what was required here was the re-emergence of 'secondary institutions' - a concept conceived by Tocqueville.
 

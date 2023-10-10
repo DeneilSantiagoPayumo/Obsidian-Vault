@@ -262,10 +262,31 @@ Children and fools cannot be authors.
 
 There are two sorts of authors: one that owns the action of another, and the other that undertakes it at another, or before, a certain time. There are called "*SURETYES.*"
 
+```ad-quote
+title: And this leads to political disorder (Leviathan, chapter 16)
+"And divers men, differ not onely in their Judgement, on the senses of what is pleasant, and unpleasant to the taste, smell, hearing, touch, and sight; but also of what is conformable, or disagreeable to Reason, in the actions of common life. Nay, the same man, in divers times, differs from himselfe; and one time praiseth, that is, calleth Good, what another time he dispraiseth, and calleth Evil: **From whence arise Disputes, Controversies, and at last War**."
+```
 
+```ad-quote
+title: The act of creating a sovereign creates unity where there was none (Leviathan, chapter 16)
+"**It is the unity of the representer, not the Unity of the Represented, that maketh the Person One.** And it is the Representer that beareth the Person, and but one person. And Unity cannot otherwise be understood in Multitude."
+```
 
-**Sixteen more to go!**
---- 
-A more concise version of this text can be found in [[Hobbes Introduction ix-xxxvi]]
+---
+# PART 2
 
+The final cause of men in the introduction of that restraint upon themselves ... is the foresight of their own preservation, and of a more contented life thereby; that is to say, getting themselves out from the miserable condition of war which is necessarily consequent, as hath been shown, to the natural passions of men when there is no visible power to keep them in awe, and tie them by fear of punishment to the performance of their covenants.
 
+For the laws of nature as justice, equity, modesty, mercy, in sum, doing to others as we would be done to, of themselves, without the terror of some power to cause them to be observed.
+
+For the laws of nature doing to others as we would be done to ... without the terror of some power to cause them to observed, are contrary to our natural passion, that carry us to partiality. Therefore, notwithstanding the laws of nature, if there be no power erected, every man will lawfully rely on his own strength and art for caution against all other men.
+
+Nor is it the joining together of a small number of men that gives them this security ... small additions on the one side or the other make the advantage of strength so great as is sufficient to carry the victory, and therefore gives encouragement to an invasion.
+
+And be there never be so great a multitude ... for being distracted in opinions concerning the best use and application of their strength, they do not help, but hinder one another.
+
+Nor is it enough for their security, which men desire should last all the time, they they be governed and directed ... fall again into a war amongst themselves.
+
+It is true that certain living creatures, as bees and ants, live sociably one with another and yet have no other direction than their particular judgements and appetites; nor speech.
+
+First, men are continually in competition for honour and dignity, which these creatures are not

@@ -4,7 +4,6 @@
 >[!abstract]
 >This chapter explains Hobbes' idea around the Sovereign, explaining that there are no limitations on who or what sovereigns can do, and suggests these ideas are radical
 
-Tags: [[The theory of duty, authority and obligation in Politics]]
 This passage links to [[Hobbes, the Leviathan]]
 
 ---
