@@ -83,7 +83,7 @@ The key variable responsible for triggering an immediate divergence from the Col
 
 It's equivalent (the expansion dispatched to the sovereign) between the acts highlight the divergent nature of the European experience: while da Gama approached Calicut with caution, its ruler was a minor potentate with no great influence. Whereas, Europeans thrust into contact with states like Ming China, Mughal India and Tokugawa Japan filled politics with trepidation.
 
-If we want to see a representative to stand in for European expansion, we could look at [[Jonathan Swift]]'s mariner Lemuel Gulliver who runs into a succession of states and rulers. Each time, he is left impotent and uncertain - in the kingdom of Lilliput, Swift's hero stumbles upon a realm populated by inhabitants less than one tenth his stature, and forced to render military service and to prostrate himself before the monarch.
+If we want to see a representative to stand in for European expansion, we could look at Jonathan Swift's mariner Lemuel Gulliver who runs into a succession of states and rulers. Each time, he is left impotent and uncertain - in the kingdom of Lilliput, Swift's hero stumbles upon a realm populated by inhabitants less than one tenth his stature, and forced to render military service and to prostrate himself before the monarch.
 
 On the island of Brobdingnag, Gulliver finds himself in a society of giants threatened by tiny creatures. He is forced to become a plaything, and faced by the Houyhnhnms, an intelligent horse-like species, he loses all faith in European civilization.
 

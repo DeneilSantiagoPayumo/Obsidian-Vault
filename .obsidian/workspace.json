@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+                "file": "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+                "file": "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+                "file": "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md"
+                "file": "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md"
               }
             }
           },
@@ -207,11 +206,21 @@
   },
   "active": "1f894995e0f71fa4",
   "lastOpenFiles": [
+    "Politics/Projects/A Hobbesian Supervision..md",
+    "Untitled.md",
+    "Z. Root",
+    "Z. Root/Z. Misc/Deadlines.md",
+    "Z. Root/Z. Misc",
+    "Z. Root/Z. Misc/Seeley and Haddon library.md",
+    "International Relations/Pembroke/3. Resources/Important events for societies.md",
+    "International Relations/Pembroke/3. Resources/Contact information for lectures.md",
+    "Z. Root/Z. Misc/Study skills.md",
+    "International Relations/Pembroke/Local Supermarkets.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
     "International Relations/Notes/Bibliography Notes/International Orders in the Early Modern World, Before the Rise of the West..md",
     "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
     "International Relations/Notes/Lecture and Focused Notes/First Encounters and Origins of Global Relations.md",
     "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
     "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
     "Sociology/Notes/Bibliography Notes/The Division of Labour in Society.md",
     "Spencer.md",
@@ -225,17 +234,9 @@
     "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
     "Sociology/Notes/Bibliography Notes/Manifesto of the Communist Party.md",
     "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
-    "Malinowksi.md",
-    "Politics/Resources/List of lectures for Politics.md",
-    "General University Folder/1. Projects/Politics Supervision/A Hobbesian Supervision..md",
-    "The theory of duty, authority and obligation in Politics.md",
-    "General University Folder/1. Projects/IR Supervision/Power, Sovereignty, State Supervision.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "General University Folder/2. Areas/Ongoing Supervisions/Supervision deadline.md",
-    "International Relations/Archived Material/Placeholder.md",
-    "General University Folder/1. Projects/IR Supervision",
-    "General University Folder/3. Resources/Study skills.md",
+    "International Relations/Projects/IR Supervision",
     "General University Folder/1. Projects/Politics Supervision",
     "General University Folder/2. Areas/Ongoing Supervisions",
     "General University Folder/4. Archives/Fresher's Week/Freshers timetable p1.png",
@@ -243,17 +244,15 @@
     "Obsidian-Vault-Cambridge",
     "Remote-Vault",
     "Github Repo",
-    "Z. Photo Dump/Pasted image 20230925153356.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20230925153356.png",
     "Politics/Notes/Bibliography notes/Hobbes",
-    "Z. Photo Dump/Pasted image 20231003170944.png",
-    "Z. Photo Dump/Pasted image 20231004121143.png",
-    "Z. Photo Dump/Pasted image 20231004121119.png",
-    "Z. Photo Dump/Pasted image 20231004121114.png",
-    "Z. Photo Dump/Pasted image 20231004121105.png",
-    "Z. Photo Dump/Pasted image 20231004121050.png",
-    "Z. Photo Dump/Pasted image 20231004121040.png",
-    "Z. Photo Dump/Pasted image 20231004121015.png",
-    "International Relations/Resources/List of lectures for IR",
-    "International Relations/Resources/Deadlines for IR"
+    "Z. Root/Z. Photo Dump/Pasted image 20231003170944.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231004121143.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231004121119.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231004121114.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231004121105.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231004121050.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231004121040.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231004121015.png"
   ]
 }

@@ -12,3 +12,6 @@ How will you structure this essay?
 *Why, for Hobbes, should subjects obey the sovereign?*
 
 Is this truly right?
+
+No, to what extent? Can this be applied to the modern society?
+

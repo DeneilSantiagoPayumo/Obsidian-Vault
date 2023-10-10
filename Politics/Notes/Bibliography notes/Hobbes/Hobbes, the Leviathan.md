@@ -289,4 +289,112 @@ Nor is it enough for their security, which men desire should last all the time, 
 
 It is true that certain living creatures, as bees and ants, live sociably one with another and yet have no other direction than their particular judgements and appetites; nor speech.
 
-First, men are continually in competition for honour and dignity, which these creatures are not
+First, men are continually in competition for honour and dignity, which these creatures are not, resulting in war.
+Secondly, amongst these creatures the common good differ not from the private; and being by nature they procure thereby the common benefit. Man, whose joy is in comparing himself with other men, can relish nothing but eminent.
+Thirdly creatures cannot use reason, do not see, nor think they see, any fault in the administration of their common business whereas amongst men there are very many that think themselves wiser and able to govern the public.
+Fourthly, these creatures can make known their desire and other affection but they lack the art of words which some men can represent to others that which is good in the likeness of evil.
+Fifthly, irrational creatures cannot distinguish between injury and damage; they are not offended with their fellows; whereas man is then most troublesome when he is most at ease; for then it is that he loves to show his wisdom and control the action of them that govern the Commonwealth.
+Lastly, the agreement of creatures is natural whereas men is by covenant only.
+
+The only way to erect such a common power is to confer their power upon one man, or one assembly of man ... acknowledging himself to be the author of whatsoever he that so beareth their person shall act, or cause to be acted.
+
+This is more than consent, or concord; it is a real unity of them all in one and the same person. This multitude so united in one person is called a Commonwealth. This is the generation of that great Leviathan.
+
+He that carries the power is called the sovereign.
+
+You attain this in two ways: one, by natural force; as when a man maketh his children to submit themselves to his government as being able to destroy them if they refuse; or by war subdue his enemies to his will, giving them their lives on that condition.
+
+The other condition is when men agree amongst themselves to submit to some man, or assembly of man.
+
+## XVIII: Of the Rights of Sovereigns by Institution
+
+A commonwealth is said to be made when a multitude of men do agree and ... shall be given by the major part of the right to present the person of them all ... to be their representative.
+
+From this institution are derived all the rights and faculties of him.
+
+First, because they're a covenant they're not to be obliged by any former covenant.
+
+They cannot lawfully make a new covenant without the sovereign's permission.
+
+It is injustice for a man to do anything for which he may be punished by his own authority, he is also upon that title unjust. And whereas some men have pretended for their disobedience to their sovereign a new covenant, mamde, not with men but with God, that this also is unjust. This pretence of covenant with God is evidently a lie.
+
+Secondly, because the right of bearing the person of them all is given to him they make sovereign, by covenant only of one to another, and not of him to any of them, there can happen no breach of covenant on the part of the sovereign; and consequently none of his subjects ... can be freed from his subjections.
+
+With the whole, as one party, it is impossible, because as they are not one person: and if he make so many several covenants as there be men, those covenants after he hath the sovereignty are void; because what act soever can be pretended by any one of them for breach thereof is the act both of themselves.
+
+Every man has the right to defend himself, contrary to the design they had in the institution.
+
+It is in vain to grant sovereignty by way of precedent covenant.
+
+When an assembly of men is made sovereign, then no man imagines any such covenant to have passed in the institution. That men are not the reason to be alike in a monarchy and in a popular government proceed from the ambition of some that are kinder to the government.
+
+Thirdly, because the major part has declared a sovereign, he that dissents must consent with the rest or be destroyed - sufficiently declared thereby his will and therefore tacitly covenanted.
+
+Fourthly, because every subject is by this institution author of all the actions and judgements of the sovereign instituted, none of what he can do is injury or be accused of injusticed.
+
+Fifthly, no man that holds sovereign power can justly be put to death, for seeing every subject is author of the actions of his sovereign, he punisheth another for the actions committed by himself..
+
+Sixth, is to the sovereign to be the judge of what opinions are adverse.
+
+There may be 'false doctrines' but at the same time, for men that are so governed they dare take up arms to defend or introduce an opinion are still in war.
+
+Seventhly, the sovereign may prescribe what goods he may enjoy and what actions he may do.
+
+Eighth, the sovereign is the justiciar - hearing and deciding all controversies with may arise.
+
+Ninth, the sovereign may make war and peace with other nations. It is their ideas and choice.
+
+Tenth, the sovereign can choose all the counsellors, ministers, magistrates and officers.
+
+Eleventh, the sovereign is committed the power of rewarding with riches or honour; of punishing with corporal or pecuniary punishment or with ignominy, every subject according to the law they had made.
+
+Lastly, considering what values men are naturally apt to set upon themselves, it is necessary to say that there be laws of honour, and a public rate of the worth of such men as have deserved or are able to deserve well in the Commonwealth.
+
+These are the rights that make sovereignty.
+
+The sovereign is indivisible.
+
+Man may object that the condition of subject is miserable under unlimited power - but that's still better than the horrible calamities that accompany a civil war, or that dissolute condition of masterless men.
+
+## XIX: Of the Several Kinds of Commonwealth by Institution, and of Succession to the Sovereign Power
+
+The differences of Commonwealths consistent in the difference of the sovereign: a man, an assembly of men and so on.
+
+There are three types: a monarchy, n aristocracy and a democracy.
+
+It is manifest that men who are in absolute liberty may give authority to one man to represent them every one, as well as give such authority to any assembly of men whatsoever; and consequently may subject themselves. Therefore, where there is already erected a sovereign power, there can be no other representative of the same people, but only to certain particular ends.
+
+The difference between these three kinds is the aptitude to produce the peace of the people. To compare monarchy with the other two, we may find that: first, that who bears the person of the people, bears his own natural person - and is careful to procure the private good of himself, his family, kindred and friends. The riches, power, and honour of a monarch arises only from the riches, strength, and reputation of his subjects.
+
+Secondly, that a monarch can receive counsel of whom, when and where he pleases and consequently may hear the opinion of men versed in the matter about which he deliberates. When a sovereign assembly has need of counsel, none are admitted but such as have a right thereto from the beginning.
+
+Thirdly, that the resolutions of a monarch are subject to no other inconstancy than that of human nature; but in assemblies, there may be an inconstancy from the number: for the absence of a few that would have the resolution, once taken, continue firm, or the diligent appearance of a few of the contrary opinion.
+
+Fourth, that a monarch cannot disagree with himself, out of envy or interest, but an assembly may.
+
+Fifthly, in monarchy there is this inconvenience that any subject may be deprived of all he possess, but at the same time this could be to a sovereign for their power is the same, and they could be subject to an evil counsel. Whereas the favourites of a monarch are few, the favourites of an assembly are many.
+
+Sixthly, it is an inconvenience in monarchy that the sovereignty may descend upon an infant or one that cannot discern between good and evil, that their power be given to someone else. But there is still another inconvenience in putting the use of the sovereign power into a hand of a man, or an assembly of men, is to say that all governments is more inconvenient than confusion or civil war.
+
+Should there be any contention arise to the disturbance of the public peace, it is to the ambition of subjects and ignorance of their duty. On the other side, there is no great Commonwealth, the sovereignty whereof is in a great assembly, as to consultations of peace, and war, and making of laws, in the same condition as if the government were in a child. For as a child wants the judgement to dissent form counsel given him, and is thereby necessitated to take the advice of them or him to whom he is committed.
+
+A child is in need of a tutor to preserve their person or authority, as in great commonwealths the sovereign assembly need the dictators or protectors of their authority.
+
+If a sovereign dies, they must provide another successor before doing so, or elect one (or give someone the power to elect one).
+Secondly, that king whose power is limited is not superior to him, or them, that have the power to limit it; and he that is not superior is not supreme, not sovereign.
+
+Thirdly, the Roman people - where people are governed by an assembly chosen out of their number, the government is called a democracy yet when they are governed by an assembly not of their choosing it is called a monarchy.
+
+When whole assemblies die, it is necessary for the conservation of the peace of men that as there was order taken for an artificial man, that there be order also taken for an artificial eternity of his life.
+
+There is no perfect form of government.
+
+In a democracy, the assembly can't fall until the multitude that are to be governed fall.
+In an aristocracy, when any of the assembly die, the election of another belonged to the assembly.
+The greatest difficulty about the succession of right - it is not manifest who is to appoint the successor.
+
+122
+
+
+228 - 119
+
