@@ -334,7 +334,7 @@ Fourthly, because every subject is by this institution author of all the actions
 
 Fifthly, no man that holds sovereign power can justly be put to death, for seeing every subject is author of the actions of his sovereign, he punisheth another for the actions committed by himself..
 
-Sixth, is to the sovereign to be the judge of what opinions are adverse.
+Sixth, is to the sovereign to be the judge of what opinions are adverse. He is the judge of what opinions and doctrines destroy peace, and what leads to peace.
 
 There may be 'false doctrines' but at the same time, for men that are so governed they dare take up arms to defend or introduce an opinion are still in war.
 
@@ -348,11 +348,9 @@ Tenth, the sovereign can choose all the counsellors, ministers, magistrates and 
 
 Eleventh, the sovereign is committed the power of rewarding with riches or honour; of punishing with corporal or pecuniary punishment or with ignominy, every subject according to the law they had made.
 
-Lastly, considering what values men are naturally apt to set upon themselves, it is necessary to say that there be laws of honour, and a public rate of the worth of such men as have deserved or are able to deserve well in the Commonwealth.
+Lastly, considering what values men are naturally apt to set upon themselves, it is necessary to say that there be laws of honour, and a public rate of the worth of such men as have deserved or are able to deserve well in the Commonwealth. Essentially, these make men models of behaviour.
 
-These are the rights that make sovereignty.
-
-The sovereign is indivisible.
+These are the rights that make sovereignty. These rights cannot be assigned to another.
 
 Man may object that the condition of subject is miserable under unlimited power - but that's still better than the horrible calamities that accompany a civil war, or that dissolute condition of masterless men.
 
@@ -364,21 +362,26 @@ There are three types: a monarchy, n aristocracy and a democracy.
 
 It is manifest that men who are in absolute liberty may give authority to one man to represent them every one, as well as give such authority to any assembly of men whatsoever; and consequently may subject themselves. Therefore, where there is already erected a sovereign power, there can be no other representative of the same people, but only to certain particular ends.
 
-The difference between these three kinds is the aptitude to produce the peace of the people. To compare monarchy with the other two, we may find that: first, that who bears the person of the people, bears his own natural person - and is careful to procure the private good of himself, his family, kindred and friends. The riches, power, and honour of a monarch arises only from the riches, strength, and reputation of his subjects.
+The difference between these three kinds is the aptitude to produce the peace of the people. To compare monarchy with the other two, we may find that: first, that who bears the person of the people, bears his own natural person - and is careful to procure the private good of himself, his family, kindred and friends. The riches, power, and honour of a monarch arises only from the riches, strength, and reputation of his subjects. Therefore, when the two conflict he is likely to choose his own interest over the public, and when the two coincide it is likely to emphasize the public interest.
 
-Secondly, that a monarch can receive counsel of whom, when and where he pleases and consequently may hear the opinion of men versed in the matter about which he deliberates. When a sovereign assembly has need of counsel, none are admitted but such as have a right thereto from the beginning.
+Secondly, that a monarch can receive counsel of whom, when and where he pleases and consequently may hear the opinion of men versed in the matter about which he deliberates. When a sovereign assembly has need of counsel, none are admitted but such as have a right thereto from the beginning. A sovereign assembly may get counsel from demagogues and wonks.
 
-Thirdly, that the resolutions of a monarch are subject to no other inconstancy than that of human nature; but in assemblies, there may be an inconstancy from the number: for the absence of a few that would have the resolution, once taken, continue firm, or the diligent appearance of a few of the contrary opinion.
+Thirdly, that the resolutions of a monarch are subject to no other inconstancy than that of human nature; but in assemblies, there may be an inconstancy from the number: for the absence of a few that would have the resolution, once taken, continue firm, or the diligent appearance of a few of the contrary opinion. The only bad influence on a monarch's resolution come from human nature. The herd-like behaviour in groups can damage the validity of the popularity of the decision.
 
 Fourth, that a monarch cannot disagree with himself, out of envy or interest, but an assembly may.
 
 Fifthly, in monarchy there is this inconvenience that any subject may be deprived of all he possess, but at the same time this could be to a sovereign for their power is the same, and they could be subject to an evil counsel. Whereas the favourites of a monarch are few, the favourites of an assembly are many.
+
+Essentially, in a monarchy, the sovereign can be corrupted by flatters  but in an assembly, the members can be influenced by orators who will have divided opinions on the actions of sovereign government. The monarch, on the other hand, will only try to enrich himself and his family and friends.
 
 Sixthly, it is an inconvenience in monarchy that the sovereignty may descend upon an infant or one that cannot discern between good and evil, that their power be given to someone else. But there is still another inconvenience in putting the use of the sovereign power into a hand of a man, or an assembly of men, is to say that all governments is more inconvenient than confusion or civil war.
 
 Should there be any contention arise to the disturbance of the public peace, it is to the ambition of subjects and ignorance of their duty. On the other side, there is no great Commonwealth, the sovereignty whereof is in a great assembly, as to consultations of peace, and war, and making of laws, in the same condition as if the government were in a child. For as a child wants the judgement to dissent form counsel given him, and is thereby necessitated to take the advice of them or him to whom he is committed.
 
 A child is in need of a tutor to preserve their person or authority, as in great commonwealths the sovereign assembly need the dictators or protectors of their authority.
+
+Essentially, a regent must look after the monarch as well as sovereign power to preserve peace and stability. An assembly on the other hand may stray from this path and commit treachery and instability.
+
 
 If a sovereign dies, they must provide another successor before doing so, or elect one (or give someone the power to elect one).
 Secondly, that king whose power is limited is not superior to him, or them, that have the power to limit it; and he that is not superior is not supreme, not sovereign.
@@ -393,8 +396,270 @@ In a democracy, the assembly can't fall until the multitude that are to be gover
 In an aristocracy, when any of the assembly die, the election of another belonged to the assembly.
 The greatest difficulty about the succession of right - it is not manifest who is to appoint the successor.
 
-122
+## XX: Of Dominion Paternal and Despotical
+
+A commonwealth of acquisition is acquired by force when the majority of men in it authorize the sovereign's actions for fear of death or bonds.
+
+This differs from sovereignty of institution in that subjects subject themselves to the one they fear rather than choosing someone to protect them for foreign aggressors or civil instability.
+
+In both cases, sovereignty proceeds from fear of death or violence - the only source of violence that's different. Once the commonwealth is established or acquired, all prior agreements based on fear are null and void.
+
+The rights and consequences of the sovereign are the same - power can't be transferred to another without the sovereign's consent.
 
 
-228 - 119
+Dominion by conquest is sometimes called despotical. To avoid death, the defeated agrees to be subject so long as he maintains the liberty of his body.
+
+In this case, the vanquished is a servant and isn't meant to be a captive in a prison or in bonds. These would be slaves and have no obligation to obey the captor at all.
+
+It's not the victory that gives dominion but the covenant between the victor and the vanquished after the end of war.
+
+In the case of quarter, it is just an attempt to postpone the victor's fury - when the vanquished's life is secure, a covenant can be bargained for.
+
+The master of the servant is master of everything belonging to the servant: this is a covenant of obedience and a violation of it can result in the master killing or enslaving him. But the servant agreed to these.
+
+
+## C XXI - Of the Liberty of Subjects
+
+Liberty merely means the absence of opposition and can be applied to irrational and inanimate creatures. All living creatures restrained by external impediments aren't free.
+
+A free man is free in that he's not hindered.
+Fear and liberty are consistent. A man pays a debt because he fears imprisonment. All actions men do in commonwealth are done when the actor have the liberty to do so.
+Liberty and necessity are consistent. Men's actions are done voluntarily because they come from their will.
+When men create a sovereign, their liberty lies on what the sovereign hasn't made laws on: buying, selling, establishing contracts, choosing a home, one's diet, career and education.
+
+But the sovereign's power of life and death is not abolished: a man could be put to death and it wouldn't be an injury.
+
+We measure one's liberty by the number of things he can refuse to do that the Sovereign commands. The subject can:
+
+1. Defend themselves against those who invade
+2. Don't have to kill themselves
+3. Don't have to hurt themselves
+4. Don't have to fight an enemy if that can supply a substitute soldier
+5. No man can resist the commonwealth on behalf of another whether guilty or innocent
+6. A subject's liberty is enhanced by the silence of the law on the matter
+7. If a subject has a complaint, they can sue the government: but if he is onyl put out by the government due to the nature of the laws, it is null.
+8. If a monarch's disabled, any grants given in his name are full as they aren't from his will
+9. The subject is obligated to the sovereign as long as the sovereign is able to protect him
+10. If a subject is taken POW he is subject to the one who took him prisoner
+11. If the sovereign relinquished the government for himself, he restores himself and his subjects to a state of absolute liberty of nature.
+12. If a subject is banished, he is not obligated to the sovereign
+13. If the sovereign makes himself subject of another sovereign, he delivers his subjects to be subjects of the new sovereign.
+
+
+## XXII - Of Systems Subject Political and Private
+
+There are regular systems: based on a man or group of men constituting a representative of the whole, with any other form irregular.
+
+The power of the representative is always limited and that limit is laid out by the sovereign which itself has absolute sovereignty as it is the representative of all subjects. Splitting that power divided dominion and is contrary to peace and defence.
+
+In a commonwealth of acquisition, the limits need no written laws - they are unwritten laws of nature.
+
+If the representative of a nation is just one man, whatever he does is the law - if the representative is an assembly, what the body decrees is an act of the assembly.
+
+If a monarch borrows money, no one is responsible for paying with it.
+If a representative is a member of an assembly, only the members who voted for the debt are liable for repayment.
+
+In a commonwealth, it's common to see men form corporations to further their cause of buying and selling, exporting and importing goods.
+
+Few merchants need to form such companies but in the case of spreading the cost and risk, they are formed. If those merchants in a corporation contract debt as an act as representatives of the company, every member is liable for the whole.
+
+If a commonwealth imposes a tax on the body, it is understood that the tax is imposed on each member based on his stock in the company.
+
+Private bodies are those that come together without being invoked by the sovereign or sovereign authority - leagues of people cannot claim mutual defence that belongs to the sovereign, cannot contrive the government's guidance and so on.
+
+## XIII - Of the Public Ministers of Sovereign Power
+
+A public minister is one who's been employed to represent the sovereign. A public minister is charged with the general administration of either the whole dominion or a part of it.
+
+There are many ministers - at home, at militia, teachers, jurisdiction, and other public ministers.
+
+## XIV - Of the Nutrition and Procreation of a Commonwealth
+
+This is the amount and distribution of materials, the labour God gives to mankind - animals, plants and minerals.
+
+The distribution of those resources is the source of propriety - ownership. When there's no commonwealth, man is in a perpetual war against his neighbours.
+
+The provision of commodities at home and abroad requires money - exchanged for something of equal value. The sovereign can coin money within his commonwealth.
+
+There's a procreation of a commonwealth called plantations or colonies where men are sent out outside a commonwealth under a governor to live in it.
+
+## XXV - Of Counsel
+
+Counsel / Advice - when someone says 'do this' or 'don't do that' out of benefit of the listener, whereas command is when someone says 'do this.'
+
+it is not fair to punish the listener for not doing as he's been advised - it is for his own benefit, he's the loser for not obeying.
+
+The one asking for advice has no right to punish the adviser since he asked for it.
+
+Exhortation and dehortation (urging and dissuading) are forms of advice that benefit the counsellor and not the counselled. They are mainly used on assemblies as with one listener, the counselled can always stop to reflect on what is being said. Those who do this are corrupt and bribed by their own interest.
+
+What makes a good advisor is his: own experience, make the consequence of his advice be apparent, must have had time to mediate on the subject, must know all intelligence.
+
+If there are many counsellors they must be listened separately than altogether.
+
+## XXVI - Of Civil Laws
+
+Civil laws are laws that men are bound to observe because they're members of a commonwealth.
+
+Law isn't advice, it's a command from the sovereign to the subject to show what is right and wrong (from the sovereign's will to show what is right and wrong).
+
+The only legislator in a commonwealth is the sovereign.
+The sovereign is not subject to civil laws.
+The length of time makes no difference in a law's authority but the will of the sovereign shown through his silence.
+The law of nature and civil law aren't equal: laws of nature consists of fairness whereas civil law is written to restrain the liberty of men so they don't hurt each other.
+If the sovereign conquers another people's, laws are carried over (with consent)
+All laws come from the will of the commonwealth's sovereign, allowing Parliament to write laws in his name.
+Laws can never be against reason. That said, overstudying law can lead to corruption of it.
+The commonwealth is law only to those who notice it. Children and fools are able to avoid laws as they don't have the power to agree or understand consequences.
+
+If a law obliges everyone without exception and obliges some condition on men and isn't punished, it is a law of nature.
+
+In written laws, there's a difference between the letter of the law and the meaning of it.
+
+The things that make a good judge:
+1. Right understanding of equity
+2. Contempt of unnecessary riches
+3. Able in judgement to divest himself of fear
+4. The patience to hear
+
+Another division of laws: natural and positive
+Natural laws are laws from all eternity consisting in moral values
+Positive results in two kinds - distributive, those that determine the subject's rights, and penal - those that declare what penalties will be imposed on those who violate law and tell the minister and officers who to execute punishment.
+Divine laws are impossible to discern.
+
+Fundamental laws are laws that ensure the commonwealth stay afloat.
+
+
+## XXVII - Of crimes, Excuses and Extenuations
+
+To break the law is to show contempt for the one meant to execute it.
+
+A crime is a sin in the commission of an act or word that a law forbids. Every crime is a sin but not every sin is a crime.
+
+To intend to steal or kill isn't against what the law forbids.
+
+The source of every crime is some lack of understanding, error in reasoning, or a sudden uncontrolled passion - defect in understanding (ignorance) and defect in reason (wrong opinion).
+
+A man may be excused if he cannot know the law in foreign lands.
+Ignorance of the penalty is not excused if the law is declared.
+
+Laws made after an act cannot apply to the act.
+
+With lack of reason men can violate the law in 3 ways:
+1. Presumption of false principles, seeing that unjust actions are OK as they see people doing them
+2. Through false teachers
+3. By wrong inferences from true principles - people jumping to conclusions.
+
+Passion causes crime: vanity or overestimating one's own worth.
+
+Crimes coming from this should not be punished as harshly on the poor but on men who think their value is so great they can corrupt their way out of punishment.
+
+Vainglorious men are prone to anger.
+
+The most likely passion to cause men to break the law is fear - fear of bodily harm or death. Man can use force for self-defence.
+
+All crimes fall under 'unjust' but it is not equally unjust. That said, it doesn't take away obligation of the law.
+
+When a man must survive through obeying his captor or whatnot, or if there are contradictions in civil law, or does an action that the sovereign cannot do (as having inconsistent power) he can commit crimes.
+
+When the same act causes more damage it should be punished twicefold.
+Officials committing the same crime should be more dangerous as it causes future damage.
+Acts of hostility against the state are worse than those against private citizens.
+
+
+## XXVIII - Of Punishments and Rewards
+
+Punishment - an evil inflicted by public authority, enticing people to be obedient.
+
+When the commonwealth was formed, every man gave up his right to defend another. The right the commonwealth has to punish isn't grounded on concession, the man had the right to do everything he needed to to save himself.
+
+[Cut for brevity]
+
+1st distribution of punishment: human punishments are caused by order of man
+These revolves around corporal, capital, pecuniary, ignominy (depriving honour given by the commonwealth, and inflicting the doer with evil), imprisonment, exile and so on.
+
+Punishment of an innocent is against the law of nature as punishment is only for the transgression of law, the commonwealth was established to protect the innocent and the law demands equity.
+
+Reward is either a gift or contract (wages or salaries). There are also benefits - sacrifices the sovereign makes to appease those who might be unhappy should they not receive it.
+
+
+## XXIX - Of Those Things That Weaken or Tend to the Dissolution of a Commonwealth
+
+Though nothing mortals make can be immortal, if men use the reason they claim to have, a commonwealth can be secured against internal diseases.
+
+1. The kingdom is content with less power than peace and the people consider it unjust because they're not used to it.
+2. Each man is the judge of good and evil actions, weakening the sovereign's demands.
+3. The idea that what a man does against his conscience is a sin.
+4. When the sovereign is subject to civil war with reduces his power.
+5. When every man has ownership over his goods meaning that the sovereign cannot use all resources to defend themselves externally or internally
+6. When a sovereign power is divided, powers turn in on themselves
+7. Sometimes men will look to their neighbours and be envious - they should not have access to these books
+8. There are those who believe there can be more than 1 sovereign which is awful.
+9. The commonwealth must be able to collect tax to run armies
+10. The commonwealth must have just enough money to not inflate the purses and power of a few men
+11. The popularity of some subjects can be dangerous
+12. When one town in the commonwealth becomes too large, they may levy corporations
+13. When a commonwealth gets too large, the sovereign cannot govern every part
+14. In war, if the commonwealth doesn't come out on top - the sovereignty is dissolved.
+
+## XXX - The Office of the Sovereign Representative
+
+The office of the sovereign has the purpose of procuring the safety of the people - making good lives for people to guide themselves along, as well as public instruction.
+
+The sovereign maintains the rights men had in nature to establish safety for its subjects. If he renounces these rights by stating he's subject to his own laws, he'll lead the country to ruin.
+
+People must understand laws are about stability. They need good writers.
+
+Kids need to be taught not to fall in love with foreign government, not to be smitten over a subject over the sovereign, not to talk bad about the sovereign, must be obedient to their parents (to allow them to be obedient to the sovereign), the sovereign should have justice taught, they should be taught unjust deeds.
+
+The safety of the people require that justice be administered equally.
+Inequality starts from acts of sovereign power - honour is given to encourage good behaviour.
+There must be equal justice with taxes aside from those who cannot survive without them, men should work, laws should be made to allow industries to rise, and the colonists shouldn't mess with natives to situate a growing population.
+
+A good law is one that is clear in the declaration of causes and motives, and is for the good of the people.
+
+Rewards are to reward the subject for the benefit of this all, recompensing them to encourage others to serve faithfully.
+
+The sovereign must choose good counsellors, one on one, and qualified.
+
+
+## XXXI - Of the Kingdom of God by Nature
+
+Men are always subject to divine power. God can use revelations, natural reasons or the voice of an inspired man.
+
+The right of God comes from his power. He is omnipotent.
+
+Duties of man to man are the laws of nature.
+Duties to God are honouring him through external means (worship) to internal means (passions of love, hope and fear), signs of honour in attributes, private worship (performing as a singular person).
+
+Worship is about power for men. If we see another man being worshipped, he is too powerful.
+
+God exists, is created, the cause of it. He is too divine to attribute anything to him - we cannot shape him, ascribe passions to him and so on.
+
+As a commonwealth is one person, it should exhibit one kind of worship - showing gratitude, akin to what the commonwealth should ask of its subjects. God's punishments may appear random but it's clear that man is punished in his own lifetime for his bad behaviour.
+
+It is not possible for disorders of state and change of government by civil war to end until sovereigns become philosophers or philosophers become sovereigns. The science of natural justice is the only thing necessary for sovereigns and ministers to study.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

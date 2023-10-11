@@ -14,7 +14,43 @@
       "id": "LdpkKm9r68wZjeF9NLGi6",
       "name": "Pink",
       "value": "#ea34d1"
+    },
+    {
+      "id": "lNzgM2LyjbEfisgAXnFZh",
+      "name": "Orange",
+      "value": "#c68006"
+    },
+    {
+      "id": "l6xqrAr8Aam6YSBlqcdX-",
+      "name": "Purple",
+      "value": "#460a5c"
+    },
+    {
+      "id": "_ci1EojaU-J5i0zs5-VZ1",
+      "name": "Green",
+      "value": "#047c32"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "Politics",
+      "color": "lnoem6zO5k0u2hBMA2QWI"
+    },
+    {
+      "path": "International Relations",
+      "color": "WqkH8KzlaER2GpAJC4kG3"
+    },
+    {
+      "path": "Social Anthropology",
+      "color": "LdpkKm9r68wZjeF9NLGi6"
+    },
+    {
+      "path": "Sociology",
+      "color": "lNzgM2LyjbEfisgAXnFZh"
+    },
+    {
+      "path": "Z. Root",
+      "color": "_ci1EojaU-J5i0zs5-VZ1"
+    }
+  ]
 }

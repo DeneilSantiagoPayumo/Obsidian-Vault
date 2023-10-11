@@ -1,7 +1,7 @@
 No current deadlines
 
 By the end of the second lecture which is on 2023-10-10 I will need to have made notes on:
-- [ ] Hobbes, Leviathan, 31 chapters (part two left)
+- [x] Hobbes, Leviathan, 31 chapters (part two left)
 - [x] John Dunn, Political Obligation
 - [x] David Runciman, The Sovereign
 - [ ] David Runciman, Hobbes' theory of representation: proto-democratic or anti-democratic 

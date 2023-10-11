@@ -7,13 +7,13 @@
     "bigger-link-popup-preview",
     "better-bullet-points-in-edit-mode",
     "collapsing-sidebar",
-    "custom-icons-for-specific-folders",
     "enlarge-image-on-hover",
     "hyphenation-and-justification",
     "image-cards",
     "nicer-checkboxes",
     "stylish-blockquotes",
-    "tag-pills"
+    "tag-pills",
+    "custom-icons-for-specific-folders"
   ],
   "baseFontSize": 17,
   "translucency": true,

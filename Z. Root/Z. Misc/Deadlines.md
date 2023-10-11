@@ -27,6 +27,10 @@ Start Hobbes (second half), introductions and conclusions
 
 WEDNESDAY: SOC, IR
 
+Start IR reading
+Skim-read Durkheim's intro and conclusions
+Finish that Hobbes chapter (ugh)
+
 THURSDAY: SAN, POL
 
 FRIDAY: SOC, IR
