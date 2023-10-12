@@ -188,5 +188,85 @@ Non-differentiated societies rely on 'mechanical solidarity' based on a strong '
 
 Differentiated societies like ours need 'organic solidarity' - no longer based on similarity but on interdependency. A world in which we have a weak collective consciousness. We are in transition - the absence of solidarity creates anomie.
 
-## Summary:
-To-do later.
+Any kind of society has specific needs such as a biological organism. An important aspect is 'solidarity' where there are somehow a normative framework that holds us together. In traditional societies, we do similar activities and religion holds us together so we can have a lot of solidarity.
+
+In modern societies, we have a breakdown and absence of solidarity - anomie, an absence of solidarity. Without this solidarity and otherwise, we lack a moral compass.
+
+We can also describe anomie when there's a discrepancy between your expectations and your legitimate means for achieving those expectations.
+
+### Suicide
+Rationale - application of the rules of the sociological method: social facts to be explained by social facts.
+He eliminated alternative theories based on climate, heredity.
+He distinguished between four types based on too much or little integration, or too much or too little moral regulation.
+
+Modern societies are characterised by too little integration and too little regulation (egoistic suicide, anomic suicide respectively). A lack of a normative framework and social framework all explains suicide, as an example of horrid mental health.
+
+People with children commit suicide less whereas people who have less children don't - the more children you have, the more buffer you have for that - egoistic suicide - loneliness, not fitting in.
+
+Anomic suicide comes in predominantly at recessions and booms where your expectations do not fit: and suicide rates go up.
+
+What appears to be an individual decision is due to social forces at work. 
+
+
+# Du Bois
+
+He was an African-American Marxist who focused on issues of race.
+
+He explored the psychological ramifications of those inequalities, demonstrating how they can affect selfhood and identity.
+
+He pointed out the political consequences of this connection between racial prejudice and selfhood.
+
+His own theoretical reflections tie in with his commitment to the civil rights movement, having ties with that of [[Franz Fanon]] and [[Steve Biko]] respectively in connection to their struggle against colonization: Algeria and Apartheid (in South Africa)
+
+
+## Influences and political context:
+
+Following the civil war, former Confederate States introduced the Jim Crow law - separate but equal - that was connected with deep-seated racism, introducing concepts of segregations.
+
+Booker T. Washington became associated with the Atlanta compromise, arguing for incrementalism and economic improvements - that African Americans should aim for industrial education so that they can become successful economically. There is inequality but we should not aim for civil rights, instead that they should slowly develop through economic improvement.
+
+In 1905, Du Bois founded the Niagara Movement in opposition to the Atlanta compromise, with the aim to oppose racial segregation and the disenfranchisement of the black population, campaigning for free and compulsory education for all leading to the NAACP.
+
+This became a key figure for the Harlem Renaissance.
+
+Three concepts: double consciousness
+
+### The Colour Line
+
+This term was coined by Frederick Douglas in the 1880s to refer to segregation.
+Du Bois uses this term to note the segregation between the black and white population, and structural inequality
+
+It's as though they're living in two different worlds.
+
+### The Veil
+
+The veil is a metaphor to describe the ways in which white people look at the Black population - of how White People conceive of Black People.
+
+This lens makes it difficult for white people to appreciate Black people as full human beings.
+
+It makes it difficult for Black people to conceive of themselves as full human beings.
+
+
+### Double Consciousness
+
+One reading is the notion of the psychological features of what it means to be black - that self-consciousness arises in a social context, tied to our ability to take the perspective of others.
+
+There are two elements:
+1. The situation for Black people is unique in that they can see themselves in two ways, from their perspective and of white people - perhaps seeing themselves through the lens of pity, condescension and pity
+2. He contrasts the spiritual dimensions of Black Culture with the supposed materialism of American culture.
+
+This is connected to a political ideology, connected to the veil, connected to the colour line.
+
+The second meaning of consciousness, as African Americans they embody the meaning of being American *and* the African influence.
+
+## Influences: Frantz Fanon and Steve Biko
+
+Frank Fanon wrote the experience of the colonised people, that colonised people are constantly reminded of their supposed inferiority.
+
+Additionally, the more educated sectors of the colonised population are more likely to have internalized the superiority of the colonising nation.
+
+Steve Biko spearheaded the Black Consciousness Movement, an anti-Apartheid movement promoting self-reliance for Black People.
+
+He argued that Black people have internalised the prejudices and do not have sufficient self-confidence, affecting the desire and ability to act politically. Hence they need to be self-reliant: requiring economic self-reliance, and operating independently of white liberals.
+
+They need to institutionalize self-reliance with separate hospitals, schools and so on.

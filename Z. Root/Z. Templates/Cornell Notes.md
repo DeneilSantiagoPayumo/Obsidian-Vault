@@ -6,21 +6,37 @@ Tags: [[]]
 ---
 ## Lecture notes:
 
-## (Topic one)
-## (Topic two)
+## Topic one
+
+```ad-quote
+
+
+```
+
+## Topic two
+
+```ad-quote
+
+
+```
+
 ## (Topic three)
 
->[!Info] Info
-> Info
+```ad-important
 
->[!Tip] Tip
-> Tip
+
+```
+
+```ad-error
+
+
+```
+
+
 ## Questions I had:
 
 > [!Question] Question
 > Place question here
 
 
-> [!Question] Question
-> Place question here
 ## Summary:

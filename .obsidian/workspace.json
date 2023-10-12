@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f894995e0f71fa4",
+            "id": "5b37721439665e7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z. Root/Z. Misc/Deadlines.md",
+                "file": "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.50499725341797
+    "width": 291.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z. Root/Z. Misc/Deadlines.md",
+                "file": "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z. Root/Z. Misc/Deadlines.md",
+                "file": "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z. Root/Z. Misc/Deadlines.md"
+                "file": "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md"
               }
             }
           },
@@ -169,21 +170,14 @@
               "type": "google-calendar-view-event_details",
               "state": {}
             }
-          },
-          {
-            "id": "93a5d0adc5d4e8f2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 210.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,42 +191,43 @@
       "zk-prefixer:Create new unique note": true,
       "publish:Publish changes...": false,
       "flashcards-obsidian:Generate flashcards": true,
-      "homepage:Open homepage": true,
       "janitor:Janitor: scan vault": true,
       "templater-obsidian:Templater": true,
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "92d793b88b79c2af",
+  "active": "5b37721439665e7c",
   "lastOpenFiles": [
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
-    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
-    "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
-    "Sociology/Notes/Bibliography Notes/The Division of Labour in Society.md",
-    "Z. Root/Z. Misc/Study skills.md",
-    "Z. Root/Z. Misc/Deadlines.md",
-    "Sociology/Archived Materials/Deadlines for Sociology.md",
-    "Z. Root/Z. Misc/Seeley and Haddon library.md",
-    "International Relations/Archived Material/List of lectures for IR.md",
+    "Z. Root/Z. Photo Dump/Pasted image 20231012164653.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231012162831.png",
+    "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
+    "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
+    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
+    "Z. Root/Z. Templates/Cornell Notes.md",
     "International Relations/Archived Material/Deadlines for IR.md",
-    "International Relations/Projects/IR Supervision/Power, Sovereignty, State Supervision.md",
-    "Z. Root/Z. Misc/Untitled.md",
+    "Politics/Archived Material/Deadlines for Politics.md",
+    "Social Anthropology/Archived Material/Deadlines for SAN.md",
+    "Sociology/Archived Materials/Deadlines for Sociology.md",
     "Sociology/Archived Materials/List of lectures for SOC.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Explaining Stability and Change.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Concept, puzzles and theories.md",
-    "International Relations/Notes/Bibliography Notes/International Orders in the Early Modern World, Before the Rise of the West..md",
-    "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
+    "Sociology/Notes/Bibliography Notes/The Division of Labour in Society.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md",
+    "Politics/Notes/Lecture and Focused Notes/The profession and vocation of politics.md",
+    "Z. Root/Z. Misc/Deadlines.md",
+    "Politics/Archived Material/List of lectures for Politics.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+    "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
     "Politics/Projects/A Hobbesian Supervision..md",
-    "Untitled.md",
+    "Politics/Notes/Bibliography notes/Weber",
+    "International Relations/Notes/Bibliography Notes/The Sovereign State and Its Competitors.md",
+    "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
+    "International Relations/Notes/Bibliography Notes/Bringing the State Back In.md",
+    "International Relations/Notes/Bibliography Notes/Of Things of the Indies.md",
+    "International Relations/Notes/Bibliography Notes/International Orders in the Early Modern World, Before the Rise of the West..md",
+    "International Relations/Archived Material/List of lectures for IR.md",
+    "International Relations/Projects/IR Supervision/Power, Sovereignty, State Supervision.md",
     "Z. Root",
     "Z. Root/Z. Misc",
-    "International Relations/Pembroke/3. Resources/Important events for societies.md",
-    "International Relations/Pembroke/3. Resources/Contact information for lectures.md",
-    "Z. Root/Pembroke/Local Supermarkets.md",
-    "International Relations/Notes/Lecture and Focused Notes/First Encounters and Origins of Global Relations.md",
-    "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
-    "Spencer.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "International Relations/Projects/IR Supervision",
@@ -244,14 +239,12 @@
     "Remote-Vault",
     "Github Repo",
     "Z. Root/Z. Photo Dump/Pasted image 20230925153356.png",
-    "Politics/Notes/Bibliography notes/Hobbes",
     "Z. Root/Z. Photo Dump/Pasted image 20231003170944.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231004121143.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231004121119.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231004121114.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231004121105.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231004121050.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231004121040.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231004121015.png"
+    "Z. Root/Z. Photo Dump/Pasted image 20231004121040.png"
   ]
 }

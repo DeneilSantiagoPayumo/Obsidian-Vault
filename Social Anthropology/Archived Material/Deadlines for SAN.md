@@ -21,9 +21,7 @@ For lecture 3:
 - [ ] Evan-Pritchard, E. E. The Nuer
 - [ ] Evans-Pritchard E.E 11950 Social Anthropology 118-124
 
-
-> [!Quote] Covering ethnographies
-> Hello all. Here is quite a long list of ethnographies which covers a wide range of topics. Choose ONE and have a go. I’ve included a list of questions to keep in mind as you read. We’ll have an informal discussion about study skills on Monday, and then a more directed discussion about what you think ‘ethnography’ is about later on in the week. there is no assessment involved here – you don’t have to worry about ‘getting it right’.  But DO be thoughtful!
-> Deadline is: Wednesday 11th 
+Jack Goodie - the great expansion
+Dance and the body of politics
 
 

@@ -33,6 +33,9 @@ Finish that Hobbes chapter (ugh)
 
 THURSDAY: SAN, POL
 
+Get started on Hobbes essay
+Start reading Chisungi or something
+
 FRIDAY: SOC, IR
 
 SATURDAY: SAN, POL

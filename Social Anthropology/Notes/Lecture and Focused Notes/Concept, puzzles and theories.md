@@ -50,7 +50,6 @@ This is an example of **how** even the most obvious of takes have assumptions an
 
 ```
 
-## Part 1: Explaining Stability and Change
 ## Part 2: Two ways with Culture
 
 Structuralism takes the view of the all-knowing anthropologists.
@@ -59,7 +58,6 @@ Interpretivism takes the study of a culture on a personal level - seeing what th
 ## Part 3: The Riddles of Power
 
 Practice theory - building on these ideas of knowledge and power, building in materiality and the body: how power is in things and physicality and how we call our bodies. 
-Writing Culture - 
 
 ```ad-important
 collapse: open

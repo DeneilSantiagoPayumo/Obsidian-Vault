@@ -299,22 +299,13 @@ In proportion as the modern class struggle develop and take shape, this fantasti
 
 The communists fight for immediate aims and of the future.
 They never cease to instil into the working class the recognition of this hostile antagonism.
-They support every movement..
+They support every movement.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The Communists disdain to conceal their views and aims. They openly declare that their ends can
+be attained only by the forcible overthrow of all existing social conditions. Let the ruling classes
+tremble at a Communistic revolution. The proletarians have nothing to lose but their chains. They
+have a world to win.
+Working Men of All Countries, Unite!
 
 ---
 ## Critique of the Gotha Programme
