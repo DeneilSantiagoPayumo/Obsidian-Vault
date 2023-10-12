@@ -1,5 +1,7 @@
 Hobbes's theory of representation, anti-democratic or protodemocratic?
 
+Links to [[Hobbes, the Leviathan]]'
+
 ```ad-summary
 title: David Runciman:
 Hobbes is both a thinker who madae representation a distinctively modern concept, emancipating it from its medieval roots and employing it to establish a clear identity for the state as a separate entity, grounding a secular conception of authority.

@@ -1,3 +1,4 @@
+Richard Tuck
 
 This is an analysis of [[Hobbes, the Leviathan]]
 ## I
