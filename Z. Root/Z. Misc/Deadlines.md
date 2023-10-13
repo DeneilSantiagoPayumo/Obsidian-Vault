@@ -38,6 +38,15 @@ Start reading Chisungi or something
 
 FRIDAY: SOC, IR
 
+Read Chinsungi (EXCEPTION)
+Asad, Talal, ed. 1973. Anthropology and the Colonial Encounter. New York: Humanity Books. (esp intro and chapters by Asad and James)
+
+
+Read the starters of SOC1
+Finish IR reading
+
+
+
 SATURDAY: SAN, POL
 
 SUNDAY: SOC, IR

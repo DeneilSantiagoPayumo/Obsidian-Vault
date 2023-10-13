@@ -23,71 +23,20 @@
             }
           },
           {
-            "id": "8d15231b6658ba0d",
+            "id": "2b34e6ef688081d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6caa1c970176c8d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b1bc3c85008a163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3a94dbca689a74b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afa83b367b740bc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
+                "file": "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.50499725341797
+    "width": 291.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -161,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
+                "file": "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
+                "file": "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md"
+                "file": "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md"
               }
             }
           },
@@ -262,10 +212,18 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "cbde9da7a2d8e9e9",
+  "active": "2b34e6ef688081d7",
   "lastOpenFiles": [
-    "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
     "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
+    "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Explaining Stability and Change.md",
+    "Z. Root/Z. Photo Dump/Pasted image 20231013113155.png",
+    "Z. Root/Z. Misc/Deadlines.md",
+    "Social Anthropology/Notes/Bibliography notes/Nightwork, sexuality, pleasure and corporate masculinity in a Tokyo hostess club.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Concept, puzzles and theories.md",
+    "Politics/Archived Material/Deadlines for Politics.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Untitled.md",
+    "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
     "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
     "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
     "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
@@ -273,14 +231,12 @@
     "Politics/Projects/A Hobbesian Supervision..md",
     "Politics/Notes/Lecture and Focused Notes/The profession and vocation of politics.md",
     "Politics/Archived Material/List of lectures for Politics.md",
-    "Politics/Archived Material/Deadlines for Politics.md",
     "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md",
     "Untitled.md",
     "Z. Root/Z. Photo Dump/Pasted image 20231004111905.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231003170944.png",
     "Z. Root/Z. Photo Dump/Pasted image 20230925153356.png",
     "Z. Root/Z. Misc/Study skills.md",
-    "Z. Root/Z. Misc/Deadlines.md",
     "Z. Root/Z. Misc/Seeley and Haddon library.md",
     "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
     "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
@@ -290,12 +246,7 @@
     "Z. Root/Z. Templates/Cornell Notes.md",
     "International Relations/Archived Material/Deadlines for IR.md",
     "Social Anthropology/Archived Material/Deadlines for SAN.md",
-    "Sociology/Archived Materials/Deadlines for Sociology.md",
-    "Sociology/Archived Materials/List of lectures for SOC.md",
-    "Sociology/Notes/Bibliography Notes/The Division of Labour in Society.md",
     "Politics/Notes/Bibliography notes/Weber",
-    "International Relations/Notes/Bibliography Notes/The Sovereign State and Its Competitors.md",
-    "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
     "Z. Root",
     "Z. Root/Z. Misc",
     "Untitled.canvas",
@@ -310,7 +261,6 @@
     "Github Repo",
     "Z. Root/Z. Photo Dump/Pasted image 20231004121143.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231004121119.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231004121114.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231004121105.png"
+    "Z. Root/Z. Photo Dump/Pasted image 20231004121114.png"
   ]
 }

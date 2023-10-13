@@ -146,3 +146,121 @@ Look at people who call themselves modern - modern... to whom?
 Take a look at the (taken down) Guardian article: Can we, together, lift one village out of the Middle Ages?
 
 Remember: the lecturer is not saying evolutionism is wrong, but to think of concepts like 'modernity' and so on critically.
+
+---
+Date: 13/10/2023
+
+Functionalism, as a school, is dead - and anthropology became a reaction to and a critique of Functionalism.
+
+Many of its questions and answers persist, so it's important to understand critically the relationship between Functionalism and so on.
+
+### Basics:
+
+Malinowski set off in the early 20th century to do some fieldwork and as he was in the field, WW1 was declared and was forced to stay in one place - spending two years with the Trobriand islanders.
+
+He wrote The Kula - involving the exchange of these rings.
+For him, these shells were exchanged in a multitude of directions, and was interested in this exchange.
+
+He wanted to understand people's religion and rituals - understand power and chieftainship: not just what it means to see from their perspective, but as how the individuals perceive this exchange.
+
+He was one of the first ethnographic monographs - and took to understand the Kula Ring in relation to every part of their lives:
+1. Each culture is a complex, functionally integrated whole
+2. Attempting to "grasp the native's point of view"
+
+### Durkheim
+
+1. Splitting sociology from history
+
+For Durkheim, there is a huge difference between causes and functions: separating the historical account for what it means to be the cause of a social fact, but also the function of it.
+
+[[Radcliffe-Brown]] took a look on the Classificatory Kinship system and found the function of the system and arguing that it is a framework on how to manage relationships.
+
+
+2. Splitting sociology from psychology and biology
+
+```ad-quote
+title: Splitting Sociology from psychology and biology
+"The determining cause of a social fact must be sought amongst antecedent social facts and not among the states of the individual consciousness ... its function can only be social, which means that it consists in the production of socially useful effects ... the function of a social fact must always be sought in the relationship it bears to some social end."
+
+```
+
+![[Pasted image 20231013113155.png]]
+
+Like an organism, a society:
+1. Is structured and thus amenable to scientific study
+2. Tends to persist in its being
+3. Is more than the sum of its parts
+4. Belongs to 'kinds' which can be compared
+
+There are two different kinds of Functionalism:
+Malinowksi Functionalism is focused on people's culture - perceptions, individuals - is holistic and asks about the natives point of view. This function can be social, psychological or biologica,
+Structural Functionalism is focused on studying social function, social structure (not culture), comparing institutions across societies, asking about how societies remain in equilibrium
+
+### [[Evans-Pritchard]] on Neur Fending
+
+His first book on the Neur looks at kinship, political organisations and such.
+
+Feuding is both a legal and a political institution - not just being violent, but it has a latent function in society.
+
+Feuding as an institution replaces the policing, and has certain rules: there are certain people and certain targets. It's also an institution, and its role thereof that if you kill someone their family will have a duty to kill you back, it is important.
+
+It is like arbitration - when someone kills someone else, they understand the killer is 'contaminated' with the blood of the killed, and sanctify and decontaminate them, holding them as a mediator until the new family comes about for negotiation.
+
+This is a social system which is not random, and has meaning.
+
+How does it act as a political institution?
+
+Evans-Pritchard describes the kinship system of the Neur as in a lineage, another lineage to another.
+
+A kinship experience is how people understand themselves to be related. The political system is based on groups and tribes, which are divided into primary, secondary, tertiary systems - villages with elite lineages inside them. These villages are understood not be self-contained but within a bigger network. It's far from being disorganised.
+
+When you enter a feud, it is not the family you're feuding with, but also of the village. Along the way, if another person attacks the village of another one out, then multiple villages come out to attack the person. 
+
+What the feud does is undergo a process of 'fission and fusion' - not unified to a single group, but doesn't completely fall apart. It keeps a society in movement without completely breaking apart.
+
+For his argument to work, feuds can never really start. The mere fact of people feuding with each other is very, very important.
+
+The Neur are a 'stateless society' living in 'ordered anarchy.'
+
+## Critiques
+
+Is society really like an organism?
+
+But there are some things missing:
+* What about history?
+* What about the individuals? (Forgetting about their individual perspectives)
+* Are societies bounded?
+* What about power and inequality?
+* What about meaning?
+
+The final set of critiques is linked to colonialism:
+
+Anthropology and the colonialising encounter:
+
+```ad-quote
+title: Tasal Asad (1973)
+"It is not a matter of dispute that social anthropology emerged as a distinctive discipline at the beginning of the colonial era, that it became a flourishing academic profession towards its close, or that throughout this period its efforts were devoted to a description and analysis - carried out by Europeans, for a European audience - of non-European societies dominated by European power."
+
+...
+
+But if the role of anthropology for colonialism was relatively unimportant, the reverse proposition does not hold.
+```
+
+Colonialism shaped:
+* Who got to write about whom
+* Who got to be published, to have an academic career
+* Whose knowledge counted as authoritative
+* How societies were imagined
+* What was perceived as 'normal' and 'problematic' (what needed explaining)
+
+The fundamental point, in taking the complex politics of theory, is that the political implications are very, very complex:
+
+"The fundamental reactionary character of functionalism is exposed since it focuses on why things do not change, rather than why they do." (Faris 1973) vs "Functionalist anthropologists ... produced representations of colonized peoples perfectly able to govern themselves." (Foks 2018)
+
+
+
+
+
+
+
+"
