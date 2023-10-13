@@ -99,6 +99,7 @@ For mother and daughter to sleep with the same man ... is a terrible thing. For 
 
 35
 
+Lastly ... Bemba believe that, if a man commits adultery while his wife is pregnant, the baby is born dead. He has taken the spirit of the child ... if the woman is unfaithful while she is pregnant then she herself dies in childbirth unless she confesses and gets medicine in time.
 
 
 ---
