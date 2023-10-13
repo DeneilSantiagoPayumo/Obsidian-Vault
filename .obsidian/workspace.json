@@ -73,6 +73,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afa83b367b740bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -132,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.50499725341797,
-    "collapsed": true
+    "width": 291.50499725341797
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -252,12 +264,12 @@
   },
   "active": "cbde9da7a2d8e9e9",
   "lastOpenFiles": [
-    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
     "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
     "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
     "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
     "Politics/Projects/A Hobbesian Supervision..md",
     "Politics/Notes/Lecture and Focused Notes/The profession and vocation of politics.md",
     "Politics/Archived Material/List of lectures for Politics.md",
