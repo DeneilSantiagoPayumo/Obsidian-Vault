@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "67002cfb258617b0",
+        "id": "c683324bc8d56998",
         "type": "tabs",
         "children": [
           {
-            "id": "2b34e6ef688081d7",
+            "id": "7ecf1bea9aaaba7c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
+                "file": "Z. Root/Z. Misc/Deadlines.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -80,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.50499725341797,
-    "collapsed": true
+    "width": 292.50499725341797
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
+                "file": "Z. Root/Z. Misc/Deadlines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
+                "file": "Z. Root/Z. Misc/Deadlines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md"
+                "file": "Z. Root/Z. Misc/Deadlines.md"
               }
             }
           },
@@ -198,40 +195,41 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "2b34e6ef688081d7",
+  "active": "ea99d8ddb30ab8ba",
   "lastOpenFiles": [
-    "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
-    "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Explaining Stability and Change.md",
-    "Z. Root/Z. Photo Dump/Pasted image 20231013113155.png",
-    "Z. Root/Z. Misc/Deadlines.md",
-    "Social Anthropology/Notes/Bibliography notes/Nightwork, sexuality, pleasure and corporate masculinity in a Tokyo hostess club.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Concept, puzzles and theories.md",
+    "Sociology/Archived Materials/Deadlines for Sociology.md",
+    "Sociology/Archived Materials/List of lectures for SOC.md",
+    "Social Anthropology/Archived Material/Deadlines for SAN.md",
+    "Social Anthropology/Archived Material/List of lectures for SAN.md",
     "Politics/Archived Material/Deadlines for Politics.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Untitled.md",
-    "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
-    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
-    "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+    "International Relations/Archived Material/Deadlines for IR.md",
+    "Z. Root/Z. Misc/Deadlines.md",
+    "International Relations/Notes/Bibliography Notes/The Sovereign State and Its Competitors.md",
+    "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
+    "International Relations/Notes/Bibliography Notes/Of Things of the Indies.md",
+    "International Relations/Archived Material/List of lectures for IR.md",
+    "Sociology/Notes/Bibliography Notes/Manifesto of the Communist Party.md",
+    "Sociology/Notes/Bibliography Notes/The Division of Labour in Society.md",
+    "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
+    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Explaining Stability and Change.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Concept, puzzles and theories.md",
+    "Social Anthropology/Notes/Bibliography notes/Nightwork, sexuality, pleasure and corporate masculinity in a Tokyo hostess club.md",
+    "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
+    "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
     "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
-    "Politics/Projects/A Hobbesian Supervision..md",
-    "Politics/Notes/Lecture and Focused Notes/The profession and vocation of politics.md",
-    "Politics/Archived Material/List of lectures for Politics.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
     "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md",
-    "Untitled.md",
+    "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
+    "Politics/Notes/Bibliography notes/Weber/Contesting Democracy.md",
+    "Z. Root/Z. Photo Dump/Pasted image 20231015092324.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231013113155.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231004111905.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231003170944.png",
     "Z. Root/Z. Photo Dump/Pasted image 20230925153356.png",
-    "Z. Root/Z. Misc/Study skills.md",
-    "Z. Root/Z. Misc/Seeley and Haddon library.md",
-    "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
-    "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
     "Z. Root/Z. Photo Dump/Pasted image 20231012164653.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231012162831.png",
-    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
-    "Z. Root/Z. Templates/Cornell Notes.md",
-    "International Relations/Archived Material/Deadlines for IR.md",
-    "Social Anthropology/Archived Material/Deadlines for SAN.md",
     "Politics/Notes/Bibliography notes/Weber",
     "Z. Root",
     "Z. Root/Z. Misc",
@@ -246,7 +244,6 @@
     "Remote-Vault",
     "Github Repo",
     "Z. Root/Z. Photo Dump/Pasted image 20231004121143.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231004121119.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231004121114.png"
+    "Z. Root/Z. Photo Dump/Pasted image 20231004121119.png"
   ]
 }

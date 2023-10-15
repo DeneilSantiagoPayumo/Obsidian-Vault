@@ -1,5 +1,6 @@
 For my second lecture I need to:
-- [x] Charles Tilly, “War-Making and State Making as Organized Crime.” In Peter B. Evans, Dietrich Rueschmeyer and Theda Skocpol (Eds) Bringing the State Back In (Cambridge: Cambridge University Press, 1985), pp.169-191.
-- [ ] Hendrik Spruyt, The Sovereign State and Its Competitors. (Princeton: Princeton University Press, 1994), pp.1-7, 153-180
+Core Reading:
+- [ ] Stephane Beaulac, “The Westphalian Legal Orthodoxy–Myth or Reality.” Journal of the History of International Law 2000 2: 148-177.
+- [ ] Andreas Osiander, “Sovereignty, International Relations, and the Westphalian Myth.” International Organization 2001 55 (2): 251-287
 
 

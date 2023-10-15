@@ -1,6 +1,6 @@
 For the first two weeks of SOC, I need to read:
-- [ ] Du Bois, The Forethought and Chapter 1
-- [ ] Durkheim E The division of Labour in Society
+- [x] Du Bois, The Forethought and Chapter 1
+- [x] Durkheim E The division of Labour in Society
 - [x] Marx, K. and F. Engels pg 221-248
 - [x] Weber, M - The Protestant Ethic and the Spirit of Capitalism
 - [ ] Anderson, B Imagined Communities (C1 and C8)

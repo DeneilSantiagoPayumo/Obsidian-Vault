@@ -1,5 +1,6 @@
 *Page 221 - 248*
 This topic links into [[Theories of Modernity]]
+Sociologist - [[Karl Marx]]
 
 ---
 ## The Poverty of Philosophy.

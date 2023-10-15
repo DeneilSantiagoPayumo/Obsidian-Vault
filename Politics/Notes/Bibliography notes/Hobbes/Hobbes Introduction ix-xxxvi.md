@@ -66,8 +66,4 @@ Hobbes was suspicious of corporate societies - 'wormes in the entrayles of natur
 
 Hobbes argued that the Sovereign was entitled to enforce uniformity, a state church determined by the political authority. Despite that, Hobbes argues in favour of religious freedom -  as long as religion did not leave to 'contention' then Hobbes argues that this is 'perhaps the best' as Christians can listen to the preachers they preferred and no significant church structures existing whatsoever. This is because 'there ought to be no power over the consciences of men, but of the word it selfe, working faith in every one', and second to allow man to follow reason of every man - to 'teach there is such danger in every little Errour, to require of a man endued with Reason of his own, to follow the Reason of any other man'
 
-
-
-
-
-
+(get nick to finish this)

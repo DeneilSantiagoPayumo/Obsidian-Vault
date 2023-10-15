@@ -1,7 +1,7 @@
 Lecture: The profession and vocation of politics
 Date: 12-10-23
 Lecturer: Glen Rangwala
-Tags: [[Weber, Profession and Vocation of Politics]]
+Tags: [[Weber, Profession and Vocation of Politics]], [[Max Weber]]
 
 ---
 ## Lecture notes:

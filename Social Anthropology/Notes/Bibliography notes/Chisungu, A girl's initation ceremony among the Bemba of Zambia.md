@@ -527,4 +527,458 @@ The rest of the days followed as such (skipped for time reasons):
 
 ---
 
-pg 120
+## The Interpretation of the Ceremony
+
+112
+
+The author identifies a number of different approaches to interpreting a complex ceremony.
+
+1st, the **expressed purpose (primary)**:
+His first step obviously is to ask the performers what they think they are achieving by their ritual behaviour and to summarise as accurately as possible the different views of the members of the community on these points.
+
+113
+
+It is obvious that a complete interpretation of every act in a ceremony is unlikely to be given by the whole community or even by the ritual experts in it. The nature of ritual ... demands that there should be multiple explanations for most of the forms of symbolic behaviour which composes it ... there is always some purpose, however general, behind a ceremony which the performers can, and will express.
+
+Primary purposes of this kind may be single or multiple.
+
+Expressed or formulated purposes can be derived from an analysis of statements of dogma known to the whole community or to its ritual specialists; from comments and explanations ... casual remarks.
+
+114
+
+2nd, the **expressed purposes  (secondary)**:
+Expressed purposes may also include secondary as well as primary motives. For instance people may say that their object in doing such and usch acts is to give their daughter in marriage but they also may recognize that the ceremony itself gives them prestige, binds their relatives to return them economic services, or raises their credit in the community.
+
+115
+
+3rd, the **deduced purposes.**
+Beliefs and objectives can also be deduced from indirect evidence. We may be able to deduce the importance of a symbolic act or the nature of the performer's emotional reaction to it - their interest, tension or boredom, for instance ...
+
+Another metyhod is to analyse different texts describing the rites in hope of finding some common stress or revelation of interest. It may be possible to make some kind of statistical estimate of the recurrence of particular symbolic acts; or the reptition of statements of beliefs. Ceremonies which the performers absolutely refuse to leave out can reasonably be assumed to have more significance than those that are slurred over or omitted.
+
+Lastly, the meaning of a viral act may perhaps be deduced by an analysis of other ceremonies performed by the same community in which an identifcal or similar act occurs.
+
+The anthropologists' interpretations of religion and magic are naturally based largely on sociological concepts, and they tend to emphasize the function of ritual in maintaining a particular institution.
+
+116
+
+The following types of explanations of ritual behaviours are commonly offered:
+* In relation to the common norms and values of a given tribe and its notion of casuality. Thus a ritual in connection with a particular institution can very well be examined in relation to the ethical codes and laws governing that institution, the social group involved and the activities it carries out.
+
+The most commonly accepted view of the sociological function of ritual is that this type of religious behaviour expresses, make public, reinforces, or teaches tribal norms.
+
+This view is epitomised in [[Radcliffe-Brown]]'s statement that a society exists because it is united by common social sentiments and that these sentiments must be constantly maintained at a given intensity. It follows that in the case of a given institution the anthropologist should ask how far the values and beliefs ... are actually expresseed or smybolized in their rites.
+
+117
+
+But anthropologists also tend to see the values of the tribe as forming some kind of system, whatever inconsistencies and contradictions there may be.
+
+Similar explanations of the function of ritual are those which state that religious ceremonies exist to promote the social cohesion of the group. The emphasis is not on any particular instiution in a society or on a set of values ... but on the importance of maintaining some feeling of unity in a group.
+
+Such explanationso of the function of ritual are those which state ... that religious ceremonies exist to promote the [[Explaining Stability and Change|social cohesion of the group]]. The emphasis here is not on any particular institution in a society or on a set of values rooted in its political, economic or domestic activities but on the importance of maintaining some feeling of unity in a group.
+
+Such types of explanation followed closely on [[Emile Durkheim|Durkheim]]'s stimulating and vivid reconstruction of what he imagined a totemic ceremony to be among some of the Australian Aborigines and the function such a rite may perform in promoting group consciousness or the individual sense of becoming party of a larger whole.
+
+118
+
+For such hypotheses there is rarely any possible verification ... However, anthropologists have shown a tendency to argue that a group experiences intensified loyalty because it has attended a ceremony, and that the ceremony exists because the group has such strong feelings that it insists on holding one - a circular argument.
+
+Later, the emphasis on religion as an expression of group cohesion led some anthropologists to explain ritual as a symbolic representation of social tensions as well as of social harmony.
+
+Here the anthropologists has relied heavily on the psychoanalytical hypotheses.
+
+119
+
+All these conjectures cannot be proved until we have far more complete data from different areas. 
+
+Lastly, ritual may have a number of practical effects which are not at all intended by the performers and of which they or the majority of them are not aware.
+
+The author cites the examples of [[Malinowksi]]'s pointing out that the gardening ride among the Trobriand islanders serves to organize ... the different stages of their agricultural work, [[Firth]] says that seasonal taboos of bird snaring among the Maori ... give protection to the birds during breeding season. The Bemba themselves say that they wait for the blessings of their chief before cutting their gardens because they believe that otherwise they would lack the goodwill of their ancestral spirits.
+
+The European observer ... regards this ceremony as a useful device for securing that the gardens are cut at an advantageous time of year from the point of view of weather and temperature.
+
+120
+
+In a sense all the types of anthropological interpretations just listed can be described as pragmatic since they are based on the argument that people carry out religious rites because they fulfil some function for the individual.
+
+
+## EXPRESSED PURPOSES OF THE CHISUNGU
+
+#### *Primary*
+
+When questions directly as to why they need to dance the Chisungu ... most older Bemba speak with the utmost energy. It is quite clear that the rite is intended to do something, and to do something that is felt to be most necessary and important.
+
+... They (the men) lay emphasis on the preparation of the girl for marriage and for a change of status. Men know the magic dangers to which a girl becomes a subject at puberty, but it would not be proper for them to express them.
+
+121
+
+Women are prepared to be much more specific. Their answers did not refer to the marriage but to the transformation of the young girl.
+
+Their replies could be divided into three types which reflect three aspects of the rite in Bemba eyes. The chisungu is danced, they say, to make the girl grow; to teach her; and 'to make her a woman as we are.'
+
+The first object has the clarity of the typical magic intention. It is a rite designed to change the course of nature by supernatural means.
+
+The second is described as 'teaching', with the use of the word commonly now employed for teaching in European schools ... this form of teaching is also a type of ritual behaviour, possibly with magic intent.
+
+The third purpose was expressed with greater vagueness and was one concerning which attitudes had to be mainly deduced.
+
+a) *The magic and growth of nubility*
+
+In other words, "We do the rite to grow the girl."
+
+It is used primarily of the jumping test ... the ritual separation of the girls was clearly makrked. They slept in a separate hhut and were never seen during the day unless actually participating in a ceremony. They concealed themselves very effectively, but they were also ritually hidden. They entered the initiation hut on the first day under the cover of blankets and they remained hidden in this way until the third day when they returned from the first woodland ceremony.
+
+122
+
+Social isolation was also marked by abstention from the usual habits of life. The girls wore old and shabby cloths tied round their waists. They were three times rebuked for tying their cloths above their breasts in the ordinary fashion of Bemba women. Their food was cooked on a separate fire. They were not allowed to wash or shav.
+
+Such symbolic acts of separation occur in other forms of Bemba ritual when a change of social role has taken place, such as in the marriage ceremony proper or the rite of installation of a chief.
+
+The characteristic element here is the number of stages the girl has to pass, and also the emphasis on the difficulty, not only of the new wife, but of the tests of maturity the girl has to pass.
+
+These are rites of role assumption, but is there not also an element of test, or actually of ordeal, in the magic sense of the word? It is difficult to say whether the symbolic acts of separation and rejoining the community are though to cause social maturation and can thus be ranked as magic of growth ... signs of the readiness of the candidate for such changes ... signs that the change has successfully occurred.
+
+123
+
+The author points to the reaction of the girls failing to jump - "Nothing, but it is very good if she does. Anyhow she must jump it. We do not let them fail."
+
+An analysis of the song interpretations also show the strong emphasis that is placed throughout the rite on the duty of the girl to do difficult and unprecedented things.
+
+[Van Gennep] has stressed the significance of puberty ritual as the expression of a change of status ... but I believe that it will be found that many of the tests of endurance in initiation ceremonies, like 'the teasing of the girls' ... are not only signs of ritual submission to authority and payments made for the receipt of magical protection but also are forms of ordeal or oracle magic. In other words, they reflect the anxiety of parents and relatives as to whether the candiadates really are grown up or socially fit for married life.
+
+Ukukushya is also the word used for the rites designed to protect the girl from the dangers associated with the physical onset of puberty and to make it possible for her to have safe intercourse with her husband and a safe delivery from of her child.
+
+124
+
+It is difficult to separate this aspect of the ceremony from the other acts that compose it since the whole chisungu is thought to contribute to this end, but the theme of the removal of danger is seen in a number of isolated songs and mimes. In one of the first songs, the danger is described as a stone that falls off the girls. The menstrual blood is represented throughout by the colour red on pottery emblems and house designs.
+
+The blood is removed by whitening ... the girls themselves are painted white like the egret and they are likened to beautiful white birds.
+
+The girls and their families (after jumping over the faggots) the girls and their families have done something fearful and they have succeeded. They have been through danger and have escaped. The culture teaches terror of menstrual blood. The chisungu provides the means of safety. It is a magic form of protection which can only be secured ... by carrying out prescribed acts and by penalites or dues to those in possession of the secret, in this case the nacimbusa.
+
+The magic of fertility is also clearly another of the elements in the chisungu ritual. The whole ceremony makes the girl nubile and thus potentially fertile.
+
+...
+
+125
+
+The ritual lighting of the girl's fire by the father's sister was described as 'begging for parenthood.'
+
+It is difficult to be certain how far human fertility is associated with agricultural fertility in these rites. I was nevere specifically told that the garden mimes were done to make the gardens yield, but merely to 'teach the girls to garden', but it would certainly be hard to distinguish very clearly between the productivity of the girls and the productivity of the seeds they sow in rites.
+
+To conclude, I believe the women in charge of the ceremony were convinced that they were causing supernatural changes to take place in the girls under their care, as well as marking those changes. They were changing an alarming position to a ssafe one, and securing the transition from a calm but unproductive girlhood to a potentially dangerous but fertile womanhood.
+
+*b) the teaching of the girls (ukufunda).*
+
+(The Bemba women} say with great emphasis and characteristic repetition "We teach and teach and teach the girls" and they sometimes add "We make them clever" using the causative form of the verb "to be intelligent and socially competent and to have a knowledge of etiquette."
+
+126
+
+I doubt whether any direct instruction took place...
+
+If any useful information was handed out during the chisungu one would be inclined to think the candidates themselves would be the last people to have a chance of acquiring it.
+
+But instruction ... was quite unnecessary in such subjects. Bemba girls play at cooking as sooon as hey can stand, and they help their mothers in the house most of the day. They go with the older women to garden and also learn from them how to look for mushrooms and wild spinaches. Moreover, the more complex aspects of housekeeping... are not entrusted to the girl until some years after marriage.
+
+127
+
+What then do the Bemba girls learn in their chisungu or in what sense can they be said to learn?
+
+First of all they learn a secret language ... the different mbusa have names, at any rate, known only to initiated women.
+
+Girls are also said to learn the scret language of marriage. The bemba language abounds ... with hidden or allusive meaning. It is part and parcel of court etiquette and it is used in other special social relations and in particular between husband and wife.
+
+The intimacy that surrounds the physical relation of husband and wife, described as 'the secret things within the house' seems to be European to be curious in view of the lack of other forms of intimate companionship between them, but it is evident that it is the special phraseology and taboos of married life that a man hopes his wife will learn in the chisungu. The candidates also have to learn the rather complex sequences of the rites themselves which represents a considerable effort of memory in communities without a written language.
+
+128
+
+A girl may have little intellectual understanding of what is being done at the time of her chisungu, although she may be in a highly emotional state in which she is likely to be suggestible to the general emphasis laid on the importance of marriage and childbirth.
+
+Secondly the chisungu teaches ... the socially approved attidues [towards the technical activities of wife, mother and housewife].
+
+When she [a young girl] is grown up and married, she cannot refuse her duties or it will be a cause of divorce ... in other words, the girl is told that she has to do things with a new spirit and a new sense of responsibility.
+
+129
+
+It seems likely therefore that these rites are the means by which the girl publicaly accepts her new legal role. These are the obligations handed mimed in the chisungu ceremony, such as the proper submission of her girl to her husband; the distribution of food to the family; and the exchange of gifts.
+
+It is difficult ... to draw ... fast lines between mimetic rites designed to produce a result ... rites which represent behaviour associated with a social role ... rites by which the individual publicly proclaims that she is ready to accept a role which will afterwards be enforced by legal penalties.
+
+The author uses several terms: magic rites, representative rites and rites of role assumptions.
+
+130
+
+*The chisungu as a rite of status change.*
+
+Is there any evidence that the rites are definitely considered as a means of admitting the chisungu candidates to a new social group such as an age grade?
+
+There is no evidence that even in the former days girls who had been danced were clearly distinguished in terms of clothing from those who had not.
+
+Linguistically too, there is no distinct terminology describing a formal age grade. The term mukashyana is used for a young girl just before marriage and just after, and as we saw, the occupations of the two are very similar. Marriage does not bring an independent status of the word.
+
+Nevertheless the girl does acquire new relationships through her chisungu and submits herself to new authorities. It goes without saying that she is in a somewhat different position with regard to her affinial relatives since the ceremony is the first of a series of rites which mark the gradual consolidation of the marriage relationship.
+
+131
+
+The girl also assumes a position in an informal group composed of the women of the neighbourhood. The chisungu candidate of one year works the following year for the same nacimbusa and joins the ranks of her younger helpers.
+
+Within this loose neighbourhood group the older women are honoured ... as a number of persons arranged in an exact order of precedence. This hiearchy of age and fame is constantly expressed in the ceremony. "The arm-pit is not higher than the shoulder"
+
+132
+
+The position of the senior women in the chisungu also reflects their activities in everyday life. The nacimbusa is the midwife. She attends the childbed of the girls she has 'danced' ... provides the magic which will enable them to come safely through the ordeal. She divines to find out which ancestral spirit is being born ... listens to confessions of adultery.
+
+The mistress of the ceremonies often becomes the protector ... the god mother of the child.
+
+It is because the girl has been danced and is magically changed; because she has been 'taught' and has assumed a position in a hierachy of women and has the protection of the nacimbusa of her district that she is no longer a weed, a piece of rubbish or an unfired pot.
+
+*Secondary motives*
+
+The Bemba no doubt have a number of motives.
+
+The chisungu is an occasion for entertainment and the meeting of friends and relatives.
+
+Women in fact speak of some of the rites as 'just playing.'
+
+A number of Bemba seem ... to realize that the Chisungu is an occasion for the display of social status.
+
+At the ceremony ... Nangoshye constantly complained that she was being insulted by the meanfare cooked for her.
+
+This is a society in which the ceremonial expression of kinship obligations is important ... so it is not unexpected that women should give importance to the chisungu as a centre of attraction for kinsmen.
+
+It is probable that much of the six months or so formerly given to the ceremony was devoted to these ends. The dances provide an opportunity for expressing respect for status, so the nacimbusa employes the magic of attraction to make people come to her ceremony.
+
+134
+
+Present-day differences of income have added to the prestige. A man of substance wants his daughter's chisungu to be talked about.
+
+A really successful chisungu is difficult to carry out under modern conditions ... no large sums of money are exchanged.
+
+It is ... organized entirely by women, and male dominance is emphasised in a modern wage-earning society.
+
+### DEDUCED ATTITUDES.
+
+page 135
+
+Bemba descriptions of the chisungu ... differ in a striking way from the account I have given.
+
+page 136
+
+None of the accounts mention the gardening mimes or the teasing of the girls. It is difficult to say whether the informants gave the selected events because they were the least secret, or because they felt they would be less likely to shock Europeans ... have curious and unaccountable ideas about anything to do with sex.
+
+137
+
+European accounts ... emphasize the obscentity of the tribe or else its educational function..
+
+To conclude, Bemba accoutns given casually to an anthropologist emphasize the dramatic and public acts such as the final ritual jumps over the hoop and the bow and arrow ceremony ... they also stress the exchange of food and beer and the feasts.
+
+They omit ... the secret aspects, the lighting of the girl's fire, her purification and whitening and the pottery figures and other mbusa used.
+
+138
+
+it was indeed the anxiety of the company showed on these occasions [magical omens - jumping over faggots] that first led me to think the chisungu was both a rite of passage and a magic ordeal.
+
+I rarely had the feeling of the 'sacred' during these ceremonies in the woodland.
+
+139
+
+There was a lot of joking and talking ... it was plain that these were not spontaneous emotions.
+
+The teasing of the girls was apparently considered to be a duty rather than a pleasurable excitement.
+
+The rites were everywhere shortened in 1931 and 1933 when I was in the country. In many places they were not performed at all.
+
+### THE CHINSUNGU IN RELATION TO TRIBAL DOGMA AND VALUES
+
+140
+
+[The Chisungu] expresses marriage morality - the girl's submission to her husband and his duty to provide for her, and the domestic, agricultural and sexual obligations of both.
+
+(Paraphrased) The first important ritual is the ceremony surrounding chieftainship - royal burial, so on, the second is the series of economic rites and the third the chisungu ceremonies themselves.
+
+The ritual pattern in all these ceremonies is based on a essentially homogenous body of beliefs - ... the dogma which links authority with the exercise of supernatural power based on access to ancestral spirits by those who have correctly handled sex and fire.
+
+146
+
+It is the occasion on which the girl is given her fire and her marriage pot and made responsible for their care and their use ... a glance at the ceremonies in the last column will show that except for individual magic rites, there are no ceremonies in the last common which od not, in the last resource, depend on the chisungu or on the abbreviated forms of puberty ceremony now carried out instead.
+
+The chisungu can also be considered of importance to the maintenance of tribal traditions because of its direct emphasis on 'things handed down'.
+
+147
+
+In the chinsungu however the women do not voice new desires but always those that have existed in the past.
+
+The rites consist of an intricate succession of acts the value of which lies in more or less exact repetition. The mbusa must be made in the same way and the pottery models on the floor cannot be established ... represent and proclaim the established rather than ones which enable the performer to meet new needs.
+
+(To the chart) it will be seen that all the major rituals of the Bemba reflect the importance they attach to fertility and the supply of food. 
+
+148
+
+Bemba believe that the child is entirely formed from the physical contribution of the mother and not the father.
+
+It is moreover common to find in primitive society that the woman is rgarded as solely responsible for the failure of a couple to produce children ... the children of a marriage belong legally to the girl's family and it is to their gain if she produces children.
+
+The salient features ... are also reflected in this ritual:
+* The characteristic attitudes to authority in this hierarchical society are expressed in ceremonies by which chiefs are created and maintained in their supernatural powers.
+* The hierarchy based on age ... (149) is one of those which is frequently symbolised in the chisungu by the offering of food in order of age; by acts of obeisance to seniors; by the singing over and over again of the song about the immutability of precedence based on age.
+* There is a great expression of the principle of precedence by age in the chisungu than in the chiefly rites themselves. This may be due to the fact that all rites of role assumption naturally give importance to age since it is those who have already assumed the senior role who can hand it on to the juniors.
+
+149
+
+It is worth noting that there is very little ritual expression of clan or lineage unity.
+
+The principle of matrilineal descent is very strongly held here in spite of the domestic authority the father manages to win.
+
+The boy himself is making an individual contract with all his wife's relatives. The girl's father and mother and the father's sisters are the main actors in the ceremony and the father is the potential head of the extended family ...
+
+In the chisungu ... it is the family that is emphasized and not the lineage. It must be recalled that the Bemba boy provides his own small token payments at marriage.
+
+...
+
+It seems clear that the maintenance of a stable family group is a difficult matter among the Bemba. There is the desire of the girl to stay with her own people which is opposed to that of the boy who wishes to return to his: accounting for the chisungu ritual which stresses the link between husband and wife; the supernatural sanctions against adultery; and the constant admonishment of the girl to submit to her husband.
+
+To conclude, Bemba chieftainship express a number of beliefs that are common to the chisungu such as the sex-fire-blood association and the link between political authority and ancestors.
+
+151
+
+They combine to stress the importance of fertility, children, food, respect for authority based on descent and age, and the need to build up village communities.
+
+Religion and magic ceremonies tend to be associated with:
+1. Natural environment
+2. Economic activities
+3. Biological processes
+
+Social structure:
+1. Maturation rites of assumption (of age rates or entry to age grades)
+
+Chisungu is a rite of social maturation and role assumption, employing magic of growth and tests of social maturation
+
+2. Social relationships
+
+Chisungu contracts marriage relationships: expresses rights of father, mother and father's sisters; expresses the relationships of brother and sister; expounds the ethical rules of kinship.
+
+3. Social groups
+Chisungu expresses precedence based in age and authority in the women's groups.
+
+4. Ultimate beliefs and dogma
+
+The chisungu is a form of puberty ritual ... it has a double focus since it is made to represent the attainment of sexual and social maturity alike.
+
+A summary classification of ritual practices ... shows ... they are used to control what is uncontrollable by rational means.
+
+153
+
+That control is secured according to the people's belief either by supplication.
+
+Secondly, they are used to maintain systems of social relationships and the structure of groups.
+
+Thirdly, they may provide the individual with spiritual experiences and represent the tribal philosophy or view of the world.
+
+### UNCONSCIOUS TENSIONS AND CONFLICTS
+
+154
+
+There is a contradiction ... between the concentration of fears around the beginning of married life and the open pleasure in sex relations which Bemba express. Puberty is eagerly looked forward to by the girls. They and their parents watch the growth of their breasts with interest and excitement ... they do not seem to fear the first act of intercourse.
+
+155
+
+In spite of this, intercourse is thought to be dangerous. Moreover, it is the act with the marriage bond that is feared, not the act outside it.
+
+It is difficult to believe that the Bemba associate guilt with sex in marriage ... it is at least possible that sex is considered shameful in association with a man's ancestors who are ... his maternal uncles and grandfathers ... there may thus be an extension to the spirit world of attitudes to living relatives.
+
+The taboos may also reflect the anxieties associated with marriage in Bemba society ... a frail link on which to depend for an approach to supernatural power. 
+
+156
+
+However strong the fears of the Bemba are, the way of escape from them is easy. The correct observance for ritual rules and reliance on the elders is sufficient.
+
+It is curious that the Bemba, whose marriages are trial marriages in their early stages, should express such a strong belief in the mystic links uniting husband and wife in the chisungu ceremony. Yet the Bemba are firmly convinced that the conduct of each partner to a marriage has a magical effect on the health of the other, and even on that of a third party, who commits adultery with one or another.
+
+157
+
+One could interpret this requirement by saying that the spirit of a dead Bemba is thought to haunt the living if the departed man or woman has been defrauded of his or her rights. If this interpretation is correct it can be assumed that a man who sleeps with the widow before the necessary ceremony of 'taking off the death' has taken place is regarded as defrauding the dead man of the marital rights he had acquired.
+
+Because of the lack of durable property in which status can be expressed, there is a tremendous insistence upon points of precedence and honour, and fights over what seem to us to be trivial claims and dues.
+
+His sexual rights over the wife is never questioned.
+
+158
+
+Another paradox is the contrast between the position of the bridegroom in daily life, and the role he is depicted in the chinsugi.
+
+In village affairs he must be submissive
+In the chisungu he appears as a roaring lion, a lion-killer.
+The bride's family is indebted to the bridegroom for 'the gift of a child'. In the chisungu rite it is the bridegroom's sister who 'begs for parent-hood'
+
+159
+
+If a Bemba husband fails to give his wife a child, his marriage dies.
+If he makes her pregnant but she dies in childbirth, he is held responsible.
+If he succeeds, he 'finds a house' and acquires status but rights of approach to his own matrilineal ancestors.
+
+The honouring of the son-in-law in the chisungu also enacts the desire of the womenfolk to attract a young man to make his home in their village. Bemba girls are bought up in a male dominated society ... but they [women] deny him ultimate power over his children.
+
+160
+
+To conclude, Bemba evidence supports the suggestion that there is a connection between matriliny and girls' initiation ceremonies which emphasize the importance of fertility.
+
+161
+
+### PRAGMATIC EFFECTS
+
+(Trying something new, paraphrased from now on)
+
+The intentions must be distinguished from the actual effects:
+
+
+The marked stage.
+The Bemba girl are nervous, series of ceremonial acts give her assurance and providing proof that she has a new stage in life ... free to eat loads
+
+If the marked stage is a ritual device the device of omen is more widely associated than previously thought.
+
+The chisungu is a test in the eyes of the performer.
+
+The device of public pronouncement is important - means of which the girl gains confidence that she is now able to act on her own, the first time she has been able to announce her individual responsibility in any way.
+
+Another device, the sacred emblem.
+The ritual pattern is common in ceremonies passing on roles and values.
+A series of ideas are associated with symbols.
+It is evident that the designs and pottery emblems form a sort of aide-memoire, women started to hum the songs when they saw the mbusa.
+It is clear that figurines represent moral attitudes and obligations, shoutable in a quotable form.
+(Example - woman tries to leave her baby to get a drink, older woman shotus the song).
+Therefore, this becomes a formal expression to public morality.
+
+It is also fixed form - centre of cluster of different associations. But, they are handed down - things will go on as they did before.
+They are used as basis of 'charter maintenance'.
+
+It does not matter how many meanings an emblem has,, only that the performers believe it was always the same. At the very least it conveys conventional attitudes.
+
+There is double meaning in every symbol - hoe represents garden duties (wife) but male fertility, miming dances around the musuku trees to honour it and to test women into parenthood, but also a reference to duty to get firewood. Girl emblems tied to trees and handled with mouths: tree that bears much fruit and symbolizes fertility, used for firewood, ancestors blessing (honouring with spittle). The mime - woman ready to do impossible tasks, like the silent tortoise, but not like the tortoise in that he does not tell guests he has supply of food.
+
+All of these symbols acquire secret meanings in ceremonies that only become revealed once partaken.
+
+Also, it has a number of effects on tribal institutions and structure - a mechanism of the cult group.
+
+Complex symbolism does not survive in a society without written literature.
+
+167
+
+The chisungu puts power into the hands of the nacimbusa.
+
+The ritual mechanisms used here may be elucidated by continued comparison of this cycle of rites with the ceremonies referred to.
+
+The ritual is handed on by hereditary succession in the case of headmen.
+Thus, the long rites for the burial of a Citimukulu, the installation of his successor and the building of his new village are controlled by hereditary buriers.
+
+The chisungu is mainly carried out by commoners who have no special relation to the chief and his court. The banacimbusa are individuals who won their way into authority.
+
+Difference too in how rites are performed - headmen pray to his ancestors when the village is quiet. The rites of great chiefs are secret and no unauthorized people can be present when the Citimukulu pray before his relic shrine.
+
+168
+
+Common people hope and believe the rites have been performed to there.
+
+The main features of a chisungu are its crowds ... ancestral ceremonies are performed in a reverent and quiet way. The chisungu proclaims and teaches ... the ancestral prayers are supplications to spirits who can give and withold.
+
+The approach is different ... only made by men in authority who believe themselves ... pure.
+

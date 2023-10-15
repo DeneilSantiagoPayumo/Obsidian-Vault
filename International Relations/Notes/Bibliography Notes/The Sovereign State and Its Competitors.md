@@ -167,13 +167,267 @@ In France, the kings underwent the right of adjudication - transforming acient r
 
 They also institutionalized the means of raising revenue - large taxes being standardized on the Royal Taille and teh Gabelle (the salt tax).
 
-The ad hoc nature of Hanseatic revenue precluded business certitude.
+The ad hoc nature of Hanseatic revenue precluded business certitude. The incidental tolls and customers ... duplicated the very problem that feudalism had previously posed for mercantile pursuits.
 
 To sum up, the Hansa were less efficient in reducing transaction costs and providing collective goods than the sovereign state - not managing to provide standardization of weights, enforce centralized justice, establish a system of coinage or establish means of raising revenue for a fund.
 
 ### PREVENTING FREERIDING AND THE KING AS PUBLIC ACTOR
 
-The confederated nature of the Hansa led to freeriding and defection - there were always incentive to disavow the edicts of the diet: defection from international agreements (engaging in piracy) led to the deterioration of relations with trading partners. The gains went to the towns, but the costs were borne by the entire Hansa.
+The confederated nature of the Hansa led to freeriding and defection - there were always incentive to disavow the edicts of the diet: defection from international agreements (engaging in piracy) led to the deterioration of relations with trading partners. The gains went to the towns, but the costs were borne by the entire Hansa. Although there was means of dealing with defectors, the most serious was exclusion ... enforcement still required detection of the perpetrator.
 
-Such defection included reneging on contributions to military campaigns and individual bargaining with non-Hanseatics.
-In economic matters, towns such as Hamburg and Elbing were too willing to defec from Hansa stipulations that no privileges were to be granted to English traders using the Hansa port.
+Such defection included reneging on contributions to military campaigns and individual bargaining with non-Hanseatics. When the Wend towns foughts the Danish in the 1420s, members of the Saxon group agreed to send help. However, they procrastinated in sneding troops until Lubeck had effectively defeated the Danes by itself.
+In economic matters, towns such as Hamburg and Elbing were too willing to defect from Hansa stipulations that no privileges were to be granted to English traders using the Hansa port. It finally withdrew these privileges when threatened with exclusion form the Hansa. Elbing was eager to give England a base in Prussia - Danzig became a port in exchange for corn and flax.
+
+The effect of this was the erosion of the Hanseatic trade hegemony.
+
+Defection and freeriding in the Hanseatic League were driven by mutual distrust between the towns and the decentralized institutional arrangements of the Hansa. Although the league had towns ... that could sometimes override collective action problems, the Prussian towns ... distrusted the treaty that the Wend towns, primarily Hamburg, Bremen, and Lubeck had signed with the Danish king in 1435.
+
+Sovereign actors capitalized on this mutual distrust: the Danish king only recognized the treaty for ships flying the flag of the Wendish town, in the hopes of creating a rift.
+
+The king exacted tolls on the Prussian ships that crossed through the Sound.
+England was eager to close deals with individual Hansa towns and thus circumvent the protectionism of the entire league.
+When obstructed from access to Bruges, where the Hansa had a major trading office, the English moved their trade to Antwerp which was a relay station for trade with Cologne.
+
+The centralized role that the general Hansetag might have played was further eroded by the regional Tage. Although the regional Tage represented one way of coordinating policy in a more manageable geographical mmanner, regional interests tended to erode the general policy of the league.
+
+In France, by contrast, the interests of the subjects of the realm and the interests of the king largely coincided. What was good fo France was good for the royal coffers.
+
+This is most clear in the activist policies of the French Crown from the later fifteenth century on through the mercantilist era ... Louis XI is thus regarded as "father French mercantilism". He tried to standardize measures, attract foreign craftsmen, and protect domestic industry. In the sixteenth century, the French Crown also engaged in saltpeter mining and industry that was relevant for the manufacture of munitions - the crown standardizing measures, attracting foreign craftsmen, and protecting domestic industry.
+
+By seventeenth century, mercantilism had come into full swing with Colbert's policies - the crown regulated the movement of bullion, reduced imports and fostered internal efficiency by reducing the large number of tolls, improving land transport.
+
+Notably, defense became defense of the realm - the standing army became an instrument of the state rather than an instrument for the defense of the king's property.
+
+The development of the king as protector of the realm was closely tied to the dissociation of the realm and the royal domain. For the Franks, the state belonged to him. With the later Capetians the royal domain ... became an unalienable entity. Hence the argument that the English king could not acquire part of France even if the French king so wished.
+
+The transition from royal domain to the public realm, the quality and function of the king changed.
+
+The king had two bodies: what happened to the individual did not affect the crown. It was increasingly grounded in Roman law, wherein the king was the fountain of law. The king is a public persona, expected to consider all issues with regard to the well-being of the res publica.
+
+This theory was especially articulated in England, similar ideas took root in France - Louis VII argued magnates owed service to the crown, Augustus asked for military support for defence of the king.
+
+There were reasons to believe supporting the king = supporting the realm.
+The king benefited from welfare of the state.
+
+In short, territorial rulers were recognised as political entrepreneurs who had vested interests in decreasing feudal economies.
+
+Standardizing coinage, reducing weight and measures, creating legal certitude, reducing transaction and information costs, internal hiearchy suited to control free riding and defection, less ability to wage war.
+
+Hansa were less able to wage type of war that the French state could've, organisational flaws of the Hanseatic League.
+
+Demise was long and protracted. There was no decisive battle that sealed its fate, decline was relative and not absolute. Tonnage of hanseatic shipping was 50% higher than 1600, lost ground relative to the dutch who by 1600 had a fleet 3x the tonnage of the Hansa. There was an economic revival after 1550 and the Hansa tried to remedy some of it through yearly assessment and a constitution in 1557.
+
+## Selection by Mutual Empowerment: Credible Commitments and Territorial Jurisdiction
+
+International exchange requires a modicum of domestic stability, expectation that each will adhere to the terms of the agreement. Internal stability is needed to guarantee that the partner can commit the individuals on whose behalf they're negotiating.
+
+Hanseatic diet did not specify whom it was negotiating for, an unattractive partner to international agreements. For example:
+
+The Merchant Adventurers, an English association of traders, argued in 1551 that privileges for the Hansa should be rescinded because "none of their charters named particular individuals or towns so that there was no way of knowing who ought to enjoy the pretended privileges.
+
+This was also perceived to be greatly detrimental to the king, and the Merchant Adventurers claimed that the crown lost 17,000 pounds sterling in customs duties because nonleague members enjoyed league privileges
+
+One of the primary demands of the Privy Council in the negotiations of 1560 ... Hansa provide list ... by 1589 the problem still was not resolved ... feared such a list would (to the English) make individual towns the target of English encroachment. A state might provide benefits to individual towns and thus encourage their defection or conversely, it might impose costs on some other.
+
+The Hansa furthermore argued that it could not be held responsible for infringements of treaties by individual towns. Privileges were obtained for all its members, and thus acted as a legal body, it suspended such uniform legal status when costs were imposed.
+
+The Hanseatic diet absolved itself from responsibility for towns that violated agreements, yet at the same time it argued that benefits negotiated by representatives of the Hansa should fall to all members.
+
+But Agreements were negotiated and ratified with the Hanseatic diet, but enforcement depended on the further ratification of the individual town council.
+
+Hansa was not able to prevent individual towns from defecting from agreements once they had been reached, which drove the trade wars between them and the English.
+
+Territorial lords were able to gain concessions by negotiating with individual towns directly.
+
+When England obtained privileges from Hamburg, Hamburg claimed to be a free city "which had the right to adopt any policy." In addition, this lack of committed membership highly complicated the nature of warfare. If a state went to war with the Hansa, this did not automatically mean that one was at war with all the Hansa members.
+
+In sovereign states, by contrast, the responsibility for redress of violations by subjects was put on the shoulders of the sovereigns.
+
+Sovereign authorities thus took it upon themselves to regulate trade.
+
+When a merchant had been defrauded by an alien, it was standard practice to take revenge, by violent means.
+
+Sovereigns, however, started to create focal points for institutionalized redress and their subjects would benefit, or be punished if they violated agreements.
+
+Sovereign authorities provided specific loci of authority through which cooperation could be organized.
+
+There were consequences of the Hansa of not committing:
+Because the league could not control defection, it could not credibly consign itself to long-run agreements with joint gain.
+Institutions originate where repetitive behaviour occurs between two actors. The more this repetition occurs, the more the actors expect a typical pattern of behaviour from the other.
+
+In short, political elites should prefer systems of rule in their environment that can commit their members.
+
+## MARKET VERSUS TERRITORIAL STATE
+
+The two states are driven by different principles.
+
+Hansa resembled imperial form - lacked authority of control, shared objective of having big political control over its sphere of economic interactions.
+
+Sovereign states, delimited by explicit territorial parameters. Their claim to authority is limited by their recognition that authority only extends to their border. States are logically predisposed to extend political control to other areas. Sovereignty is based on the principle of juridical equality.
+
+Imperial modes ... did not recognize formal borders. Hansa did not limit its political authority by formal borders ... tried to extend its control transterritorially ... seek special privileges (in non Hansa town) and rights of jurisdiction.
+
+League membership included towns in sovereign states, crosscutting jurisdiction. Town could be subject to the territorial lord, and to that of the league.
+
+The Hansa did not fit well:  especially worrying at the Peace of Westphalia where the league sought repressentation.
+
+Towns were only consulted on the issue of repayments. Nonterritorial logic did not mesh with the state system.
+
+Why would the independent imperial elite gain standing ... if the issue of hanseatic recognition was not simply a matter of material resources?
+
+The individual cities certainly did not have more resources than the league.
+Imperial cities could be regarded as small states.
+Individual towns could participate in peace treaties.
+the issue was whether the league as an organizations of town could participate
+
+## Selection by Directed Adaptation: Mimicry and Exit
+
+Students of organization theory and scholars of IR have vexed by a question: why are institutions similar, or at least why do they become similar over time?
+
+One explanation suggests that institutional isomorphism occurs through competitive pressures and non-competitive mechanisms.
+
+The latter process explains how less efficient organizations can continue to persist - mechanisms of mutual empowerment.
+
+The second process consists of agent-driven choices - copying institutions perceived to be important.
+
+It enables elites to be recognized as equals within the state system.
+
+In a material sense, they are suited to pursue long-run gains through treatises. From an ideological perspective, they are perceived as the equals of the leaders.
+Social actors vote with feet - exiting less successful system, switching loyalties.
+
+German lordships copy the institutional makeup, establishing hierarchical control within their borders.
+
+Weights and coinage were increasingly standardized and princely adjudication became the norm.
+
+These lordships became increasingly like miniature sovereign states.
+
+There were advantages to sovereign state-hood.
+
+Externally, states could ... commit themselves and engage in long-run iterative relations.
+
+As the advantage swung in favour of these states, only similar forms of organizations were recognized.
+
+Domestically sovereigns proved to be better at reducing transaction costs and providing for collective goods, so sovereign states managed to raise more revenue than their alternatives.
+
+All these factors suggested that sovereign statehood was the preferable form of organization. The Hansa similarly tried to copy institutional forms that were more successful - 16th century, pursuing closer co-op with the emperor to create the royal-urban alliance that had faltered.
+
+The Hansa entertained the idea of forming a tight association incorporating all German cities or even forming a government along the lines of the Dutch Republic - preventing defection. This idea failed because of town's disparate interest.
+
+Towns defected from the league perceiving the benefits of territorial entities. They allied with local lords, agreeing with the princes to construct states made up of contiguous territories. The tasks of organizing long-distance commerce were increasingly taken over by states and their consular services.
+
+Some Hansa towns simply failed to appear - towns were incorporated within the borders of existing sovereign states or became small territorial states in their own right.
+
+## FRAGMENTED SOVEREIGNTY IN THE ITALIAN CITY-STATES
+
+The Hansa lacked both two specific traits that sovereign states had: external, territorial definition and internal hierarchy.
+
+The city-state demarcated itself externally from other authorities by territorial borders. Internally ... it lacked a clear sovereign. Its jurisdiction over the subject towns was always contested. Sovereignty ... was fragmented.
+
+## Darwinian Selection: The Consequences of Contested Sovereignty
+
+Medieval commerce was bedeviled by a variety of measures, weights and coins, irrational means of trial.
+
+This was combatted internally by the king, who tried to become the external focal point for transnational interactions.
+
+Unlike in the sovereign state, hierarchy in the Italian city-state was ambigious as "power inside the city-state was always being challenged from within" - resembling the city-league.
+
+This fermentation within the Italian cities and city-states left them in a disadvantageous position through their territorial counterparts in rationalizing their economies.
+
+The lack of a sovereign authority was due to:
+
+First:
+The formation of the Italian state occurred through annexation of other towns by dominant cities
+All these towns had considerable autonomy before and did not relinquish their local autonomy before such incorporation - large responsibilities were left to cities - a distribution of power that some historians have called a diarchy. From the angle of the dominant city, subject cities were looked upon as vanquished areas at the disposal of the victor - look at Venice and its dominions.
+This attitude and lack of integration are evident in the slow extension of citizenship by the dominant city to its subject towns and rural areas.
+
+Second:
+Hierarchy of authority was less pronounced due to endemic factionalism - fluctuating between despotic, oligarchical and democratic regimes using government to serve its ends.
+Various factions claimed the legitimate right to exercise violence. In France by contrast, the king became the common provider of protection.
+In the previous discussion, the Hansa was less successful in rationalizing economy, preventing defection, providing for collective goods and reducing transaction costs.
+Standardization of weights, measures and coinage seem to have come relatively late to the Italian city-states. Subject towns had exercised these rights and were unwilling to give up their control. They raised their revenue, levied their own custom duties, making economic integration hard.
+
+The subject cities, due to their inferior status, were eager to defect when such an opportunity arose.
+
+In short, city-states looked like city-leagues, the absence of a central actor who had incentives to further the overall interest of the city-state.
+The dominant town exploited the subject cities.
+Conversely, subject towns judiciously guarded their autonomy and were willing to defect from the city state whenever the opportunity presented itself, making rationalization and standardization come very slow to Italian city-states.
+
+## Mutual Empowerment: Fixed Boundaries and Transnational Focal Point
+
+City-states behaved no differently in international affairs than sovereign, territorial states - their authority was bound by specific territorial parameters, participating as equals with states. Dominant Italian actors recognized the status quo and made a list idenitfying which towns were allies.
+
+The dominant city monopolized the foreign relations of the subject town - providing a clear focal point for negotiations.
+
+With the league, it was ambigious whether individual towns or Hanseatic Diet were most appropriate channels for diplomacy.
+
+City-states therefore survived a long time in the state system - Venice, German principalities, Italian city-states. A result of their empowerment as equivalent actors on the international scene because of their external similarity to sovereign, territorial states.
+
+## Institutional Mimicry and Exit
+
+The benefit of sovereign authority were not lost on Italian rulers.
+
+The success of these initial efforts - regulating the manufacture of goods, metal content of coins and so on - is unclear as economically these subject cities declined.
+
+Only leading citizens of subject towns obtained citizenship and internal barriers remained.
+
+There had been little progress in eliminating economic localism.
+
+The Venetian government remained locked in a system in which only noble families who had centuries before been entered into the Gold BOok were allowed to participate.
+
+Five families from mainland gained influence. Administration became privilege of nobleman.
+
+Commoners and lesser nobles had little access and little development of the notion of a sovereign.
+
+Implications are yet to be uncovered: despite this, coinage was stable, unclear how far mainland economies were sacrificed.
+
+It is clear that Venice never integrated the Terra Ferma. Many city-states failed. They clung to their historically developed, local and particularistic self-rule.
+
+Continued local particularism and turn from mercantile pursuit to landed interests brought Italian economy full circle - refeudalization occurred, nobility was always involved in Italian commerce whereas in NW Europe the Bourgeoise had remained separated from aristocratic mode of life.
+
+The turn to landed pursuits accompanied by considerable autonomy bbecame a reality.
+
+Only after the 2nd half of 18th century did centralization achieve success - intellectuals looked to foreign rulers and argued that only princes could be effective agents of reform.
+
+In summary, the city-states slowly transformed themselves into sovereign, territorial states.
+
+Arguably city-states, unlike city-leagues, were compatible with a system of sovereign states - they acknowledged territorial delimitation of their political control and final locus of external interactions.
+
+Because of their imperfect territorial integration and absence of a fully articulated sovereign authority, they proved to be less competitive,
+
+Attempts were made to transform city-states from a system in which dominant cities exploited their subject territories to one that was territorially integrated.
+
+## THE GENERAL NATURE OF INSTITUTIONAL SELECTION
+
+War was not the selective mechanism.
+
+Warfare did not end the Hanseatic League or the Italian city-states.
+One cannot argue Spanish and French invasions ended city-states.
+
+Success in war indicate the effectiveness and efficiency of types of organization - some forms of organizations are superior. Sovereign states were better in raising revenue and larger numbers of troops. War did not work as an evolutionary process that selected among types of units.
+
+The ability to wage war needs to be explained:
+I have suggested that size and population are at best imperfect predictors of military power ... neglects the rise of Portugal and the Netherlands which
+were no larger in terms of territory or population (to Italy)
+
+The ability to wage war was a function of institutional arrangements
+Those of freeriding and factionalism had problems reducing transaction costs and rationalizing their economies.
+
+Selection was thus partially driven by competitive efficiency. It also advanced ... by the process of mutual empowerment.
+
+Sovereign actors only recognized particular types of actors ... because the Hanseatic system of rule proved to be less incompatible with that of territorially defined states ... it was not legit player in IR.
+
+They also engaged in institutional learning - corresponding with their belief systems, and choosing systems that proved better than others, weeind gout the 'lesser ones' - systems of rule that could make credible commitments and systems that would not encroach upon one's own jurisdiction.
+
+The institutionalization of a system of sovereign states imposed a certain non-hierarchical order on transnational interactions.
+
+That said, evolution is adaptation, not progress - not teleological, only developing the 'most competitively efficient' institution.
+Selection occurs after a broad environment shift.
+The selective process might have emerged between city-states and city-leagues would've occurred if the institutional form of the sovereign state did not emerge.
+
+# Conclusion
+
+On the one hand, the emergence of sovereign states had direct consequences for the other types of institutional arrangements in the system. The system selected out those types of units that were, competitively speaking, less efficient.
+
+At the same time, sovereign states preferred similar modes of organization in their environment. Actors intentionally created a system of sovereign, territorial states. They preferred a system that divided the sphere of cultural and economic interaction into territorial parcels with clear hierarchical authorities.
+
+In the first phase, variety of units form elements of a system, transforming it to a network of similar actors.

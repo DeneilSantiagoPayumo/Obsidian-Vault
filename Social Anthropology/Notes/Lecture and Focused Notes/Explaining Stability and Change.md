@@ -167,7 +167,7 @@ He was one of the first ethnographic monographs - and took to understand the Kul
 1. Each culture is a complex, functionally integrated whole
 2. Attempting to "grasp the native's point of view"
 
-### Durkheim
+### [[Emile Durkheim]]
 
 1. Splitting sociology from history
 
@@ -193,7 +193,7 @@ Like an organism, a society:
 4. Belongs to 'kinds' which can be compared
 
 There are two different kinds of Functionalism:
-Malinowksi Functionalism is focused on people's culture - perceptions, individuals - is holistic and asks about the natives point of view. This function can be social, psychological or biologica,
+[[Malinowksi]] Functionalism is focused on people's culture - perceptions, individuals - is holistic and asks about the natives point of view. This function can be social, psychological or biologica,
 Structural Functionalism is focused on studying social function, social structure (not culture), comparing institutions across societies, asking about how societies remain in equilibrium
 
 ### [[Evans-Pritchard]] on Neur Fending
@@ -257,10 +257,3 @@ The fundamental point, in taking the complex politics of theory, is that the pol
 
 "The fundamental reactionary character of functionalism is exposed since it focuses on why things do not change, rather than why they do." (Faris 1973) vs "Functionalist anthropologists ... produced representations of colonized peoples perfectly able to govern themselves." (Foks 2018)
 
-
-
-
-
-
-
-"

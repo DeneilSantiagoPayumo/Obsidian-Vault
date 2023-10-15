@@ -1,5 +1,5 @@
 I need to:
-- [ ] Choose an ethnography to read to discuss on the 11th ^776115
+- [ ] Choose what to do this week ^776115
 
 >[!important]
 >You will not need to do any of the reading (aside from the core ones)

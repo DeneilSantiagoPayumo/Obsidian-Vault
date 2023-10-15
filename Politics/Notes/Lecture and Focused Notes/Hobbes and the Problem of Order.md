@@ -73,8 +73,6 @@ ___Counter Arguments___
 
 That said, it's not self-evident that civil-war is that destructive *and* the consequences of having a Sovereign as in Saddam Hussein.
 
-![[John Dunn, The history of political theory, and other essays#^Hobbescounterargument1]]
-![[John Dunn, The history of political theory, and other essays#^Hobbescounterargument2]]
 #### It's important centrally to consider the context of Hobbes' starting place.
 The English civil war between 1642-1651: two massive conflicts between Crown V Parliament and religious differences within Protestantism.
 There was Instability: war broke out 1642, and Parliament executed the king, ruled with the army and in 1660 the monarchy returned.

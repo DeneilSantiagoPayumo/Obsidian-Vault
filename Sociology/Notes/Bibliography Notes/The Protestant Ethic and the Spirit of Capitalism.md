@@ -1,6 +1,6 @@
 The Protestant Ethic and the Spirit of Capitalism / Max Weber; translated by Talcott Parsons; with an introduction by Anthony Giddens
 This links to [[Theories of Modernity]]
-This has ties with Religion and Capitalism 
+Sociologist: [[Max Weber]]
 
 *page xxi-page xxii-page xxiii*
 
