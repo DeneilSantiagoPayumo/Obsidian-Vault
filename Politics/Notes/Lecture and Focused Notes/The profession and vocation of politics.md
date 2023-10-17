@@ -82,12 +82,115 @@ collapse: closed
 "The specific means of legitimate violence per se in the hands of human associations is what gives all the ethical problems of politics their particular character."
 ```
 
-## Questions I had:
+---
 
-> [!Question] Question
-> Place question here
+Date: 17/10/2023
 
+Some context to Munich:
 
-> [!Question] Question
-> Place question here
-## Summary:
+##### The context of the first world war.
+
+Germany's impending loss in the Great War was becoming clear - losing militarily and economic crisis at home was causing widespread dissatisfaction.
+The German leadership agreed the need to accept an armistice.
+The 22 hereditary federal princes all abdicated over the course of November 1918. That Germany has lost the war. Kaiser Wilhelm II abdicated the throne just merely days before signing the armistice.
+
+These are people who understand the power of the state, have taken a stance, have participated in warfare.
+
+Weber himself understood the economic problems occupying Germany: at the start of the first world war, he was a wholehearted supporter of the conflict... but now, not so.
+
+The Charismatic forces of legitimacy have lost its force. They can't rule on custom, the tradition, the way things had been. Traditional legitimacy fell out of the basis of understanding Germany in 1918.
+
+###### Revolution and Counter-Revolution
+
+From late October, German sailors have been in mutiny, prompting revolts - the German revolution of 1918-19.
+
+They were joined by left-wing political activists, inspired by the Russian revolution of the previous year, the Spartacus League co-founded by Rosa Luxemburg.
+
+The German government was under Friedrich Ebert, a social democrat - in an attempt to restore order, he allied with the Freikorps, a paramilitary corp what affiliated to the far right.
+
+In Munich, Kurt Eisner led a march on the royal palace on the anniversary of the Bolshevik Revolution, leading to the abdication of the Bavarian King, Eisner himself declaring the 'people's State of Bavaria', of which he was the leader. Eisner denounced those who led Germany into war.
+
+```ad-quote
+title: Weber on politics...
+"From the left to the right - insanity is able to dominate politics"
+(In response to a right-wing assassin being pardoned...)
+```
+
+Weber declined to do this speech, only doing thus when he finds out the 'far-left' to call Eisner in his stead.
+
+Weber wants to discuss then how effective leadership is - how do states generate leaders to tackle challenges of political rule.
+
+The modern state, political parties, can generate political leaders.
+
+For Weber, political parties stifle individual expressions of political beliefs - for Weber, parties become disciplined and bureaucratic leaders. Your loyalties, if entered, become central to the party and not your beliefs - a spokesperson to your party, but not your constituencies.
+
+Weber's solution - ideas of *how* charisma can become a disruptive force in political institutions. What he foresaw was how political figures can join in and develop a following within those political parties, being taken seriously therein. Figures that can capture power and take a significant role.
+
+Weber understands the democratic system as one of many flaws and problems, but the capacity to push people into power and push those into political power and but also that of to stifle political leadership, where the leader can take ethical principles as opposed to the minister.
+
+The leader can do something that bureaucrats just can not. The charismatic leader must take place in charge of the state, and nothing else if their perspective of the world comes into fruition.
+
+Power just somehow becomes concentrated into the hands of several people, different groups of people compared to monarchy and aristocracy - *not* that power is dispersed in a democracy. You have a group of people who come to power through democratic processes through charismatic authority. There are, however, very few checks on these people and their power. They cannot martial the energy of the people, but they are still regardless people who rule.
+
+There is a danger obviously for these people to make decisions in an ethical way.
+
+It's because the nature of political power that he turns his lecture to thus:
+
+```ad-important
+title: Qualities of a modern politician (pp. 352-53):
+Passion - the 'passionate commitment to a cause'
+Responsibility 'for that cause'
+Judgement - 'inner composure ... distance from things and people.'
+```
+
+```ad-seealso
+title: The two ethical forms (pp. 359-68)
+The ethic of conviction - 'unconditional duty'
+The ethic of responsbility - 'one must answer for the (foreesable) consequences of one's actions.'
+```
+
+Frameworks:
+-> the ethic of conviction is the rational ordering of ethical principles (he disagrees from attributing to God, or the idea that only good can flow from good (his political opponent - Foerster))
+->  the ethic of responsibility - the achievement of good ends, and trying to to employ morally suspect and dangerous means, with the possibility of even more evil side-effects.
+
+Two examples - one should never lie or that revolution is necessary to achieve a socialist principle.
+
+These are two examples of absolutist principles, absolute ordinance of a hierarchy of principles.
+
+```ad-quote
+title: About both ethics:
+"... two fundamentally different, inrreconcilably opposed maxims..."
+"The main who espouses an ethic of conviction cannot bear the ethical irrationality of the world. He is a cosmic-ethical reationalist."
+"It is not possible to unite the ethic of conviction with the ethic of repsonsibility, nor can one issue an ethical decree determining which end shall sanctify which means."
+
+```
+
+Weber makes an argument on how the principles of the modern state makes for effective deliberation.
+
+At the penultimate page, he describes how;
+
+```ad-quote
+title: Weber making a... contradiction? (page 376-68)
+"The ethics of conviciton and the ethics of responsibility are not absolute opposites. They are complementary to one another, and only in combination do they produce the true human being who is capable of having a 'vocation for politics."
+
+```
+
+Here's a better explanation:
+He's not saying they're the same thing, he's drawing attention to specific phrases -"in such a situation", "at some point", "it must be possible,", a reference to Martin Luther - "Here I stand, I can do no other", a moment of crisis and political contest that must be asserted. This is not *your* politics, but what someone will do in exceptional circumstances.
+
+When faced with ultimate challenges, thinking responsibly is necessary.
+
+He uses the term 'complementary', in that sense the Ethic of Responsibility is *how* we should be thinking, but convictions must be rest.
+
+---
+
+```ad-hint
+title: Ways in which Weber could be limited as a political thinker:
+1. Weber believes that there is **a threat of encoraching bureaucratisation** ... but is this a real problem?
+2. Weber believes there is a diminished potential for leaders who can rise above the fray ... but is there really a meaningful absence?
+3. Weber believes leaders are held in check by their parties and by the political system ... but does this diminish the potential for authoritarian desposition?
+
+Are these leaders really restrained by their political system? Leaders who will always obey the rules of the system? That is clearly, in contemporary politics, strange in how democratic leaders can take authoritarian terms and dismantle political systems.
+
+For Weber there is no alternative to the powerful state. Therein, these ethics *must* be considered.
+```

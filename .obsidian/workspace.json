@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c683324bc8d56998",
+        "id": "d2d1b08696d12173",
         "type": "tabs",
         "children": [
           {
-            "id": "7ecf1bea9aaaba7c",
+            "id": "7b5a0e08ae50a2c9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dd886b775c68e2a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z. Root/Z. Misc/Deadlines.md",
+                "file": "Sociology/Notes/Bibliography Notes/Nationalist Thought And The Colonial World.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.50499725341797
+    "width": 292.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z. Root/Z. Misc/Deadlines.md",
+                "file": "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z. Root/Z. Misc/Deadlines.md",
+                "file": "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z. Root/Z. Misc/Deadlines.md"
+                "file": "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md"
               }
             }
           },
@@ -195,41 +211,44 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "ea99d8ddb30ab8ba",
+  "active": "7b5a0e08ae50a2c9",
   "lastOpenFiles": [
-    "Sociology/Archived Materials/Deadlines for Sociology.md",
-    "Sociology/Archived Materials/List of lectures for SOC.md",
-    "Social Anthropology/Archived Material/Deadlines for SAN.md",
-    "Social Anthropology/Archived Material/List of lectures for SAN.md",
-    "Politics/Archived Material/Deadlines for Politics.md",
-    "International Relations/Archived Material/Deadlines for IR.md",
-    "Z. Root/Z. Misc/Deadlines.md",
+    "Sociology/Notes/Bibliography Notes/Nationalist Thought And The Colonial World.md",
+    "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
+    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
+    "Sociology/Notes/Bibliography Notes/The Souls of Black Folk.md",
+    "Sociology/Notes/Bibliography Notes/The Division of Labour in Society.md",
+    "Sociology/Notes/Bibliography Notes/Imagined Communities.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md",
+    "protodemocratic.md",
+    "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
+    "International Relations/Notes/Lecture and Focused Notes/Peace of Westphalia.md",
+    "International Relations/Notes/Bibliography Notes/The Westphalian legal Orthodoxy - Myth or Reality.md",
     "International Relations/Notes/Bibliography Notes/The Sovereign State and Its Competitors.md",
     "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
     "International Relations/Notes/Bibliography Notes/Of Things of the Indies.md",
     "International Relations/Archived Material/List of lectures for IR.md",
-    "Sociology/Notes/Bibliography Notes/Manifesto of the Communist Party.md",
-    "Sociology/Notes/Bibliography Notes/The Division of Labour in Society.md",
-    "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
-    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
+    "International Relations/Archived Material/Deadlines for IR.md",
+    "International Relations/Notes/Bibliography Notes/International Orders in the Early Modern World, Before the Rise of the West..md",
+    "Z. Root/Z. Misc/Deadlines.md",
+    "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
+    "Z. Root/Z. Misc/Seeley and Haddon library.md",
+    "Malinowksi.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Two ways with culture - Interpretivism and Structuralism.md",
+    "Social Anthropology/Archived Material/List of lectures for SAN.md",
+    "Social Anthropology/Archived Material/Deadlines for SAN.md",
     "Social Anthropology/Notes/Lecture and Focused Notes/Explaining Stability and Change.md",
     "Social Anthropology/Notes/Lecture and Focused Notes/Concept, puzzles and theories.md",
-    "Social Anthropology/Notes/Bibliography notes/Nightwork, sexuality, pleasure and corporate masculinity in a Tokyo hostess club.md",
-    "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
-    "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
-    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md",
-    "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
-    "Politics/Notes/Bibliography notes/Weber/Contesting Democracy.md",
+    "Z. Root/Z. Photo Dump/Pasted image 20231016204714.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231016192340.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231016142636.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231016101637.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231015092324.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231013113155.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231004111905.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231003170944.png",
     "Z. Root/Z. Photo Dump/Pasted image 20230925153356.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231012164653.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231012162831.png",
     "Politics/Notes/Bibliography notes/Weber",
     "Z. Root",
     "Z. Root/Z. Misc",
@@ -238,12 +257,9 @@
     "International Relations/Projects/IR Supervision",
     "General University Folder/1. Projects/Politics Supervision",
     "General University Folder/2. Areas/Ongoing Supervisions",
-    "General University Folder/4. Archives/Fresher's Week/Freshers timetable p1.png",
     "Social Anthropology/Archived Material/Untitled",
     "Obsidian-Vault-Cambridge",
     "Remote-Vault",
-    "Github Repo",
-    "Z. Root/Z. Photo Dump/Pasted image 20231004121143.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231004121119.png"
+    "Github Repo"
   ]
 }

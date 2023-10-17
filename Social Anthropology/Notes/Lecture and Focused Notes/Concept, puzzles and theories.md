@@ -64,6 +64,3 @@ collapse: open
 This is not a complete picture of theories!
 
 ```
-
-## Summary:
-/clone

@@ -12,20 +12,14 @@ SOC:
 
 ![[Deadlines for IR]]
 
-
 What do I want to do this week starting the 15/10/23?
 
-MONDAY: SOC, IR
+TUESDAY: SAN, POL
 
-SOC: Anderson Imagined Communities CHP 1 and 8 (summary)
-Chatterjee Partha Chp 1
-
-IR: Stephane Beaulac, “The Westphalian Legal Orthodoxy–Myth or Reality.” Journal of the History of International Law 2000 2: 148-177
+Doing IR today:
 
 Yuval-Davis, N., 2011. The Politics of Belonging: Intersectional Contestations. Sage.
 Esp chps 4-6. (ebook)
-
-TUESDAY: SAN, POL
 
 SAN: Start Ethnographic reading (notes on my ethnography?)
 Start reading thick description - make notes!
