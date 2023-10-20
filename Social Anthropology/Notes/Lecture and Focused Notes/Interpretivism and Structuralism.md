@@ -131,3 +131,152 @@ There are very powerful 'mid-level' theoretical analysis.
 This can be combined with other theoretical schools - Functionalism and Marxism / Feminism.
 
 Culture is patterned by grammar we are not aware of.
+
+---
+
+20/10/2023
+
+## Interpretivism
+
+This is a theory made in the 60s/70s.
+It views culture like texts, or an assemblage of texts - and seeks to interpret these texts. Culture is not a hidden grammar underlying what we are doing, it is a shared set of meanings: it is what we are doing, how we try to make sense of the world, and so on.
+
+```ad-important
+title: Culture:
+collapse: closed
+
+They are like scripts, written, a giant library, and Interpretivists seek to uncover a giant understanding about the world.
+
+All of the people we've spoken to views anthropology as a social science. Instead, Interpretivists believe anthropology is an interpretative science. Anthropology is literally like history, an interpretative approach.
+```
+
+### Clifford Geertz (1926-2006)
+
+He is an anthropologist who wrote *a lot* - the Religion of Java, on Islam and so on.
+He also read, most interestingly, 'Thick Description' and 'Notes on the Balinese cockfighting.'
+It is known as a culture theory - how cultural aspects shifts people's personalities.
+
+He combines this vision of culture (Diffusionism) with another element of thought - Hermeneutics, Interpretivism like Weber.
+
+This idea that anthropology is a form of interpretation, an idea that comes as far as Weber and William Dilthey - creating 'Verstehen' (empathetic understanding), and a distinction between hermeneutics versus positivism.
+
+```ad-example
+title: It's raining here...
+Action is movement that is meaningful, an analysis into the subjective actions of people. Why are people not coming to the lecture today? Is it because of the rain? Why is the rain making people less inclined?
+```
+
+This came with a notion from British philosopher Gilbert Byle - **Thick Description**.
+
+Thin description - describing an action from the outside. If you attempt to interpret this story, you might try to analyse things.
+
+```ad-example
+title: Winking!
+
+A lady is winking in a photo.
+A **thin description** is describing that she is merely winking.
+A **thick description** tries to understand why.
+```
+
+When people do things, they do it in layers of complexity. What does it mean for different people in different actions?
+
+```ad-quote
+title: Weber...
+"The concept of culture I espouse ... is essentially a semiotic one. Believing, with Max Weber, that man is an animal suspended in webs of siginifance he himself has spun. I take culture to be those webs, and the analysis of it to therefore not an experimental science in search of law, but na interpretive one in search of meaning."
+
+...
+
+"Doing ethnography is like trying to read ... a manuscript - foreign, faded, full of elipses, incoherences. suspicious emendations, and tendentions commentaries, but written not in conventionalized graphs of sound but in transient examples of shaped behaviours."
+```
+
+### The Balinese Cockfight
+
+The article starts with a story - one of the things we see is that anthropology is written into a picture of a particular way.
+
+His story: he arrived, everybody ignored him for ages.
+Eventually, they were walking around and he joined in watching a cockfight.
+Cockfighting is illegal and the police arrive.
+They huddle into someone's random kitchen, and they covered for them.
+The point of this story is to trust his perspective: someone who's been there, been in their shoes, and then describes aspects of cockfighting.
+
+Cockfighting is symbolic - in Balinese culture, there are lots of jokes about 'cocks', sexual innuendos and puns: people constantly joke about men and their cocks. The reader, as us, can laugh.
+
+But there's an understanding about animality in Bali - animals are considered negative, being animal-like is negative and there's a lot of understanding in how children are raised to not behave like animals.
+
+He then gets to the mechanics of the fights itself: the fights are violent, quick, fast, messy but organized - lots of discussions about the fairness of a fight, the strength of an animal, its weaknesses and so on.
+
+```ad-quote
+title: The cockfight:
+"This crosswise doubleness of an event which, taken as a fact of nature, is rage untrammeled and taken as a fact of culture, is form perfected, defines teh cockfight as a sociological entity."
+```
+
+People bet on these cockfights - there are side bets between audience members, big bets between fighters.
+
+The stakes amongst villages are high, and what is at stake is not about making money, but what is really important is status and drama. This is a 'deep play' (from Jeremy Bentham) where the stakes are so high that gambling is 'irrational.'
+
+It is a social organisation, betting with kin / friends / allies, against enemies.
+
+*"Cockfights make nothing happen."*
+
+You don't change in status
+There is no redistribution of money
+No psychological function
+
+It seems odd to us and has no real function.
+
+"It's function, if you want to call it that, is interpretive; it is a Balinese reading of Balinese experience, a story they tell themselves about themselves."
+
+It's a function - 'a means of expression; its function is neither to assuage social passions nor to heighten them [...] but in a medium of feathers, blood, crowds and money to display them."
+
+Culture is "an ensemble of texts ... which the anthropologists strain to read over the shoulders of those to whom they properly belong."
+
+So really, the Balinese cockfight does two different things:
+* It illustrates **cultural differences** 
+* It demonstrates **cultural intelligibility** 
+
+The starting point is cultural relativism, and understanding a culture, before making a moral argument.
+
+```ad-quote
+title: Interpretivism versus functionalism
+"Culture is not a power, something to which social events, behaviours, institutions, or processes can be casually attributed: it is a context, soemthing within which they can be intelligibly - that is thickly - described."
+```
+
+```ad-quote
+title: Interpretivism versus structuralism
+- "Culture is public because meaning is"
+- Culture is messy: "Nothing has done more, I think, to discredit cultural analysis than the construction of impeccable depictions of formal order in whose actual existence no one can actually believe."
+- Different 'levels' of explanation: culture as langauge (structuralism), cultures as texts (interpretivism).
+```
+
+
+## Critiques and problems:
+Visions of culture - power and tensions, different perspectives
+Culture isn't totality: who among the Balinese?
+Different perspectives aren't elucidated upon.
+
+```ad-seealso
+title: Keesing 1987
+"Vies of cultures as collective phenomena, of symbols and meanings as public and shared, need to be qualified by a view of knowledge as distributed and controlled. Even in classless societies, who knows what becomes a serious issue. Cultures as texts, I will argue, are differently read, differently construed, by men and women, young and old, experts and nonexpert, even in the least complex societies ... we need to ask who creates and defines cultural meanings, and to what end.
+
+...
+
+Where feminists and Marxists find oppression, symbolists find meaning."
+
+```
+
+What about relationships between culture - are we overanalysing cultures, or introducing stuff from our culture to theirs.
+
+
+## Continuing relevance
+
+This vision of culture is the biggest 'export' of anthropology: to history, literary studies, and popular culture.
+
+Cultural interpretation remains pervasive in anthropology.
+
+Interpretivism can be combined with an attention to power, historical change, individual agency.
+
+More generally, as Engelke notes:
+- Anthropologists have long since been aware of the complexity of culture: Malinowski views 'human cultural reality is not a consistent logical scheme but a seething mixture of conflicting principles.'
+- This complex notion of 'culture' remains useful counterpoint to:
+1. Those who give it no role at all (biological determinists, psychologists who generalize society...)
+2. Those who treat cultures as essential units (political commentary, some versions of IR theory...)
+

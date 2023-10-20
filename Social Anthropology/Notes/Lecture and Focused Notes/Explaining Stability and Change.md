@@ -166,7 +166,7 @@ He was one of the first ethnographic monographs - and took to understand the Kul
 1. Each culture is a complex, functionally integrated whole
 2. Attempting to "grasp the native's point of view"
 
-### [[The Division of Labour in Society|Emile Durkheim]]
+### [[Emile Durkheim]]
 
 1. Splitting sociology from history
 

@@ -8,27 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b5a0e08ae50a2c9",
+            "id": "be4f89b41afee3e5",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
+                "file": "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "dd886b775c68e2a4",
+            "id": "ea4448510cec7b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/Nationalist Thought And The Colonial World.md",
+                "file": "Z. Root/Misc/Deadlines.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.50499725341797,
-    "collapsed": true
+    "width": 292.50499725341797
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -110,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
+                "file": "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
+                "file": "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md"
+                "file": "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md"
               }
             }
           },
@@ -211,34 +208,35 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "7b5a0e08ae50a2c9",
+  "active": "be4f89b41afee3e5",
   "lastOpenFiles": [
-    "Sociology/Notes/Bibliography Notes/Nationalist Thought And The Colonial World.md",
-    "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
-    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
-    "Sociology/Notes/Bibliography Notes/The Souls of Black Folk.md",
-    "Sociology/Notes/Bibliography Notes/The Division of Labour in Society.md",
-    "Sociology/Notes/Bibliography Notes/Imagined Communities.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md",
-    "protodemocratic.md",
-    "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
+    "Z. Root/Misc/Deadlines.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Untitled.md",
+    "International Relations/Notes/Bibliography Notes/Harmony and War, Confucian Culture and Chinese Power Politics.md",
+    "International Relations/Notes/Bibliography Notes/Hierarchy and Legitimacy in International Systems, The Tribute System in Early Modern East Asia.md",
+    "International Relations/Notes/Bibliography Notes/Bringing the State Back In.md",
+    "International Relations/Notes/Bibliography Notes/International Orders in the Early Modern World, Before the Rise of the West..md",
+    "International Relations/Notes/Lecture and Focused Notes/China and East Asia.md",
+    "International Relations/Notes/Bibliography Notes/Of Things of the Indies.md",
+    "Z. Root/Misc/Seeley and Haddon library.md",
     "International Relations/Notes/Lecture and Focused Notes/Peace of Westphalia.md",
+    "International Relations/Notes/Lecture and Focused Notes/First Encounters and Origins of Global Relations.md",
     "International Relations/Notes/Bibliography Notes/The Westphalian legal Orthodoxy - Myth or Reality.md",
     "International Relations/Notes/Bibliography Notes/The Sovereign State and Its Competitors.md",
-    "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
-    "International Relations/Notes/Bibliography Notes/Of Things of the Indies.md",
+    "International Relations/Projects/IR Supervision/Power, Sovereignty, State Supervision.md",
+    "Z. Root/Z. Photo Dump/Pasted image 20231019210827.png",
+    "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
+    "Sociology/Notes/Lecture and Focused Notes/Media, Social Media and Capitalism.md",
+    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
+    "Sociology/Notes/Bibliography Notes/The national in everyday life, a critical engagement with Michael Billig's thesis of Banal Nationalism.md",
+    "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
+    "Sociology/Notes/Bibliography Notes/Imagined Communities.md",
+    "Sociology/Notes/Bibliography Notes/Manifesto of the Communist Party.md",
+    "Sociology/Notes/Bibliography Notes/Disjuncture and Difference in the Global Cultural Economy.md",
+    "Sociology/Notes/Bibliography Notes/The Souls of Black Folk.md",
+    "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
     "International Relations/Archived Material/List of lectures for IR.md",
-    "International Relations/Archived Material/Deadlines for IR.md",
-    "International Relations/Notes/Bibliography Notes/International Orders in the Early Modern World, Before the Rise of the West..md",
-    "Z. Root/Z. Misc/Deadlines.md",
-    "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
-    "Z. Root/Z. Misc/Seeley and Haddon library.md",
-    "Malinowksi.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Two ways with culture - Interpretivism and Structuralism.md",
-    "Social Anthropology/Archived Material/List of lectures for SAN.md",
-    "Social Anthropology/Archived Material/Deadlines for SAN.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Explaining Stability and Change.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Concept, puzzles and theories.md",
     "Z. Root/Z. Photo Dump/Pasted image 20231016204714.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231016192340.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231016142636.png",
@@ -248,10 +246,9 @@
     "Z. Root/Z. Photo Dump/Pasted image 20231004111905.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231003170944.png",
     "Z. Root/Z. Photo Dump/Pasted image 20230925153356.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231012164653.png",
     "Politics/Notes/Bibliography notes/Weber",
     "Z. Root",
-    "Z. Root/Z. Misc",
+    "Z. Root/Misc",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "International Relations/Projects/IR Supervision",

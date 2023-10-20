@@ -11,5 +11,4 @@ Or, you can consider the sovereign question: is the sovereign state a European e
 
 Should you choose the sovereign question, you will need to start writing it on the 16th which is next week.
 
-This will be tough. No matter though. This is the life you choose.
 

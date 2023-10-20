@@ -1,4 +1,5 @@
 This ties into [[Theories of Modernity]]
+[[Emile Durkheim]]
 
 ### Introduction:
 This should be read within the context of the attempts to come to grips with the complex division of labour that emerged with the industrial revolution - best understood as an attempt to define and come to grips with an unprecedented system

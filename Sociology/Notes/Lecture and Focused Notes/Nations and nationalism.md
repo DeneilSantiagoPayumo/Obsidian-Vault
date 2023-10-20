@@ -1,10 +1,6 @@
 Lecture: Nations and nationalism
 Date: 12-10-23
 Lecturer: Patrick Beart
-Tags: [[Nationalism]]
-
----
-## Lecture notes:
 
 ## A history of nationalism:
 
@@ -42,7 +38,7 @@ Intellectuals often become guardians for imposing these cultures onto population
 
 How does he explain the emotional basis of Nationalism if this is all Functional?
 
-## [[Benedict Anderson]]
+## [[Benedict Anderson]] in [[Imagined Communities]]
 
 He avoided a Functionalist logic of explanation, and focused on how people developed a sense of national consciousness.
 
@@ -92,7 +88,8 @@ The ongoing call for independence within the UK, Spain and Belgium
 
 ```
 
-## [[Michael Bilig]]
+## [[Michael Bilig]] in [[The national in everyday life, a critical engagement with Michael Billig's thesis of Banal Nationalism]]
+
 He studied social psychology and taught it at Loughborough.
 Study of nationalism focuses on extreme forms of nationalism.
 
@@ -101,7 +98,8 @@ He wants to have a subtle versions of nationalism or representation of the natio
 
 This form of nationalism is powerful as it tends to be ubiquitous, unconscious and the existing social research focuses on extreme forms of nationalism, not noticing these subtle forms.
 
-## [[Partha Chatterjee]]
+## [[Partha Chatterjee]] in [[Nationalist Thought And The Colonial World]]
+
 
 He disagrees with this: pointing out the distinctive nature of nationhood and nationalism in Asia and Africa.
 
@@ -148,4 +146,11 @@ There are many inequalities in many worlds but fewer people are destitute.
 There is a stretching of global networks (with global warming), and intensity of global interconnectedness with high-speed telecommunications and velocity of global flows.
 
 So the role of the nation-state is still thus, but reshaped.
+
+## Nationalism and populism:
+
+Brubaker wrote an interesting article about Populism and Nationalism - Populism is distinct, opposition between elite and the people whereas strong nationalist elements in populist discourse and policies - economic protectionism, reneging international commitments, strong focus on the protection of borders, nostalgia and so on...
+
+Possible explanation for its appeal: from the 1990s until the 2010s, centre-left political parties embraced neo-liberal economic policies and identity politics culturally.
+
 

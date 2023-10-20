@@ -1,8 +1,5 @@
 Benedict Anderson - [[Nations and nationalism]]
 Chapter 1 and 8
-
----
-
 ## Introduction
 
 Anderson argues that the inflow of nationalism has only massively increased over time.
@@ -48,8 +45,6 @@ Called sovereign because the concept was born in an age in which Enlightenment a
 
 Called a community because the nation is conceived as a deep horizontal comradeship - that makes people willing to die for it.
 
----
-
 ## Cultural Roots
 
 Anderson discusses the tomb of the fallen soldier - can you imagine anything like Marxists doing that?
@@ -65,9 +60,6 @@ What was needed was a secular transformation of fatality into continuity, contin
 12
 
 Anderson proposes that nationalism must be understood by aligning it ... with the large cultural systems that preceded it - the religious community and dynastic realm.
-
----
-
 ## THE RELIGIOUS COMMUNITY
 
 13
