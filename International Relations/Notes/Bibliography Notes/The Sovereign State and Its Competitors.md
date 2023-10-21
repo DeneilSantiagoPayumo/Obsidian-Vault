@@ -372,7 +372,7 @@ Only leading citizens of subject towns obtained citizenship and internal barrier
 
 There had been little progress in eliminating economic localism.
 
-The Venetian government remained locked in a system in which only noble families who had centuries before been entered into the Gold BOok were allowed to participate.
+The Venetian government remained locked in a system in which only noble families who had centuries before been entered into the Gold Book were allowed to participate.
 
 Five families from mainland gained influence. Administration became privilege of nobleman.
 
@@ -416,7 +416,7 @@ Selection was thus partially driven by competitive efficiency. It also advanced 
 
 Sovereign actors only recognized particular types of actors ... because the Hanseatic system of rule proved to be less incompatible with that of territorially defined states ... it was not legit player in IR.
 
-They also engaged in institutional learning - corresponding with their belief systems, and choosing systems that proved better than others, weeind gout the 'lesser ones' - systems of rule that could make credible commitments and systems that would not encroach upon one's own jurisdiction.
+They also engaged in institutional learning - corresponding with their belief systems, and choosing systems that proved better than others, weeding out the 'lesser ones' - systems of rule that could make credible commitments and systems that would not encroach upon one's own jurisdiction.
 
 The institutionalization of a system of sovereign states imposed a certain non-hierarchical order on transnational interactions.
 

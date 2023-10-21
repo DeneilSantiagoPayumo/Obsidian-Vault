@@ -16,7 +16,7 @@ Essentially, thoughtful exploration of European experience will show us that coe
 
 170
 
-War makes states - banditry, piracy, rivalry, policing, and war making. Mercantile capitalism and state making reinforced each other/
+War makes states - banditry, piracy, rivalry, policing, and war making. Mercantile capitalism and state making reinforced each other.
 
 ## Double-Edged Protection
 
@@ -170,7 +170,7 @@ This neglects the external relations that shaped every state - the distinction b
 2. There was competition among states for hegemony that stimulated war makinga nd erased the distinction among war making, state making and extraction. 
 3. There was the intermittent creation of coalition of states that temporarily erased these distinctions to force ag iven state into a certain form and position them within the international network.
 
-War in these circumstances became the normal condition of the international sysstem. Wawr served many ends:
+War in these circumstances became the normal condition of the international system. Wwr served many ends:
 
 A local lord defending the perimeter monopolized the means of violence and increased his return from tribute - external and internal rivals overlapping.
 

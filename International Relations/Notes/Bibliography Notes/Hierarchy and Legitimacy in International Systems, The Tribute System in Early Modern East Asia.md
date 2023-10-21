@@ -42,7 +42,7 @@ Crafting a set of norms and rules that are viewed as legitimate by secondary sta
 
 (In response to critics of the Tribute system)
 
-600 How ever ... that the tribute system was either functional or symbolic ... are problematic in that they ask us to dismiss and ignore quite a bit of what officials, scholars, and governments actually did and said at the time. Both criticisms literally posit centuries of self-delusion, leading to a disparaging view of Chinese bureaucrats.
+600 However ... that the tribute system was either functional or symbolic ... are problematic in that they ask us to dismiss and ignore quite a bit of what officials, scholars, and governments actually did and said at the time. Both criticisms literally posit centuries of self-delusion, leading to a disparaging view of Chinese bureaucrats.
 
 601 Why would the tribute system receive so much energy, time, and thought if it were purely symbolic and nobody believed in it? ... there is ample evidence to show that Korean and other envoys believed in what they were doing.
 

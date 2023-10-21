@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
+                "file": "International Relations/Projects/IR Supervision/Without Violence, no nations a plan.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,19 +21,33 @@
             }
           },
           {
-            "id": "ea4448510cec7b0a",
+            "id": "5fbfb2b49b186567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z. Root/Misc/Deadlines.md",
+                "file": "International Relations/Notes/Bibliography Notes/Hierarchy and Legitimacy in International Systems, The Tribute System in Early Modern East Asia.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9ba7082cb3a85fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "International Relations/Notes/Bibliography Notes/Harmony and War, Confucian Culture and Chinese Power Politics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.50499725341797
+    "width": 292.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -107,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
+                "file": "International Relations/Projects/IR Supervision/Without violence, there would be no nation-states..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
+                "file": "International Relations/Projects/IR Supervision/Without violence, there would be no nation-states..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md"
+                "file": "International Relations/Projects/IR Supervision/Without violence, there would be no nation-states..md"
               }
             }
           },
@@ -208,35 +223,73 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "be4f89b41afee3e5",
+  "floating": {
+    "id": "c5f3778110b850d2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a157c33a5e57ae6c",
+        "type": "window",
+        "children": [
+          {
+            "id": "b8f6a5543a70ef41",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "952334d0d99f848b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "International Relations/Projects/IR Supervision/Without violence, there would be no nation-states..md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 894,
+        "y": 442,
+        "width": 926,
+        "height": 604,
+        "maximize": true,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "952334d0d99f848b",
   "lastOpenFiles": [
-    "Z. Root/Misc/Deadlines.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Untitled.md",
     "International Relations/Notes/Bibliography Notes/Harmony and War, Confucian Culture and Chinese Power Politics.md",
     "International Relations/Notes/Bibliography Notes/Hierarchy and Legitimacy in International Systems, The Tribute System in Early Modern East Asia.md",
-    "International Relations/Notes/Bibliography Notes/Bringing the State Back In.md",
-    "International Relations/Notes/Bibliography Notes/International Orders in the Early Modern World, Before the Rise of the West..md",
-    "International Relations/Notes/Lecture and Focused Notes/China and East Asia.md",
-    "International Relations/Notes/Bibliography Notes/Of Things of the Indies.md",
-    "Z. Root/Misc/Seeley and Haddon library.md",
-    "International Relations/Notes/Lecture and Focused Notes/Peace of Westphalia.md",
-    "International Relations/Notes/Lecture and Focused Notes/First Encounters and Origins of Global Relations.md",
-    "International Relations/Notes/Bibliography Notes/The Westphalian legal Orthodoxy - Myth or Reality.md",
+    "International Relations/Projects/IR Supervision/Without violence, there would be no nation-states..md",
+    "International Relations/Projects/IR Supervision/Without Violence, no nations a plan.md",
     "International Relations/Notes/Bibliography Notes/The Sovereign State and Its Competitors.md",
-    "International Relations/Projects/IR Supervision/Power, Sovereignty, State Supervision.md",
+    "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
+    "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
+    "International Relations/Notes/Lecture and Focused Notes/Europe and the Sovereign State.md",
+    "International Relations/Notes/Lecture and Focused Notes/Peace of Westphalia.md",
+    "International Relations/Notes/Bibliography Notes/Sovereignty, International Relations, and the Westphalian Myth.md",
+    "International Relations/Notes/Bibliography Notes/The Westphalian legal Orthodoxy - Myth or Reality.md",
+    "International Relations/Notes/Bibliography Notes/Of Things of the Indies.md",
+    "Z. Root/Misc/Deadlines.md",
+    "Politics/Notes/Lecture and Focused Notes/Benjamin Constant and the liberty of the ancients..md",
+    "International Relations/Notes/Bibliography Notes/Bringing the State Back In.md",
+    "International Relations/Notes/Lecture and Focused Notes/China and East Asia.md",
+    "International Relations/Notes/Lecture and Focused Notes/First Encounters and Origins of Global Relations.md",
+    "International Relations/Notes/Bibliography Notes/International Orders in the Early Modern World, Before the Rise of the West..md",
+    "International Relations/Archived Material/List of lectures for IR.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Untitled.md",
+    "Z. Root/Misc/Seeley and Haddon library.md",
     "Z. Root/Z. Photo Dump/Pasted image 20231019210827.png",
     "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
     "Sociology/Notes/Lecture and Focused Notes/Media, Social Media and Capitalism.md",
     "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
     "Sociology/Notes/Bibliography Notes/The national in everyday life, a critical engagement with Michael Billig's thesis of Banal Nationalism.md",
-    "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
-    "Sociology/Notes/Bibliography Notes/Imagined Communities.md",
-    "Sociology/Notes/Bibliography Notes/Manifesto of the Communist Party.md",
-    "Sociology/Notes/Bibliography Notes/Disjuncture and Difference in the Global Cultural Economy.md",
-    "Sociology/Notes/Bibliography Notes/The Souls of Black Folk.md",
-    "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
-    "International Relations/Archived Material/List of lectures for IR.md",
     "Z. Root/Z. Photo Dump/Pasted image 20231016204714.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231016192340.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231016142636.png",
