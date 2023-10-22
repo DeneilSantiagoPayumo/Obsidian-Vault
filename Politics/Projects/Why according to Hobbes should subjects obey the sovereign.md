@@ -38,7 +38,7 @@ All men, if they were to use their reason, would come to understand these self-e
 
 Another viewpoint could make do with personal liberty. Runciman writes that a common misconception with Hobbes is his link to totalitarianism: but in fact, "It's not totalitarian," (Confronting Leviathan, pp. 24) and that it is "absolutionism" (ibid, pp. 25), arguing that in this Leviathan state, the sovereign state will not be able to dictate every section of your life - it is simply impossible. Hobbes believes that in the gaps of the law, deemed to be the activities not detrimental to the safety of the Leviathan, "men have the liberty of doing what their own reasons shall suggest profitable to them." Arguably then, the real risk isn't that the sovereign state may encapsulate, destroy and control your life, but as Runciman again puts it: "You can never be sure that the sovereign won't suddenly decide that something that seemed to you to be your personal concern has become a threat of the state." (ibid, pp. 26).
 
-The only part, Hobbes would argue, the subject can disobey the sovereign takes place when either the sovereign loses power or when the sovereign orders the subject to die. As Hobbes argues, "No man is bound by the words themselves, either to kill himself or any other man."" (Leviathan, pp. 134), and continuing on that if men sentenced to death were to defend each other, they have the liberty to do so, "for they but defend their lives, which the guilty man may as well do as the innocent." (page 135)
+The only part, Hobbes would argue, the subject can disobey the sovereign takes place when either the sovereign loses power or when the sovereign orders the subject to die. As Hobbes argues, "No man is bound by the words themselves, either to kill himself or any other man."" (Leviathan, pp. 134), and continuing on that if men sentenced to death were to defend each other, they have the liberty to do so, "for they but defend their lives, which the guilty man may as well do as the innocent" (ibid, pp. 135).
 
 But can this argument around the sovereign's legitimacy really stand up to scrutiny? John Dunn writes that "one interesting limitation of Hobbes's sovereign is its claim that to possess a unitary will and judgement." (The history of political obligation, pp. 78). Facing constant global threats, such that of terrorism or global warming, one may be apt to argue that even in these areas, the sovereign may be paralyzed by inertia over this decision. Certainly then, if the sovereign fails its primary goal of 'protecting us' (Leviathan, pp. 135), what right do we have to obey it?
 
@@ -50,5 +50,13 @@ And finally, is the risk of a potential tyrannical government worth giving up ou
 
 Ultimately though, I am likened to agree with Dunn when he argues that, "Hobbes tried to derive comprehensive political obligation from nothing but expediency and rationality but he did not succeed." (ibid pp. 86-7). Hobbes' arguments aren't as self-evident as he claims. Despite that, his theory, and his reasoning as to why subjects should obey the sovereign, is still incredibly interesting - the focus on "human vulnerability", the implication thereof that consensus can *never* be reached in politics and, rationally leading on from that train of though, the idea to unify this divisiveness into the Sovereign will always remain to be a deeply profound and compelling argument.
 
-Reference list:
+---
 
+References:
+
+Thomas Hobbes, *Leviathan* (Cambridge: Cambridge University Press, 1996).
+Richard Tuck, *Hobbes* (Oxford: Oxford University Press, 1989)
+John Dunn, '*Political Obligation*' in *The History of Political theory and other essays* (Cambridge: Cambridge University Press, 1996)
+David Runciman, 'The sovereign' in *The Oxford handbook of Hobbes*'' (Oxford: Oxford University Press, 2013)
+David Runciman, 'Confronting Leviathan' (London: Profile Books, 2021)
+International Rescue Committee, *Mortality in the Democratic Republic of Congo: An ongoing crisis* lifted from https://www.rescue.org/report/mortality-democratic-republic-congo-ongoing-crisis

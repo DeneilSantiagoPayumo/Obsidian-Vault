@@ -1,6 +1,6 @@
 {
   "accentColor": "#c800ff",
-  "theme": "system",
+  "theme": "obsidian",
   "cssTheme": "Mammoth",
   "enabledCssSnippets": [
     "autofading-ui",

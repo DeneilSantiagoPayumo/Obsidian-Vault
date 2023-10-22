@@ -4,23 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "d2d1b08696d12173",
+        "id": "169ef2fac4c5955d",
         "type": "tabs",
         "children": [
           {
-            "id": "a792d72aeed87973",
+            "id": "f584cebd7105186f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z. Root/Misc/Deadlines.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9a880d9777ee9966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sociology/Projects/Placeholder.md",
+                "file": "Politics/Notes/Bibliography notes/Constant/Political Writings, Benjamin Constant.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d9958c37c48a4a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sociology/Projects/Placeholder.md",
+                "file": "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sociology/Projects/Placeholder.md",
+                "file": "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sociology/Projects/Placeholder.md"
+                "file": "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md"
               }
             }
           },
@@ -170,8 +199,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,34 +223,36 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "a792d72aeed87973",
+  "active": "7d9958c37c48a4a5",
   "lastOpenFiles": [
+    "Politics/Notes/Bibliography notes/Constant/Political Writings, Benjamin Constant.md",
     "Z. Root/Misc/Deadlines.md",
-    "Sociology/Notes/Bibliography Notes/Ethnicity Without Groups.md",
-    "Sociology/Notes/Bibliography Notes/Imagined Communities.md",
-    "Sociology/Notes/Bibliography Notes/Manifesto of the Communist Party.md",
-    "Sociology/Notes/Bibliography Notes/Nationalist Thought And The Colonial World.md",
+    "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
+    "Politics/Notes/Bibliography notes/Constant/Democracy, the unfinished journey.md",
+    "Z. Root/Z. Photo Dump/Pasted image 20231022154246.png",
+    "Emile Durkheim.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
+    "Politics/Notes/Bibliography notes/Constant/Constant, Set texts.md",
+    "International Relations/Projects/IR Supervision/Without violence, there would be no nation-states..md",
+    "International Relations/Projects/IR Supervision/Without Violence, no nations a plan.md",
+    "Politics/Notes/Bibliography notes/Constant/On the Liberty of the Ancients and the Liberty of the Moderns.md",
+    "Politics/Notes/Bibliography notes/Constant",
+    "Z. Root/Misc/Seeley and Haddon library.md",
+    "Sociology/Notes/Bibliography Notes/The Souls of Black Folk.md",
+    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
+    "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
     "Sociology/Notes/Bibliography Notes/The national in everyday life, a critical engagement with Michael Billig's thesis of Banal Nationalism.md",
     "Sociology/Notes/Bibliography Notes/The Division of Labour in Society.md",
-    "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
-    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
-    "Sociology/Notes/Bibliography Notes/The Souls of Black Folk.md",
-    "Sociology/Notes/Lecture and Focused Notes/Media, Social Media and Capitalism.md",
-    "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
-    "Z. Root/Misc/Seeley and Haddon library.md",
-    "Politics/Notes/Bibliography notes/Weber/David Runciman, Politics.md",
+    "Sociology/Notes/Bibliography Notes/Nationalist Thought And The Colonial World.md",
+    "Sociology/Notes/Bibliography Notes/Manifesto of the Communist Party.md",
+    "Sociology/Notes/Bibliography Notes/Imagined Communities.md",
+    "Sociology/Notes/Bibliography Notes/Ethnicity Without Groups.md",
+    "Sociology/Notes/Bibliography Notes/Disjuncture and Difference in the Global Cultural Economy.md",
     "Politics/Notes/Bibliography notes/Weber/The rule of man over man.md",
+    "Politics/Notes/Bibliography notes/Weber/David Runciman, Politics.md",
     "Politics/Notes/Bibliography notes/Weber/Contesting Democracy.md",
-    "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
     "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md",
     "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
-    "Politics/Notes/Lecture and Focused Notes/Benjamin Constant and the liberty of the ancients..md",
-    "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
-    "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
-    "Z. Root/Z. Templates/Cornell Notes.md",
-    "Z. Root/Misc/Study skills.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
     "Z. Root/Z. Photo Dump/Pasted image 20231019210827.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231016204714.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231016192340.png",
@@ -232,7 +262,6 @@
     "Z. Root/Z. Photo Dump/Pasted image 20231013113155.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231004111905.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231003170944.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20230925153356.png",
     "Politics/Notes/Bibliography notes/Weber",
     "Z. Root",
     "Z. Root/Misc",
@@ -243,7 +272,6 @@
     "General University Folder/2. Areas/Ongoing Supervisions",
     "Social Anthropology/Archived Material/Untitled",
     "Obsidian-Vault-Cambridge",
-    "Remote-Vault",
-    "Github Repo"
+    "Remote-Vault"
   ]
 }
