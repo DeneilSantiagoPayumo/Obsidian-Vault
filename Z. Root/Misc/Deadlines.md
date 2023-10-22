@@ -42,19 +42,29 @@ Dividing my week:
 **SUNDAY**: Politics and Sociology
 
 John Dunn, Conclusion pp. 239-266 Done!
-Biancamaria Fontana, Introduction in Constant: political writings
-Stephen Holmes: The liberty to denounce: Ancient and Modern
+Biancamaria Fontana, Introduction in Constant: political writings Done!
+Stephen Holmes: The liberty to denounce: Ancient and Modern Done!
 
 Fuchs, Christian 2021 - Social Media; A Critical Introduction
 
 **MONDAY**: Social Anthropology and International Relations
 
+Read Thick Description and write notes on it
+
+![[Pasted image 20231022224405.png]]
+
+Read the introduction and conclusion. Anything that seems interesting (with teh question) look into it.
+
+If you can manage to do it, early morning start the SAN1 reading.
+
+After the lecture, you will need to finish and do IR reading.
+After the supervision, you will need to read Thick Description
+At night, make notes on Christian Fuchs 2021
 
 **TUESDAY**: Politics and Sociology
 
-Jeremy Jennings - Constant's idea of modern liberty
+Jeremy Jennings - Constant's idea of modern liberty Done!
 John Dunn - Liberty as a substantive political value
-Constant's text (... how much can it *really* be?)
 
 
 **WEDNESDAY**: Social Anthropology and International Relations
@@ -76,7 +86,7 @@ Constant's text (... how much can it *really* be?)
 ---
 **IMPORTANT DATES**
 
-Supervision 1: October 23 Monday for POL1
+Supervision 1: October 23 Monday for POL1 2:30 N7
 Supervision 1: October 24 Tuesday for POL2
 Supervision 1: ? for SOC1
 Supervision 1: ? for SAN.
@@ -88,3 +98,4 @@ Supervision 1: ? for SAN.
 ---
 Whenever you clear your subjects:
 1. Due to time constraints (and a lack of need ... for now), I will skip Weber's main theory.
+2. I will also skip Constant's theory because it's not important to me right now.

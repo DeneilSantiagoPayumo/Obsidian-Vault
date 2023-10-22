@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9a880d9777ee9966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politics/Notes/Bibliography notes/Constant/Political Writings, Benjamin Constant.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d9958c37c48a4a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.50499725341797
+    "width": 291.50499725341797
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -123,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
+                "file": "Z. Root/Misc/Deadlines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
+                "file": "Z. Root/Misc/Deadlines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md"
+                "file": "Z. Root/Misc/Deadlines.md"
               }
             }
           },
@@ -199,7 +172,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -223,18 +197,22 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "7d9958c37c48a4a5",
+  "active": "f584cebd7105186f",
   "lastOpenFiles": [
-    "Politics/Notes/Bibliography notes/Constant/Political Writings, Benjamin Constant.md",
-    "Z. Root/Misc/Deadlines.md",
-    "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
+    "Z. Root/Z. Photo Dump/Pasted image 20231022224405.png",
+    "Politics/Notes/Bibliography notes/Constant/Constant's Idea of Modern Liberty.md",
+    "Z. Root/Z. Photo Dump/Pasted image 20231022223853.png",
     "Politics/Notes/Bibliography notes/Constant/Democracy, the unfinished journey.md",
+    "Z. Root/Misc/Deadlines.md",
+    "Politics/Notes/Bibliography notes/Constant/The Liberty to Denounce, Ancient and Modern.md",
+    "Politics/Notes/Bibliography notes/Constant/Political Writings, Benjamin Constant.md",
+    "International Relations/Projects/IR Supervision/Without violence, there would be no nation-states..md",
+    "International Relations/Projects/IR Supervision/Without Violence, no nations a plan.md",
+    "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
     "Z. Root/Z. Photo Dump/Pasted image 20231022154246.png",
     "Emile Durkheim.md",
     "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
     "Politics/Notes/Bibliography notes/Constant/Constant, Set texts.md",
-    "International Relations/Projects/IR Supervision/Without violence, there would be no nation-states..md",
-    "International Relations/Projects/IR Supervision/Without Violence, no nations a plan.md",
     "Politics/Notes/Bibliography notes/Constant/On the Liberty of the Ancients and the Liberty of the Moderns.md",
     "Politics/Notes/Bibliography notes/Constant",
     "Z. Root/Misc/Seeley and Haddon library.md",
@@ -250,9 +228,6 @@
     "Sociology/Notes/Bibliography Notes/Disjuncture and Difference in the Global Cultural Economy.md",
     "Politics/Notes/Bibliography notes/Weber/The rule of man over man.md",
     "Politics/Notes/Bibliography notes/Weber/David Runciman, Politics.md",
-    "Politics/Notes/Bibliography notes/Weber/Contesting Democracy.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md",
-    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
     "Z. Root/Z. Photo Dump/Pasted image 20231019210827.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231016204714.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231016192340.png",
@@ -261,7 +236,6 @@
     "Z. Root/Z. Photo Dump/Pasted image 20231015092324.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231013113155.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231004111905.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231003170944.png",
     "Politics/Notes/Bibliography notes/Weber",
     "Z. Root",
     "Z. Root/Misc",
