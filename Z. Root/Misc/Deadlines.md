@@ -78,8 +78,16 @@ Start African political reading.
 
 **SATURDAY**: Politics and Social Anthropology 28
 Bourdieu and Ortner
+Finish Soc essay
+Hayek notes write up
+
 
 **SUNDAY**: Social Anthropology and International Relations 29
+
+African IR reading
+Ortner
+
+
 
 **MONDAY**: Politics and Sociology 30 - DEADLINE!
 

@@ -76,3 +76,7 @@ Screening 3:
 
 Screening 4:
 ![[Pasted image 20231004114455.png]]
+
+*Bourdieu, Pierre. 1977. Outline of a Theory of Practice. Cambridge: Cambridge University Press
+Ortner, S. B. 1984. Theory in Anthropology since the Sixties. Comparative Studies in Society and History 26 (1):126-166.
+

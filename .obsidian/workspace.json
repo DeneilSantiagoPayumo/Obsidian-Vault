@@ -101,12 +101,64 @@
             }
           },
           {
-            "id": "04c6091112b1b6c2",
+            "id": "f5af8897a87abf1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Anthropology/Projects/So what do you think is ethnography anyway,.md",
+                "file": "International Relations/Notes/Bibliography Notes/Theory of International Politics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6223f7b807dd51af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politics/Notes/Bibliography notes/Constant/Constant, Set texts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bde7f00b1196c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politics/Notes/Bibliography notes/Constant/Constant's Idea of Modern Liberty.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93ee6649f86d6745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociology/Notes/Bibliography Notes/Zuboff, Shoshana, 2019, The Age of Surveillance Capitalism; The Fight for a Human Future at the New Frontier of Power, London, Profile Books.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cffb6aad768654d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Anthropology/Archived Material/List of lectures for SAN.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -188,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Anthropology/Projects/So what do you think is ethnography anyway,.md",
+                "file": "Social Anthropology/Archived Material/List of lectures for SAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Anthropology/Projects/So what do you think is ethnography anyway,.md",
+                "file": "Social Anthropology/Archived Material/List of lectures for SAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Anthropology/Projects/So what do you think is ethnography anyway,.md"
+                "file": "Social Anthropology/Archived Material/List of lectures for SAN.md"
               }
             }
           },
@@ -289,34 +341,34 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "04c6091112b1b6c2",
+  "active": "cffb6aad768654d5",
   "lastOpenFiles": [
-    "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
+    "International Relations/Archived Material/List of lectures for IR.md",
+    "Politics/Archived Material/List of lectures for Politics.md",
+    "Politics/Archived Material/Politics Supervision 23,10,23.md",
     "Z. Root/Misc/Deadlines.md",
-    "Social Anthropology/Projects/So what do you think is ethnography anyway,.md",
-    "Social Anthropology/Projects/So what do you think ethnography is anyway, project.md",
-    "Sociology/Projects/Discuss the strengths and weaknesses of Benedict Anderson's theory of the rise of nationalism.md",
-    "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
-    "Sociology/Notes/Bibliography Notes/Ethnicity Without Groups.md",
-    "Sociology/Projects/Discuss the strengths and weaknesses of Benedict Anderson's theory of the rise of nationalism plan.md",
+    "Sociology/Notes/Bibliography Notes/Zuboff, Shoshana, 2019, The Age of Surveillance Capitalism; The Fight for a Human Future at the New Frontier of Power, London, Profile Books.md",
+    "Sociology/Notes/Bibliography Notes/The Souls of Black Folk.md",
+    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
     "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
-    "Sociology/Notes/Bibliography Notes/Disjuncture and Difference in the Global Cultural Economy.md",
     "Sociology/Notes/Bibliography Notes/The national in everyday life, a critical engagement with Michael Billig's thesis of Banal Nationalism.md",
-    "Sociology/Notes/Bibliography Notes/The Division of Labour in Society.md",
     "Sociology/Notes/Bibliography Notes/Social Media, a critical introduction.md",
     "Sociology/Notes/Bibliography Notes/Smicek, Nick Platform Capitalism, Cambridge, Polity Press 2016.md",
+    "Sociology/Notes/Bibliography Notes/The Division of Labour in Society.md",
     "Sociology/Notes/Bibliography Notes/Nationalist Thought And The Colonial World.md",
     "Sociology/Notes/Bibliography Notes/Manifesto of the Communist Party.md",
+    "Sociology/Notes/Bibliography Notes/Ethnicity Without Groups.md",
     "Sociology/Notes/Bibliography Notes/Imagined Communities.md",
-    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
-    "Sociology/Notes/Bibliography Notes/The Souls of Black Folk.md",
-    "Sociology/Notes/Bibliography Notes/Zuboff, Shoshana, 2019, The Age of Surveillance Capitalism; The Fight for a Human Future at the New Frontier of Power, London, Profile Books.md",
+    "Sociology/Notes/Bibliography Notes/Disjuncture and Difference in the Global Cultural Economy.md",
+    "Social Anthropology/Notes/Bibliography notes/Thick Description, Toward an Interpretive Theory of Culture.md",
+    "Social Anthropology/Notes/Bibliography notes/Notes on the Balinese Cockfight.md",
+    "Social Anthropology/Notes/Bibliography notes/Nightwork, sexuality, pleasure and corporate masculinity in a Tokyo hostess club.md",
+    "Social Anthropology/Notes/Bibliography notes/James Clifford, George E. Marcus, Writing Culture.md",
     "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
-    "Emile Durkheim.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Practice Theory and Marxism.md",
-    "Politics/Archived Material/Why according to Hobbes should subjects obey the sovereign.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Riddles of Power.md",
+    "Politics/Notes/Bibliography notes/Weber/The rule of man over man.md",
+    "Politics/Notes/Bibliography notes/Weber/Weber, Profession and Vocation of Politics.md",
+    "Politics/Notes/Bibliography notes/Weber/David Runciman, Politics.md",
+    "Politics/Notes/Bibliography notes/Weber/Contesting Democracy.md",
     "Z. Root/Z. Photo Dump/Pasted image 20231026170707.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231026132742.png",
     "Z. Root/Z. Photo Dump/Pasted image 20231025102241.png",

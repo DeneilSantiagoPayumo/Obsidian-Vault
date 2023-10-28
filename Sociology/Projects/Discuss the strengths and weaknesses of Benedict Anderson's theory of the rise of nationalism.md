@@ -12,6 +12,8 @@ As Michael Skey (2008) summarizes: Billig points out how the media - from politi
 
 Even those such as [[Disjuncture and Difference in the Global Cultural Economy]] uses aisnfaosiani
 
+# don't forget to write this ^
+
 But even with that said, Anderson's theory cannot be taken as a comprehensive account on how nationalism operates on a global scale. It is simply too reductive and narrow in its account of how nationalism might manifest in non-Western nations. For instance, a massive part of Anderson's theory is that religion was superseded in place by nationalism but this is too dismissive of the immense forces of religion that lingers in these global forces today. Nira Yuval Davis (2011) would point out that Anderson's belief of the nation as, in Durkheimian terms, sacred, is too simplistic. As she states:
 
  It denies the ... reliance on religion as a hegemonic cultural tradition which plays an important part even in states with secular constitutions ... when we view the states of the world as a whole, only a minority of them can be considered fully secular ... even nationalist movements ... relied upon these to legitimize themselves as representing 'the people' and to launch wars against the 'enemy.' (2011, pp: 124)
@@ -20,4 +22,7 @@ Indeed, nationalist movements and nationalism are steeped in heavy religious bac
 
 As Nira Yuval-Davis summarises, Anderson's account does not even take into account how foreign nations may produce nationalism in a way contrary to western countries. As she paraphrases from Chatterjee's (1990) study, post-colonial nations often have a "search for 'cultural authenticity' which is expressed in religious terms". (2011, pp: 125). Could it not be argued that in this increasingly uncertain age, where the rise globalisation and insecurity in the world, through the rise of zero-hour contracts, perceived political instability, that religion could still play a vital role in comforting people? As Yuval-Davis argues, "Religions provide people with a compass and an anchor", as nationalism Anderson argued does for its subjects, "Ethnic nationalisms provide them with fixed identities and impermeable community backgrounds ... these fundamentalist identities ... provided a source of comfort, solace and even a sense of empowerment to people." (2011, pp: 129). 
 
-As I've recalled before, there is a pressing  argument that Anderson's argument is vastly too simplistic. Indeed, his conception of the people as a unified entity and ethnicity is wrong...
+As I've recalled before, there is a pressing argument that Anderson's argument is vastly too simplistic. 
+
+Indeed, his conception of the people as a unified entity and ethnicity is wrong...
+
