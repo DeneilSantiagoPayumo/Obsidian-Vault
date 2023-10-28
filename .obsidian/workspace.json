@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f584cebd7105186f",
+            "id": "bea28a88c9827552",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,100 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bf2509452530a7ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociology/Notes/Bibliography Notes/Nationalist Thought And The Colonial World.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "341324f74452c17d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociology/Projects/Discuss the strengths and weaknesses of Benedict Anderson's theory of the rise of nationalism plan.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84ee8e4038ee076c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8966e83300bbc83e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociology/Notes/Bibliography Notes/Disjuncture and Difference in the Global Cultural Economy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "391fbaad086ebe3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociology/Notes/Bibliography Notes/Ethnicity Without Groups.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9b8b5bc8f8a53ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04c6091112b1b6c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Anthropology/Projects/So what do you think is ethnography anyway,.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -80,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.50499725341797
+    "width": 316.5091133117676
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -96,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z. Root/Misc/Deadlines.md",
+                "file": "Social Anthropology/Projects/So what do you think is ethnography anyway,.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z. Root/Misc/Deadlines.md",
+                "file": "Social Anthropology/Projects/So what do you think is ethnography anyway,.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z. Root/Misc/Deadlines.md"
+                "file": "Social Anthropology/Projects/So what do you think is ethnography anyway,.md"
               }
             }
           },
@@ -173,7 +265,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,45 +289,45 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "f584cebd7105186f",
+  "active": "04c6091112b1b6c2",
   "lastOpenFiles": [
-    "Z. Root/Z. Photo Dump/Pasted image 20231022224405.png",
-    "Politics/Notes/Bibliography notes/Constant/Constant's Idea of Modern Liberty.md",
-    "Z. Root/Z. Photo Dump/Pasted image 20231022223853.png",
-    "Politics/Notes/Bibliography notes/Constant/Democracy, the unfinished journey.md",
+    "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
     "Z. Root/Misc/Deadlines.md",
-    "Politics/Notes/Bibliography notes/Constant/The Liberty to Denounce, Ancient and Modern.md",
-    "Politics/Notes/Bibliography notes/Constant/Political Writings, Benjamin Constant.md",
-    "International Relations/Projects/IR Supervision/Without violence, there would be no nation-states..md",
-    "International Relations/Projects/IR Supervision/Without Violence, no nations a plan.md",
-    "Politics/Projects/Why according to Hobbes should subjects obey the sovereign.md",
-    "Z. Root/Z. Photo Dump/Pasted image 20231022154246.png",
-    "Emile Durkheim.md",
-    "Politics/Notes/Bibliography notes/Hobbes/Hobbes, the Leviathan.md",
-    "Politics/Notes/Bibliography notes/Constant/Constant, Set texts.md",
-    "Politics/Notes/Bibliography notes/Constant/On the Liberty of the Ancients and the Liberty of the Moderns.md",
-    "Politics/Notes/Bibliography notes/Constant",
-    "Z. Root/Misc/Seeley and Haddon library.md",
-    "Sociology/Notes/Bibliography Notes/The Souls of Black Folk.md",
-    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
+    "Social Anthropology/Projects/So what do you think is ethnography anyway,.md",
+    "Social Anthropology/Projects/So what do you think ethnography is anyway, project.md",
+    "Sociology/Projects/Discuss the strengths and weaknesses of Benedict Anderson's theory of the rise of nationalism.md",
+    "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
+    "Sociology/Notes/Bibliography Notes/Ethnicity Without Groups.md",
+    "Sociology/Projects/Discuss the strengths and weaknesses of Benedict Anderson's theory of the rise of nationalism plan.md",
     "Sociology/Notes/Bibliography Notes/The Politics of Belonging, Intersectional Contestations.md",
+    "Sociology/Notes/Bibliography Notes/Disjuncture and Difference in the Global Cultural Economy.md",
     "Sociology/Notes/Bibliography Notes/The national in everyday life, a critical engagement with Michael Billig's thesis of Banal Nationalism.md",
     "Sociology/Notes/Bibliography Notes/The Division of Labour in Society.md",
+    "Sociology/Notes/Bibliography Notes/Social Media, a critical introduction.md",
+    "Sociology/Notes/Bibliography Notes/Smicek, Nick Platform Capitalism, Cambridge, Polity Press 2016.md",
     "Sociology/Notes/Bibliography Notes/Nationalist Thought And The Colonial World.md",
     "Sociology/Notes/Bibliography Notes/Manifesto of the Communist Party.md",
     "Sociology/Notes/Bibliography Notes/Imagined Communities.md",
-    "Sociology/Notes/Bibliography Notes/Ethnicity Without Groups.md",
-    "Sociology/Notes/Bibliography Notes/Disjuncture and Difference in the Global Cultural Economy.md",
-    "Politics/Notes/Bibliography notes/Weber/The rule of man over man.md",
-    "Politics/Notes/Bibliography notes/Weber/David Runciman, Politics.md",
-    "Z. Root/Z. Photo Dump/Pasted image 20231019210827.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231016204714.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231016192340.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231016142636.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231016101637.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231015092324.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231013113155.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231004111905.png",
+    "Sociology/Notes/Bibliography Notes/The Protestant Ethic and the Spirit of Capitalism.md",
+    "Sociology/Notes/Bibliography Notes/The Souls of Black Folk.md",
+    "Sociology/Notes/Bibliography Notes/Zuboff, Shoshana, 2019, The Age of Surveillance Capitalism; The Fight for a Human Future at the New Frontier of Power, London, Profile Books.md",
+    "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
+    "Emile Durkheim.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Practice Theory and Marxism.md",
+    "Politics/Archived Material/Why according to Hobbes should subjects obey the sovereign.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Riddles of Power.md",
+    "Z. Root/Z. Photo Dump/Pasted image 20231026170707.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231026132742.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231025102241.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231025102151.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231024235309.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231023235409.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231023235312.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231023235256.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231022224405.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231022223853.png",
+    "Politics/Notes/Bibliography notes/Constant",
     "Politics/Notes/Bibliography notes/Weber",
     "Z. Root",
     "Z. Root/Misc",

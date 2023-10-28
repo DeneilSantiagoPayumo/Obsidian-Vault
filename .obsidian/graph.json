@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "Emile",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 8.87116302257674,
   "linkStrength": 0.270351114592978,
   "linkDistance": 30,
-  "scale": 0.8653547992895063,
-  "close": true
+  "scale": 0.35651471959082126,
+  "close": false
 }

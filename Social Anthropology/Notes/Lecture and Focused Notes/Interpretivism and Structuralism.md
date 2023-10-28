@@ -150,7 +150,7 @@ They are like scripts, written, a giant library, and Interpretivists seek to unc
 All of the people we've spoken to views anthropology as a social science. Instead, Interpretivists believe anthropology is an interpretative science. Anthropology is literally like history, an interpretative approach.
 ```
 
-### Clifford Geertz (1926-2006)
+### [[Clifford Geertz]] (1926-2006)
 
 He is an anthropologist who wrote *a lot* - the Religion of Java, on Islam and so on.
 He also read, most interestingly, 'Thick Description' and 'Notes on the Balinese cockfighting.'
@@ -181,7 +181,7 @@ When people do things, they do it in layers of complexity. What does it mean for
 
 ```ad-quote
 title: Weber...
-"The concept of culture I espouse ... is essentially a semiotic one. Believing, with Max Weber, that man is an animal suspended in webs of siginifance he himself has spun. I take culture to be those webs, and the analysis of it to therefore not an experimental science in search of law, but na interpretive one in search of meaning."
+"The concept of culture I espouse ... is essentially a semiotic one. Believing, with Max Weber, that man is an animal suspended in webs of significance he himself has spun. I take culture to be those webs, and the analysis of it to therefore not an experimental science in search of law, but na interpretive one in search of meaning."
 
 ...
 
@@ -244,7 +244,7 @@ title: Interpretivism versus functionalism
 title: Interpretivism versus structuralism
 - "Culture is public because meaning is"
 - Culture is messy: "Nothing has done more, I think, to discredit cultural analysis than the construction of impeccable depictions of formal order in whose actual existence no one can actually believe."
-- Different 'levels' of explanation: culture as langauge (structuralism), cultures as texts (interpretivism).
+- Different 'levels' of explanation: culture as language (structuralism), cultures as texts (interpretivism).
 ```
 
 

@@ -10,7 +10,7 @@ A questions Hobbes did not answer - what is it like to *be* the sovereign?
 
 Hobbes, as you know, identified one answer on how threats of violence makes things better.
 
-Machiavelli had another: the unscrupulous and devious pursuit of power for its own sake - the term later to be known as 'realpolitik', the idea that a political act is justified if it works to the advantage of the person who performs it.
+Machiavelli had another: the unscrupulous and devious pursuit of power for its own sake - the term later to be known as ''[[Realpolitik]]'', the idea that a political act is justified if it works to the advantage of the person who performs it.
 
 Machiavellian is a caricature of Machiavelli - a moralist.
 He satirized the idea of Christian virtue and the assumption that rulers should be in the business of justifying their rule in the eyes of God - he saw the problem from the people doing duling.

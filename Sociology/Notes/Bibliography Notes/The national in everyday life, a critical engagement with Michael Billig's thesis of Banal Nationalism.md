@@ -101,7 +101,7 @@ These examples illustrate the need to investigate these complex processes empiri
 
 340
 
-It must bee acknowledged that nations are not, never have been, stable, solid, coherent, fixed entities - subject to permanent crises that are legitimate and managed through a process of struggle.
+It must be acknowledged that nations are not, never have been, stable, solid, coherent, fixed entities - subject to permanent crises that are legitimate and managed through a process of struggle.
 
 Two things then:
 1. Nationalism and globalization need to be reconstructed as co-original and in co-evolution rather than two opposing forces.
@@ -118,7 +118,7 @@ Andreas Wimmer - provision of social welfare helped nationalise working classes 
 
 341
 
-What implications does this have? We should add wider socio-economci factors therein.
+What implications does this have? We should add wider socio-economic factors therein.
 
 John Hutchinson - the nation is a process, and a non-linear one, that is reversible, identifying factors such as war, natural disasters, migration and ideological threat that may create nationalist fervour (riots) and the heating of national identities.
 

@@ -1,5 +1,6 @@
 Brubaker R. 2004a
 
+[[Nations and nationalism]]
 ## Common Sense Groupism
 
 164 This paper aims to identify groupism - the tendency to take discrete, sharply differentiated, internally homogeneous and externally bounded groups as basic constituents of social life, chief protagonists of social conflicts, and fundamental units of social analysis,

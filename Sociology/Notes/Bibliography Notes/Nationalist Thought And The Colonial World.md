@@ -45,7 +45,7 @@ The distinction between these two types is an attempt to come to terms with this
 It constructs a dichotomy between normal and special types.
 Normal = classical, pure type, sharing material with European Enlightenment, creating a historical unity, giving the liberal-rationalist his paradigmatic form in which nationalism goes hand-in-hand with reason, liberty and progress.
 
-The special type emerges under different occasions: seen ass complex, impure and often deviant, a contradictory historical progress that can be 'disturbing'. 
+The special type emerges under different occasions: seen as complex, impure and often deviant, a contradictory historical progress that can be 'disturbing'. 
 Plamenatz believes that nationalists have not been liberals because they have been so active in conditions against liberalism when there's nothing separating the two.
 
 Truely, the nationalist of the 'eastern' type accept the ideal of progress, striving to transform their inherited culture to make them better suited for the conditions of the modern world, meaning that archaic forms of authority are destroyed, conditions are created for the growth of a certain degree of individual initiative and choice.
@@ -102,19 +102,19 @@ Gellner recognises there is a problem, just not one that really matters - every 
 
 Nationalist thoughts, and its problems, can be reduced to the sociological requirements of industrial society whose universal sway provides the context for the understanding of nationalism.
 
-It is a recourse to sociologist that the lbieral-rationalist can first identify positively, then 'sympathetically' understand, the conditions of the undeveloped nation meaning that there is a historical lag, but more disturbing when its removal meaning coming to terms with a culture that is alien.
+It is a recourse to sociologist that the liberal-rationalist can first identify positively, then 'sympathetically' understand, the conditions of the undeveloped nation meaning that there is a historical lag, but more disturbing when its removal meaning coming to terms with a culture that is alien.
 
-Plamenatz chides Western critics of nationalism in expressing distate for the failings of backwards people - of exploitation.
+Plamenatz chides Western critics of nationalism in expressing distaste for the failings of backwards people - of exploitation.
 
 7
 
-The idea of nationalism being a rational and self-conscious attempt by the weak to achieve uatonomy and libery is false.
+The idea of nationalism being a rational and self-conscious attempt by the weak to achieve autonomy and liberty is false.
 
 Nationalism is irrational, narrow and destructive: not authentic, a European export to the rest of the world - pernicious exports, of annihlation.
 
 Kedourie has a big indictment of nationalism: his own brand of conservative politics, the grounds of which, could be dismissed as archaic and irrelevant, stating in the belief of the true fairness and nobility of the true principles of empire - beleiving that those who rule and those who are ruled are different species of men, believing in a style of politics where emotions are kept to a minimum.
 
-Anothy Smith objects that Kedourie's description of the consequence of nationalism is a one-sided misrepresentation: overlooking the advantages and blessings of nationalist revival, a humanizing and civilizing influence. It is also misleading to portray nationalist politics merely as secret conspiracy and terrorism or nihilism and totalitarianism.
+Anthony Smith objects that Kedourie's description of the consequence of nationalism is a one-sided misrepresentation: overlooking the advantages and blessings of nationalist revival, a humanizing and civilizing influence. It is also misleading to portray nationalist politics merely as secret conspiracy and terrorism or nihilism and totalitarianism.
 
 Anthony Smith is timid on several accounts:
 He stating nationalism can be rounded out be specific theories that that can encompass particular sets of empirical cases of movements conventionally called nationalist.
@@ -127,7 +127,7 @@ The problem of the specific or deviant cases is consigned to the domain of histo
 
 In specifying this application of Enlightenment principles to the conditions of modern politics, the lbieral defender would play into Kedourie's hand: this specification would have to be in terms of progress, of teh spread of science and rationality, destroying the central moral claim of the 'core doctrine' of nationalism - the autonomy of national self-consciousness.
 
-He may retort that nationalist doctrine is derived from European thought, alien to the non-EUropean world.
+He may retort that nationalist doctrine is derived from European thought, alien to the non-European world.
 
 9
 
@@ -260,7 +260,7 @@ The epistemic privilege due to scientific truth is appropriated - essentialism. 
 
 17
 
-It is a morall privillege, positivism, utilitarianism, weberian - a progressive philosophy of life. When all these positions are chalenged, privilege (of the superiority of Euro people) becomes last bastion of global supremacy.
+It is a moral privillege, positivism, utilitarianism, weberian - a progressive philosophy of life. When all these positions are chalenged, privilege (of the superiority of Euro people) becomes last bastion of global supremacy.
 
 The scientist is always a modern, enlightened and self-conscious Western anthropologist. The objects of study are 'other' cultures always non-Western. No one has raised the possibility of a 'rational' understanding of 'us' by a member of the 'other' culture - it could be argued ... when we consider the problem of relativism, we consider the relations between cultures in the abstract and it does not matter if the subject-object relation between Western and non-Western cultures is reversed.
 
@@ -343,6 +343,8 @@ Anderson, instead of pursuing the political problems, makes a sociological theor
 22
 
 Anderson has to conclude on political pessimism: popular nationalism was mobilized after the fact and in a language of self-defence.
+
+These were "chancellery wars" in which popular nationalism was mobilized after the fact
 
 Marxists have found it hard to escape the liberal dilemma - adopting that of liberal methods, a resort to sociologism (fitting nationalism to sociological constraints of the modern age) or reducing the two contending trends within nationalism, one traditional and conservative, other rational progressive, invoking functionalism.
 

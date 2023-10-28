@@ -644,7 +644,7 @@ The author points to the reaction of the girls failing to jump - "Nothing, but i
 
 An analysis of the song interpretations also show the strong emphasis that is placed throughout the rite on the duty of the girl to do difficult and unprecedented things.
 
-[Van Gennep] has stressed the significance of puberty ritual as the expression of a change of status ... but I believe that it will be found that many of the tests of endurance in initiation ceremonies, like 'the teasing of the girls' ... are not only signs of ritual submission to authority and payments made for the receipt of magical protection but also are forms of ordeal or oracle magic. In other words, they reflect the anxiety of parents and relatives as to whether the candiadates really are grown up or socially fit for married life.
+[[Van Gennep]] has stressed the significance of puberty ritual as the expression of a change of status ... but I believe that it will be found that many of the tests of endurance in initiation ceremonies, like 'the teasing of the girls' ... are not only signs of ritual submission to authority and payments made for the receipt of magical protection but also are forms of ordeal or oracle magic. In other words, they reflect the anxiety of parents and relatives as to whether the candiadates really are grown up or socially fit for married life.
 
 Ukukushya is also the word used for the rites designed to protect the girl from the dangers associated with the physical onset of puberty and to make it possible for her to have safe intercourse with her husband and a safe delivery from of her child.
 

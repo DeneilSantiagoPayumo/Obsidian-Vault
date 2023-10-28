@@ -100,10 +100,9 @@ This form of nationalism is powerful as it tends to be ubiquitous, unconscious a
 
 ## [[Partha Chatterjee]] in [[Nationalist Thought And The Colonial World]]
 
-
 He disagrees with this: pointing out the distinctive nature of nationhood and nationalism in Asia and Africa.
 
-This is often in opposition to Western notions of nationhood and nationalism, arguing that Anderson erroneously assumes that the political imagination in non-Western parts of the world resemble Western ones and are derived from them.
+This is often in opposition to Western notions of nationhood and nationalism, arguing that Anderson erroneously assumes that the political imagination in non-Western parts of the world resemble Western ones and are derived from them. 
 
 He points out that in the case of India, that intellectual and political elites reassert their identity in relation to the sacred realm: spirituality distinguishes them from their Western counterparts.
 

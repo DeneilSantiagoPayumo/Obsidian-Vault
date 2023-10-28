@@ -22,7 +22,6 @@ Anderson will argue and put forth:
 2. That the creation of these artefacts was due to discrete historical forces, becoming modular, transported into a variety of social terrain
 3. That these artefacts have aroused such deep attachments.
 
-5
 
 Concepts and paradoxes:
 1. The objective modernity of nations to the historian's eye vs their subjective antiquity in the eyes of nationalists
@@ -35,7 +34,7 @@ This difficulty is that one thinks of Nationalism-with-a-big-N and classifies it
 
 In an anthropological spirit, Anderson proposes the definition of an imagined political community - inherently limited and sovereign.
 
-Called imagined - smallest nations will never meet or know most of their members.  Even areas like Javaneese villages know they are connected to people they have never seen, but they are stretched a lot.
+Called imagined - smallest nations will never meet or know most of their members.  Even areas like Javanese villages know they are connected to people they have never seen, but they are stretched a lot.
 
 7
 
@@ -88,7 +87,7 @@ This led communities like Christendom imaginable - the actual scope could not be
 
 The fundamental conception about social groups were hierarchical and centripetal.
 
-The astonishing power of the papacy is comprehensible in terms of a trans-European Latin-writing clerisy and a conception of the world of the bilingual intelligentsia.
+The astonishing power of the papacy is comprehensible in terms of a trans-European Latin-writing clergy and a conception of the world of the bilingual intelligentsia.
 
 16
 
@@ -116,7 +115,7 @@ In fundamental ways, serious monarchy lies transverse to all modern conceptions 
 
 Paradoxically enough, the ease with which pre-modern empires and kingdoms were able to sustain their rule over immensely heterogenous and often not even contiguous populations for long periods of time.
 
-One must remember that these antique states expaned through sexual politics.
+One must remember that these antique states expanded through sexual politics.
 
 20
 
@@ -136,7 +135,7 @@ As a result dynastic states made up the majority of the membership of the world'
 
 ## APPREHENSIONS OF TIME
 
-It would be short-signed to think of the imagined communities of nations as simply growing out of and replacing religious communities and dynastic realms - a fundamental change was taking place ... to 'think' the nation.
+It would be short-sighted to think of the imagined communities of nations as simply growing out of and replacing religious communities and dynastic realms - a fundamental change was taking place ... to 'think' the nation.
 
 We must take a look at the visual representation of the sacred communities.
 
@@ -238,7 +237,7 @@ It's a ceremony that substitute morning prayers, performed in silent privacy, re
 In summary:
 The very possibility of imagining the nation only rose historically when, and where, three fundamental cultural conceptions, lost their grip on men's mind.
 
-First, scrip language offered privileged access to ontological truth, that brought sodalities of Christendom.
+First, script language offered privileged access to ontological truth, that brought sodalities of Christendom.
 Second, was the belief that society was organised around high centres - monarchs who were persons apart from other human beings and ruled by dispensation
 Third was a conception of temporality in which cosmology and history were indistinguishable, the origins of the world and of men identical.
 
@@ -351,4 +350,37 @@ It may appear paradoxical that the objects of these attachments are imagined - b
 
 What the eye is to the lover - of that particular ordinary eye he or she is born with - language - whatever language history has made his or her mother-tongue - is to the patriot.
 
-Chatterjee, Partha 1986 Nationalist Thought and the Colonial World
+Chatterjee, Partha 1986 Nationalist Thought and the Colonial World - Chatterjee, 1993: 5), "Even our imaginations must remain forever colonized."
+
+---
+
+My supervision concerns the rise of nationalism.
+
+Nationalism filled the void that rose after the decline of great religious communities.
+Religious communities were organized into smaller political units, where kings ruled over diverse populations.
+It was the decline of this system that paved the way for the rise of nationalism.
+
+This was also led the development of capitalism and printing technology, that resulted in the production of large quantities of books and newspapers.
+
+It made it possible for scattered individuals to relate to each other.
+
+Anderson identifies the colonies of the New World as the birthplace of modern nationalism - exploitation of the colonies by the metropoles, combined with discrimination led the local elites to pursue independence. Colonies were already divided into distinct administrative units that were isolated, forming the development of national communities and later action.
+
+Political success became a model imitated across the globe. Increased newspapers lead to the spread of common ideas, standardization of different dialects, nationalism was linked with democratic tendencies in Europe - the nation was affirmed as the foundation and legitimation of the modern state that emerged from them, actively contributing to building the nation through the promotion of linguistic standardization, national symbols and a narrative about a historically unified community that never existed.
+
+Therefore, the nation is a product of modern nationalism - the nation was the product of modern political interests and dynamics that started in America and spread, very quickly.
+
+...
+
+Human beings have confronted uncertainty - great religions have alleviated this. The collapse thereof led to nationalism. This could explain the appeal.
+
+Nationalism - progressive force, fully developed nationalism is people at the expense of others - exclusion.
+
+The notion of identifying with people we never met... utopian? But it's very exclusionary.
+
+Nationalist fantasies of ancient greatness are based on arbitrary geographical and linguistic divisions and political interest - no other basis.
+![[Pasted image 20231024235309.png]]
+
+
+https://criticallegalthinking.com/2023/04/25/benedict-andersons-imagined-communities/
+[Download](https://www.fulcrum.org/epubs_download_interval/dz010s66b?chapter_index=2&locale=en&title=1+Introduction+%28page+1%29)

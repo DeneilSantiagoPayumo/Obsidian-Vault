@@ -119,7 +119,7 @@ Three types of decoding:
 
 # Media, social media and digital capitalism
 
-### Platform capitalism: preliminaries
+### Platform capitalism: preliminaries ([[Media, Social Media and Capitalism]]) and ([[Smicek, Nick Platform Capitalism, Cambridge, Polity Press 2016||Nick Smicek]])
 
 Related concepts: platform capitalism, surveillance capitalism, gig economy, collarative economy, big data capitalism, digital capitalisms
 
@@ -237,7 +237,7 @@ Often, there is a display of the ranking available to pretty much everybody.
 
 This audit culture is part of the culture that operate on a daily basis.
 
-### Shoshana Zuboff's - Surveillance Capitalism
+## [[Zuboff, Shoshana, 2019, The Age of Surveillance Capitalism; The Fight for a Human Future at the New Frontier of Power, London, Profile Books|Shoshana Zuboff]]'s - Surveillance Capitalism
 She discusses new developments in Capitalism under 'smart' networked devices
 She argues that surveillance capitalism claims private human experience whereas 19th century capitalism claimed nature.
 Digital dispossession: theft takes place with the help of digital technologies

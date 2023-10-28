@@ -109,3 +109,116 @@ title: Constant about happiness
 "The progress of civilisation, the commercial tendency of the age, the communication among the peoples, have infinitely multiplied and varied the means of individual happiness. To be happy, men need only to be left in perfect independence in all that concerns their occupations, their undertakings, their sphere of activity, their fantasies."
 
 ```
+
+---
+
+24/10/2023
+
+## Ancient liberty in the ancient world was not dangerous.
+
+There was no Leviathan of the modern state of the modern state - the ancient Athenian assembly did not have the same kind of coercive apparatus behind it.
+
+The ancients wanted ancient liberty: there was acceptance of 'the complete subjection of the individual to the authority of the community'
+
+```ad-quote
+title: About ancient liberty
+The right to choose one's own religious affiliation ... was to the ancients a crime and a sacrilege.
+```
+
+There was not a strong sense of individuality, people living a separate existence from others. There was a complete subjection of the individual to the authority.
+
+This particularly manifested itself in the idea that people choose their religious beliefs, and had a conscience of their religious belief - you can't find that in the ancient world. People were accepting of the religious world and its beliefs.
+
+### You cannot impose ancient liberty on the moderns in France
+
+For Constant, the mistake of the revolutionaries are that they ignored actual wants and beliefs.
+Most French people did not want ancient liberty, nor can they exercise it - the radical revolutionaries asked that the people made sacrifices, including of their lives, to ends most didn't value.
+
+It's not realistic because most people don't value modern liberty, and because we don't live in ancient states. People come in and demand others to sacrifice their lives ... for absolutely nothing. It was founded on a mistaken idea of the world that the revolution was lived in. It never could've turned out any differently.
+
+It was not some accident. It was baked into the very ideas that a small group of people could impose the idea of what politics should be - of people who wanted to live their lives in a very different way.
+
+## The moderns need representative government
+
+Representation is 'a discovery of the moderns'..
+
+```ad-quote
+title: The idea of representation:
+The representative system is nothing but an organisation by means of which a nation charges a few individuals to do what it cannot or does not wish to do herself.
+```
+
+The protection of modern liberty should be the purpose of representative government.
+
+Moderns must through "exercise an active or constant surveillance over their representative" - can't enjoy modern liberty so much that they won't act politically to defend it.
+
+### The moderns have introduced and are protected by commerce
+
+Commerce in the ancient world was a 'lucky accident' but for the moderns it is 'the normal state of things'.
+
+It is commerce that 'inspires in men a vivid love of individual independence'.
+
+The arbitrary power of the modern state threatens commerce ... but commerce also protects modern liberty from the modern state.
+
+Property under modern commerce circulates and is hard to seize.
+
+Credit (debt): 'places authority itself in a position of dependence', straining war - if 'money hides itself or flees; all the operations of the state are suspended.'
+(Not a Constant quote)
+
+This makes it more difficult for states to do things that are 'bad' - if creditors think war is a bad thing, they stop buying the debt.
+
+He gives a critique of a utopian politics -  he understands the impulse to try and recover what might have been lost from antiquity. In failing to understand the change between the ancient and modern world, 'otherwise well-intentioned men caused infinitive evils during our long and stormy revolution.'
+
+'The fact is that social power injured individual independence in every possible way, without destroying the need for it.'
+
+## The Soviet revolution as deadlier repetition of the French
+
+Many of the Russian revolutionaries thought of themselves as imitating the French - Russian Revolution followed a similar path from representation to tyranny except it was deadlier - Russian Revolution followed a path from representation to tyranny except that it was far, far deadlier.
+
+The Bolsheviks attempted to export revolution eastwards in Europe until defeated in Poland.
+
+Under justification of war, the Bolsheviks organised a revolutionary police to eliminated 'class enemies' and 'counter-revolutionary saboteurs'.
+
+Under Stalin up to 15 million died, including a state imposed famine in Ukraine.
+
+### The Bolshevik revolution and new beliefs
+
+The Bolsheviks began with the objective of eliminating religious beliefs from Russia and requiring Atheism.
+
+The Soviet state had appropriated for the state all property of the Russian Orthodox Church and many Christians were killed.
+
+After the Nazi invasion of the USSR, Stalin reversed course - seeing it as a source of Russian patriotism necessary to fight the war.
+
+After Stalin's death, Khrushchev turned back to the state atheism policy.
+
+Napoleon was an out of place accident - an ancient - in the modern world.
+
+Napoleon used the language of liberation but reintroduced slavery in Haiti - in losing war against Haiti, Napoleon was defeated in his aim of acquiring a North American empire.
+
+Sold territory it did not control to the US which was crucial to American expansion afterwards.
+
+### Imposing ancient war on the moderns in Europe
+
+For Constant, imperial war was now unnecessary and self defeating.
+
+But 19th century was war and commerce, not war versus commerce.
+The first Opium War opened China by British naval force to European commercial pwoers.
+The Suez Canal changed transit of trade, leading to geopolitical conflict, leading to Britain's occupation of Egypt in 1882.
+
+### France and empire
+
+Constant and illusion of self-sufficiently in the emerging industrial age:
+
+```ad-quote
+title: Napoleon
+"The commercial nation of modern Europe, industrious, civilised, placed on a territory large enough for their needs, linked to other peoples by relations the interruption of which would be a disaster, have nothing to hope from conquest."
+```
+
+Constant died six months after the French imperial conquest of Algeria.
+
+### What is modern liberty in modern politics?
+
+For Constant: "There is ... a part of human existence which by necessity remains individual and independent and which is outside any social competence. Sovereignty has only a limited and relative existence. At the point where independence and individual existence begin, the jurisdiction of sovereignty ends."
+
+Modern individual liberty are in general and the specific liberties that follow for Constant are not natural rights - they were what moderns had come to value so much that they could not imagine life without them.
+
+But what if modern liberty depends on extraction, leading to empire and war by leviathans?
