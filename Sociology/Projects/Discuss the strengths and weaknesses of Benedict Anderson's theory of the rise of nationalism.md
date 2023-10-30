@@ -10,6 +10,7 @@ Most notably, the idea of the nation being a modern product helps to invigorate 
 
 As Michael Skey (2008) summarizes: Billig points out how the media - from political speeches, to domestic and foreign news - helps imbue a sense of nationalism without anyone being consciously aware of it: that the use of "deictic language such as "we", "our", "us" and "here" signifies the nation" and thus creating an "us" versus "them" mentality (2008: pp. 332). We can see elements of Anderson's theory inspiring Billig's work: the conception and emphasis on the role of the media in creating a national consciousness, the idea that nationalism isn't an "extraordinary, politically charged and emotionally driven" ideology (Billig, 1995: 44) and that often it lays at the seam of modern life.
 
+We can see Anderson invigorating the study of nationalism through subsequent studies such as that of Arjun Appadurai ()
 Even those such as [[Disjuncture and Difference in the Global Cultural Economy]] uses aisnfaosiani
 
 # don't forget to write this ^

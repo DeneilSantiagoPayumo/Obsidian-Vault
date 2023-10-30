@@ -1,98 +1,55 @@
 General university deadlines:
 
-SUNDAY: SOC, IR
+To-do today:
 
-SAN: Compile essay plan
-Read "Thick Description"
+Finish other POL reading
+Finish SOC essay.
 
-Constant and modern liberty:
+What do I need to do next week? I need to 
 
+**Monday**: Politics and Sociology 30
+Finish one text of Hayek
+Start reading new content for Sociology.
+Create bibliography for Social Anthropology Done!
 
+**Tuesday:** International Relations and Social Anthropology 31
 
-Next week:
+International Relations start the new reading (skim heavily)
+Social Anthropology read for newest lecture
 
-**Politics**:
+**Wednesday** Politics and Sociology 1
 
-Constant's main writings
-John Dunn's Conclusions pp. 239-266
-Biancamaria Fontana, Introduction in Constant: Political Writings
-Stephen Holmes, The Libertyy to Denounce: Ancient and Modern
-Jeremy Jennings: Constant's Idea of modern liberty
-John Dunn Liberty as a substantive political value, pp. 61-84
+Finish the other Hayek text
+Politics write POL1 essay... maybe?
+Sociology read for previous lecture
 
-To be completed by Thursday
+**Thursday** International Relations and Social Anthropology 2
 
-**SOC**
+International Relations write the new essay
+Social Anthropology read for the previous lecture
 
-Fuchs, Christina - Social Media: A Critical Introduction
-Nick Smicek - Platform Calculation
-Shoshana Zuboff - The Age of Surveillance Capitalism
-Write first essay
+**Friday** Politics and Sociology 3
 
-**SAN**
-Thick Description
-Write essay
+Politics finish POL1 essay or read for Arendt
+Social Anthropology read for the previous lecture
 
-**IR**:
-23rd (Monday) - Realist Theory
-25th (Wednesday) - African international Politics and Slavery
+**Saturday** International Relations and Social Anthropology 4
 
-Dividing my week:
-
-**SUNDAY**: Politics and Sociology
-
-John Dunn, Conclusion pp. 239-266 Done!
-Biancamaria Fontana, Introduction in Constant: political writings Done!
-Stephen Holmes: The liberty to denounce: Ancient and Modern Done!
-
-**MONDAY**: Social Anthropology and International Relations
-
-Read Thick Description and write notes on it
-
-![[Pasted image 20231022224405.png]]
-
-Read the introduction and conclusion. Anything that seems interesting (with the question) look into it.
-
-After the lecture, you will need to finish and do IR reading.
-Kenneth Waltz
-
-After the supervision, you will need to read Thick Description and make an essay theory
-
-
-**TUESDAY**: Politics and Sociology 24
-
-Nick is completed!
-Essay plan completed!
-
-**WEDNESDAY**: Social Anthropology and International Relations 25
-
-After reading, begin to write essay.
-
-
-**FRIDAY**: Social Anthropology and International Relations 27
-
-Instead of social anthropology, sociology is probably more key.
-You've writ the first paragraph, just a couple more to go!
-
-Start African political reading.
-
-**SATURDAY**: Politics and Social Anthropology 28
-Bourdieu and Ortner
-Finish Soc essay
-Hayek notes write up
-
-
-**SUNDAY**: Social Anthropology and International Relations 29
-
-African IR reading
-Ortner
+**Sunday** Politics and Social Anthropology 5
 
 
 
-**MONDAY**: Politics and Sociology 30 - DEADLINE!
+---
+Supervision questions:
+Next week, you're going to write both Politics and International Relations
+Supervision 2 POL1 will be on Hayek: why for Hayek was state planning the road to serfdom?
+
+Supervision 2 POL2 will be on Exam Q. 1. Should International Relations theories be able to explain international politics at all times and all places?
+
+This week will focus on POL2 - getting that question done above.
 
 
-Sticks and Stars
+Wednesday 
 
 ---
 **IMPORTANT DATES**
@@ -102,7 +59,10 @@ Sticks and Stars
 Supervision 1: November 3rd Friday (due at 30th) at 4:15 for SOC1
 Supervision 1: Tuesday the 31st at X for SAN1 (essay due 30th)
 
-
+Supervision 2: November 13-14 for POL1
+Supervision 2: November 10th for POL2
+Supervision 2: November 17 for SOC1
+Supervision 2: November X for SAN1
 
 ---
 Whenever you clear your subjects:
@@ -114,3 +74,16 @@ What books I have not read:
 1. I could not find a critical introduction to Capitalism [[Social Media, a critical introduction]]
 2. I have skipped John Dunn, ‘Liberty as a substantive political value’, in Interpreting political responsibility (Cambridge: Polity Press, 1996), 61-84 as my supo for it is already done
 3. I have skipped Hobbes, an introduction... but I wasn't reading that anyway.
+
+---
+Clubs:
+Sidney Film night - 7 November, 21 November LGBTQ
+Monday 30th October 2023: Halloween Mystic Movie Night
+31st Jason is doing,... something.
+N/A for anything with stuff.
+Writing in the dark session - 3rd November, Trinity Blue Boar Room, 8-10 PM Blackbird
+Poetry night with SU and GEM - 14th November, Clare cellars, 8PM
+22nd November, Newnham - Twas the night before bridgemas, food and open night.
+
+---
+![[Pasted image 20231030120259.png]]

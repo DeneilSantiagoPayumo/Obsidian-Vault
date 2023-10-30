@@ -1,7 +1,7 @@
 {
   "accentColor": "#e51599",
   "theme": "obsidian",
-  "cssTheme": "Red Graphite",
+  "cssTheme": "Atom",
   "enabledCssSnippets": [
     "autofading-ui",
     "bigger-link-popup-preview",

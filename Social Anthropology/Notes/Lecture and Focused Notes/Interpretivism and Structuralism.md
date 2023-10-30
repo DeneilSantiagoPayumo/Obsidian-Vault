@@ -95,7 +95,7 @@ A Functionalist approach grouped animals and wanted to understand why these anim
 
 A Structuralist would say that it is not the animal that matters, but relationships between the set of groups and animals - animals are a language for talking about society. People use the world around them to talk about social differences. It isn't certainly about totems, but a broader way in which people use things about the world to think: Functionalists think people have total animals because they are "good to eat" but rather they have animals because they're "good to think".
 
-The broader point>: Totemism is a subset of more general phenomenon. 
+The broader point: Totemism is a subset of more general phenomenon. 
 
 The science of the concrete is the use of a concrete phenomenom to talk about another abstract realm, a widespread aspect of human thought ... these devices prove suitbale for such operations because the devices themselves ... can easily be structured and therefore processed efficiently by the human mind or brain.
 
