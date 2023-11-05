@@ -28,7 +28,7 @@ Geertz - "In short anthropological writings are themselves interpretations, and 
 Anthropology is subjective, but you miss out on stuff that you can predict, that you can understand, that you can analyse.
 
 
-## Michel Foucault
+## [[Michel Foucault]]
 
 "Discourse" - knowledge is power.
 Foucault coined the term "discourse" - to talk about the relations of knowledge and power, and sustained relations and power.

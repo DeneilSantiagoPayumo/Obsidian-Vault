@@ -169,7 +169,7 @@ Digital market manipulation
 
 # Surveillance Capitalism
 
-## Michel Foucault#
+### [[Michel Foucault]]
 He was a French historian and theorist.
 He introduced the concept of the society of the spectacle and surveillance and argued we live in the society of the Spectacle.
 

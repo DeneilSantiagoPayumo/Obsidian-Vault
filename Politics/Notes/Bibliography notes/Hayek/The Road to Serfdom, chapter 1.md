@@ -1,3 +1,4 @@
+[[Hayek and Economic Liberty]]
 # THE ABANDONED ROAD
 
 11
@@ -82,3 +83,8 @@ The intellectual influence were supported not merely by Germany's great material
 It soon served to assist the spreading from Germany of ideas directed against the foundations of that civilisation - the Germans are aware of that conflict that what had been the common heritage of European civilisation became to them "Western" civilisation - where Western in this sense being Liberalism and Democracy, Capitalism and Individualism, Free Trade and so on.
 
 The people of the West imported these German ideas and believed that their own convictions had been a rationalisation of selfish interests - that Free Trade was a doctrine invented to further British interests.
+
+---
+
+https://www.minneapolisfed.org/article/1992/hayeks-legacy-of-the-spontaneous-order
+

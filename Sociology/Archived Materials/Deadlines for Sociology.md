@@ -5,8 +5,8 @@ For the first two weeks of SOC, I need to read:
 - [x] Weber, M - The Protestant Ethic and the Spirit of Capitalism
 - [x] Anderson, B Imagined Communities (C1 and C8)
 - [x] Chatterjee, Partha 1986 Nationalist Thought and the Colonial World
-- [ ] Appadurai, A - Disjuncture and Difference in the Global cultural Economy pg 295-310
-- [ ] Billig Michael, Banal Nationalism
-- [ ] Brubaker Ethnicity without groups
-- [ ] Yuval-Davis chapter 4-8
+- [x] Appadurai, A - Disjuncture and Difference in the Global cultural Economy pg 295-310
+- [x] Billig Michael, Banal Nationalism
+- [x] Brubaker Ethnicity without groups
+- [x] Yuval-Davis chapter 4-8
 

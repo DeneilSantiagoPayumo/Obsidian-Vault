@@ -1,6 +1,6 @@
 pg 33-47, 2014
 
-[[Weber, Profession and Vocation of Politics]]
+[[Weber, P and V of Politics Set Text]]
 This passage has some mild asides to [[Hobbes, the Leviathan]]
 
 ---

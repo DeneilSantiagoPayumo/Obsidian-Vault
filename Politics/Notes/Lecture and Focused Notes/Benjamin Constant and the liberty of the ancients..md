@@ -1,7 +1,6 @@
 Lecture: Ben. Constant
 Date: 19-10-23
-Lecturer: Helen Thompson, [[Benjamin Consant]]
-
+Lecturer: Helen Thompson, [[Benjamin Constant]], [[Friedrich Hayek]]
 
 ---
 

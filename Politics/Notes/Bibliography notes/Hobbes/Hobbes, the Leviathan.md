@@ -1,6 +1,7 @@
 *This text is edited by Richard Tuck from Harvard University.*
 *This text only encompasses P1 and P2.*
 
+[[Hobbes, the Leviathan]]
 ## **A note on the text**
 
 There are multiple renditions of the Leviathan. These editions are differentiated by bibliographers on the ornaments that appear on the headings - for example, the 'Head', the 'Bear' and the '255 Ornaments.'

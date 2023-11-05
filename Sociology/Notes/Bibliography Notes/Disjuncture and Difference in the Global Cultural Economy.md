@@ -25,7 +25,7 @@ An elementary framework for exploring such disjuncture is to look at the relatio
 1. Ethnoscapes
 2. Mediascapes
 3. Technoscapes
-4. Finanscape
+4. Financescape
 5. Ideoscapes
 
 These are not objectively given relations - [[Benedict Anderson]] would call these 'imagined worlds', the multiple worlds which are constituted by the historically situated ... 

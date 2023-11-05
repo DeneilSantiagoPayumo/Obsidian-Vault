@@ -1,5 +1,5 @@
 Peter Lassman
-[[Weber, Profession and Vocation of Politics]]
+[[Weber, P and V of Politics Set Text]]
 84-98
 
 ---

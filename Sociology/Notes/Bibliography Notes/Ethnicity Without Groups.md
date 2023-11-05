@@ -31,7 +31,7 @@ But the reality of race does not depend on the existence of 'races' - the realit
 
 ### Groupness as event
 
-Treating groupness as variable an d contingent allows us to take account of ... phases of extraordinary cohesion and moments of intensely felt collective solidarity without treating it as infinitely present - an *event*, something that happens.
+Treating groupness as variable and contingent allows us to take account of ... phases of extraordinary cohesion and moments of intensely felt collective solidarity without treating it as infinitely present - an *event*, something that happens.
 
 It allows us to realize that groupness may not happen, may fail to crystalize ... helping us eliminate the bias that previous trains of thoughts had - that this can create an overly ethnic view of the world, viewing it as 'seething cauldrons' of ethnic tension.
 

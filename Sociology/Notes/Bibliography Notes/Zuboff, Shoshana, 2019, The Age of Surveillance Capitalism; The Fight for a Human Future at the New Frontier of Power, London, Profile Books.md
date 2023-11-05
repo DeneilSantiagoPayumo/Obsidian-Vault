@@ -153,7 +153,7 @@ The author outlines reactions to democracy.
 
 Many have concluded from this turmoil that market democracy is no longer viable despite the fact that the combination of markets and democracy has served humanity well, lifting mankind from years of ignorance, poverty and pain. For some, it is the markets that must go. For others, it is democracy that's slated for obsolescence. Some propose economic alternatives, predict decline, favour authoritarian politics and so on.
 
-People cannot live without the possibility of homecoming - [[Hannah Arendt]] argues that it was the individual's experience of insignificance, expendability, political isolation and loneliness that stoked this fire. Such ideologies appear as a support in a world where nobody is reliable. [[Theodor Adorno]] attribute the success of Fascism tot he ways in which quest for effective life had become too much of a burden on most people.
+People cannot live without the possibility of homecoming - [[Arendt and the The Human Condition|Arendt]] argues that it was the individual's experience of insignificance, expendability, political isolation and loneliness that stoked this fire. Such ideologies appear as a support in a world where nobody is reliable. [[Theodor Adorno]] attribute the success of Fascism tot he ways in which quest for effective life had become too much of a burden on most people.
 
 Should we grow wary and surrender to the Big Other, we will trade a future of homecoming to tyranny.
 

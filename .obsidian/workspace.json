@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "24c2191571be27f6",
+            "id": "2f264203199dd34a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics/Notes/Bibliography notes/Hayek/The Iron Cage of Liberty.md",
+                "file": "Social Anthropology/Notes/Bibliography notes/The Social Skin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,15 +36,15 @@
             }
           },
           {
-            "id": "3e2b708c56ad47bd",
+            "id": "575afa9919be5769",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5091133117676
+    "width": 316.51240158081055
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Social Anthropology/Notes/Bibliography notes/The Social Skin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Social Anthropology/Notes/Bibliography notes/The Social Skin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Social Anthropology/Notes/Bibliography notes/The Social Skin.md"
+              }
             }
           },
           {
@@ -200,10 +204,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:Insert template": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": true,
       "markdown-importer:Open format converter": true,
@@ -215,44 +219,45 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "3e2b708c56ad47bd",
+  "active": "2f264203199dd34a",
   "lastOpenFiles": [
-    "Politics/Notes/Bibliography notes/Hayek/The Iron Cage of Liberty.md",
     "Z. Root/Misc/Deadlines.md",
-    "Politics/Archived Material/Politics Supervision 23,10,23.md",
-    "International Relations/Archived Material/Without violence, there would be no nation-states..md",
-    "Politics/Archived Material/Why according to Hobbes should subjects obey the sovereign.md",
-    "Social Anthropology/Projects/So what do you think is ethnography anyway,.md",
-    "Politics/Archived Material/List of lectures for Politics.md",
-    "Social Anthropology/Projects/So what do you think ethnography is anyway, project.md",
-    "International Relations/Notes/Lecture and Focused Notes/Nations and States in the Americas.md",
-    "Z. Root/Z. Photo Dump/Pasted image 20231030120259.png",
-    "International Relations/Notes/Bibliography Notes/Europeans, Africans and the Atlantic World, 1450-1850.md",
-    "International Relations/Notes/Bibliography Notes/States and Power in Africa, Comparative Lessons in Authority and Control.md",
-    "Sociology/Projects/Discuss the strengths and weaknesses of Benedict Anderson's theory of the rise of nationalism plan.md",
-    "International Relations/Archived Material/List of lectures for IR.md",
-    "Sociology/Projects/Discuss the strengths and weaknesses of Benedict Anderson's theory of the rise of nationalism.md",
-    "Z. Root/Z. Photo Dump/Pasted image 20231029164916.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231029164734.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231029161439.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231029160517.png",
-    "International Relations/Notes/Bibliography Notes/Theory of International Politics.md",
-    "International Relations/Notes/Bibliography Notes/The Westphalian legal Orthodoxy - Myth or Reality.md",
-    "International Relations/Notes/Bibliography Notes/The Tragedy of Great Power Politics.md",
-    "International Relations/Notes/Bibliography Notes/The Sovereign State and Its Competitors.md",
-    "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
-    "International Relations/Notes/Bibliography Notes/Sovereignty, International Relations, and the Westphalian Myth.md",
-    "International Relations/Notes/Bibliography Notes/Of Things of the Indies.md",
-    "International Relations/Notes/Bibliography Notes/International Orders in the Early Modern World, Before the Rise of the West..md",
-    "International Relations/Notes/Bibliography Notes/Hierarchy and Legitimacy in International Systems, The Tribute System in Early Modern East Asia.md",
-    "International Relations/Notes/Bibliography Notes/Harmony and War, Confucian Culture and Chinese Power Politics.md",
-    "International Relations/Notes/Bibliography Notes/Bringing the State Back In.md",
+    "Social Anthropology/Notes/Bibliography notes/The Social Skin.md",
+    "Social Anthropology/Notes/Bibliography notes/Korowai Treehouses and the everyday Representation of Time, Belonging and Death.md",
+    "Social Anthropology/Notes/Bibliography notes/Nightwork, sexuality, pleasure and corporate masculinity in a Tokyo hostess club.md",
+    "Social Anthropology/Notes/Bibliography notes/Notes on the Balinese Cockfight.md",
+    "Social Anthropology/Notes/Bibliography notes/The Theory of Practice, Bourdieu.md",
     "Social Anthropology/Notes/Bibliography notes/Theory in Anthropology since the Sixties.md",
-    "Z. Root/Z. Photo Dump/Pasted image 20231029132505.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231028232935.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231028232906.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231028232319.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231028220352.png",
+    "Politics/Notes/Lecture and Focused Notes/Hayek and Economic Liberty.md",
+    "Politics/Notes/Bibliography notes/Weber/Weber, P and V of Politics Set Text.md",
+    "Politics/Notes/Lecture and Focused Notes/Weber and the profession and vocation of politics.md",
+    "Social Anthropology/Notes/Bibliography notes/Thick Description, Toward an Interpretive Theory of Culture.md",
+    "Social Anthropology/Notes/Bibliography notes/James Clifford, George E. Marcus, Writing Culture.md",
+    "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Symbolism.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Riddles of Power.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Practice Theory and Marxism.md",
+    "Z. Root/Misc/Placeholder for new files/Michel Foucault.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
+    "Z. Root/Misc/Placeholder for new files/Clifford Geertz.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Explaining Stability and Change.md",
+    "Z. Root/Misc/Placeholder for new files/Evans-Pritchard.md",
+    "Social Anthropology/Projects/So what do you think is ethnography anyway,.md",
+    "Z. Root/Misc/Placeholder for new files/Malinowski.md",
+    "Social Anthropology/Notes/Lecture and Focused Notes/Concept, puzzles and theories.md",
+    "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
+    "Sociology/Notes/Lecture and Focused Notes/Media, Social Media and Capitalism.md",
+    "Z. Root/Misc/Placeholder for new files",
+    "Z. Root/Z. Photo Dump/Pasted image 20231104180945.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231103205001.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231103194859.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231103194851.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231102172042.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231102170454.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231101172240.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231101172231.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231101172054.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231031202556.png",
     "Politics/Notes/Bibliography notes/Hayek",
     "Politics/Notes/Bibliography notes/Constant",
     "Politics/Notes/Bibliography notes/Weber",
@@ -263,7 +268,6 @@
     "International Relations/Projects/IR Supervision",
     "General University Folder/1. Projects/Politics Supervision",
     "General University Folder/2. Areas/Ongoing Supervisions",
-    "Social Anthropology/Archived Material/Untitled",
-    "Obsidian-Vault-Cambridge"
+    "Social Anthropology/Archived Material/Untitled"
   ]
 }

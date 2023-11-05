@@ -155,6 +155,8 @@ Many of its questions and answers persist, so it's important to understand criti
 
 ### Basics:
 
+## [[Malinowksi]]
+
 Malinowski set off in the early 20th century to do some fieldwork and as he was in the field, WW1 was declared and was forced to stay in one place - spending two years with the Trobriand islanders.
 
 He wrote The Kula - involving the exchange of these rings.
@@ -192,7 +194,7 @@ Like an organism, a society:
 4. Belongs to 'kinds' which can be compared
 
 There are two different kinds of Functionalism:
-[[Malinowksi]] Functionalism is focused on people's culture - perceptions, individuals - is holistic and asks about the natives point of view. This function can be social, psychological or biologica,
+[[Malinowksi]] Functionalism is focused on people's culture - perceptions, individuals - is holistic and asks about the natives point of view. This function can be social, psychological or biological,
 Structural Functionalism is focused on studying social function, social structure (not culture), comparing institutions across societies, asking about how societies remain in equilibrium
 
 ### [[Evans-Pritchard]] on Neur Fending

@@ -1,6 +1,6 @@
 CONTESTING DEMOCRACY POLITICAL IDEAS IN TWENTIETH-CENTURY EUROPE
 JAN-WERNER MULLER
-[[Weber, Profession and Vocation of Politics]]
+[[Weber, P and V of Politics Set Text]]
 
 ---
 

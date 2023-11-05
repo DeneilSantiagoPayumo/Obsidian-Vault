@@ -1,6 +1,10 @@
 Lecture: Sociology (Soc1) - Lecture 1A
 Date: 05-10-23
 Lecturer: Patrick Baert
+[[Karl Marx]]
+[[Emile Durkheim]]
+[[W, E. B. Du Bois]]
+[[Max Weber]]
 
 ---
 For now, we will focus on Marx, Weber, Durkheim and Du Bois.

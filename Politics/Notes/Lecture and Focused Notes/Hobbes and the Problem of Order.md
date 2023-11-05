@@ -1,7 +1,7 @@
 Lecture: The Modern State and its alternatives
 Date: 05-10-23
 Lecturer: Helen Thompson
-Tags: [[Hobbes, the Leviathan]], 
+Tags: [[Thomas Hobbes]]
 
 ---
 ## Lecture notes:
