@@ -36,4 +36,8 @@ Let's review the role of class and ideology in the states of the Near East.
 
 The basis of early state formation was the city, the empires arising as purely secondary formation - so important the city that it constitutes the most important type of clearly definable premodern state.
 
-The Egyptian state - the Pharaoh was God on earth. It defined the role they played - the king was to maintian harmony between the social and 56
+The Egyptian state - the Pharaoh was God on earth. It defined the role they played - the king was to maintian harmony between the social and 
+
+56
+
+This is not completed!

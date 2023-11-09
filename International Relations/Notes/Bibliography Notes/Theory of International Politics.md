@@ -1,5 +1,5 @@
 Kenneth Waltz 1979
-102-128
+102-128 Chapter 6
 [[Realist Theory]]
 
 ---

@@ -102,7 +102,7 @@ Hayek builds on Mandeville's insights, seeing human society as an enterprise whi
 
 Hayek distinguishes between true individualism and false individualism: intellectual history has been distorted by the tendency to equate the history of liberalism and the case for modern society. The political doctrines here have dominated, being cast in ride. There is another liberal tradition that seeks to embrace modernity and is not reactionary in the sense of trying to restore pre-modern conditions but rejects constructivist rationalism and supports an understanding of the development of modern society, based on deep scepticism
 
-True individualism must not be infected by constructivist rationalism. If so, liberalism turns to socialism. If so, all human culture is in danger of being lost
+True individualism must not be infected by constructivist rationalism. If so, liberalism turns to socialism. If so, all human culture is in danger of being lost.
 
 36
 
@@ -135,7 +135,7 @@ Essentials of liberty: only if subject to all same laws, if he immune from confi
 
 The first and second - negative liberty. The third - positive. The fourth...?
 
-Hayek distrusts political action but offers a positive: a negative conception of liberty and opens possibilities for political intervention. Thee desert spring - if the spring is controlled by a monopolist, that is an act of coercion.
+Hayek distrusts political action but offers a positive: a negative conception of liberty and opens possibilities for political intervention. There is a desert spring - if the spring is controlled by a monopolist, that is an act of coercion.
 
 Coercion is evil, eliminating the person as a real figure.
 
@@ -249,7 +249,7 @@ He never properly engaged with the arguments of modern sociology - never read Ma
 
 If he studied these ideas he might've concluded that to preserve the kind of individualist society he valued would've required measures that restrict the size of organizations and promote small and medium-sized enterprise.
 
-His explanation for the advance of collectivism considers only the role of ideas. Ideas are not autonomous, socio-political institutions not a matter of choice: conflicting with Hayek's argument that economic and social institutions just evolve spontaneously.
+His explanation for the advance of collectivism considers only the role of ideas. Ideas are not autonomous, socio-political institutions and are not a matter of choice: conflicting with Hayek's argument that economic and social institutions just evolve spontaneously.
 
 He lacks an analysis of politics - moving between arguing that only institutions capable of Great Society are the product of spontaneous evolution and at the same time that human beings have to exercise foresight and make a choice between individualism and collectivist road.
 
@@ -302,7 +302,7 @@ It is just way too easy to twist it to assault liberty. Democracy can and should
 
 A democracy will tend towards totalitarianism unless its powers are constrained by an acceptance of liberal principles. Democracy is a doctrine about determining what the law should be - it has no content itself.
 
-This is n arrow: he doesn't believe that there is a range of alternatives among which citizens of a democracy can choose. We must be liberalist. We cannot reach decisions through majority voting with the view of whatever the majority decided should prevail.
+This is an arrow: he doesn't believe that there is a range of alternatives among which citizens of a democracy can choose. We must be liberalist. We cannot reach decisions through majority voting with the view of whatever the majority decided should prevail.
 
 For him, liberalism and democracy are easily separated. Only liberal democracy is capable.
 

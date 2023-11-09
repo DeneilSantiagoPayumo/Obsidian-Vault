@@ -1,4 +1,5 @@
 Rupert Stasch
+Link to Interpretivism - [[Clifford Geertz]]
 [[Symbolism]]
 
 ```ad-abstract
@@ -106,3 +107,4 @@ Aesthetic figuration occurs in indexical links between a material medium and wha
 By existing in time and having deterioration a part of their materiality, houses become a picture of temporal duration and succession - a causal reality that is also an interpretation, an idea and a sociocultural ordering of causality itself.
 
 The sensation itself is a matter of embodied culture and embodied ideas: sensory eprception is not a kind ofdegree zero of indexical signification, the perceiver is directly causally struck by a stimulus.
+

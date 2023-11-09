@@ -39,7 +39,7 @@ The author describes both Adam Smith and Friedrich Hayek and their discussions o
 
 He choose the market over democracy, that the market system enabled the division of labour and the 'coordinated utilization of resources based on equally divided knowledge.' This system is the only one compatible with freedom.
 
-Big Other challenge this notion: the market is not invisible, the competitive struggle among surveillance capitalists produce the compulsion towards totality. Surveillance capitalism replaces mystery with certainty as it substitutes rendition, behavioural modification, and prediction for the old "unsurveyable pattern", reversing teh ideal of the market as unknowable.
+Big Other challenge this notion: the market is not invisible, the competitive struggle among surveillance capitalists produce the compulsion towards totality. Surveillance capitalism replaces mystery with certainty as it substitutes rendition, behavioural modification, and prediction for the old "unsurveyable pattern", reversing the ideal of the market as unknowable.
 
 311
 
@@ -61,7 +61,7 @@ Second, large surveillance capitalists employ few people compared to their massi
 
 The author delves into some history - Google and Facebook employed less and rose to the top of market capitalization than General Motors.
 
-Hyperscale firms have become emblematic of  modern digital Capitalism, representing social and economic challenges, such as their impact on employment and wages.
+Hyperscale firms have become emblematic of modern digital Capitalism, representing social and economic challenges, such as their impact on employment and wages.
 
 313
 
@@ -73,7 +73,7 @@ The American Revolution is an example of how reciprocities of consumption lead t
 
 ![[Pasted image 20231026132742.png]]
 
-... the author continues to discuss tea
+... the author continues to discuss this.
 
 The rise of democracy was bound to industrial capitalism's dependency on the masses and their contribution to the prosperity necessitated by the new organization of production.
 

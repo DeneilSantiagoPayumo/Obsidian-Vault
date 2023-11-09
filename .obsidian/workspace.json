@@ -23,24 +23,16 @@
             }
           },
           {
-            "id": "2f264203199dd34a",
+            "id": "16bd7222e5d8eadb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Anthropology/Notes/Bibliography notes/The Social Skin.md",
+                "file": "International Relations/Projects/Should International Relations theories be able to explain international politics at all times and all places.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "575afa9919be5769",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -118,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Anthropology/Notes/Bibliography notes/The Social Skin.md",
+                "file": "International Relations/Projects/Should International Relations theories be able to explain international politics at all times and all places.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Anthropology/Notes/Bibliography notes/The Social Skin.md",
+                "file": "International Relations/Projects/Should International Relations theories be able to explain international politics at all times and all places.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Anthropology/Notes/Bibliography notes/The Social Skin.md"
+                "file": "International Relations/Projects/Should International Relations theories be able to explain international politics at all times and all places.md"
               }
             }
           },
@@ -219,45 +211,46 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "2f264203199dd34a",
+  "active": "16bd7222e5d8eadb",
   "lastOpenFiles": [
+    "International Relations/Projects/Plan - IR 2.md",
+    "International Relations/Archived Material/Without violence, there would be no nation-states..md",
+    "International Relations/Archived Material/List of lectures for IR.md",
     "Z. Root/Misc/Deadlines.md",
-    "Social Anthropology/Notes/Bibliography notes/The Social Skin.md",
-    "Social Anthropology/Notes/Bibliography notes/Korowai Treehouses and the everyday Representation of Time, Belonging and Death.md",
-    "Social Anthropology/Notes/Bibliography notes/Nightwork, sexuality, pleasure and corporate masculinity in a Tokyo hostess club.md",
-    "Social Anthropology/Notes/Bibliography notes/Notes on the Balinese Cockfight.md",
-    "Social Anthropology/Notes/Bibliography notes/The Theory of Practice, Bourdieu.md",
-    "Social Anthropology/Notes/Bibliography notes/Theory in Anthropology since the Sixties.md",
-    "Politics/Notes/Lecture and Focused Notes/Hayek and Economic Liberty.md",
-    "Politics/Notes/Bibliography notes/Weber/Weber, P and V of Politics Set Text.md",
-    "Politics/Notes/Lecture and Focused Notes/Weber and the profession and vocation of politics.md",
-    "Social Anthropology/Notes/Bibliography notes/Thick Description, Toward an Interpretive Theory of Culture.md",
-    "Social Anthropology/Notes/Bibliography notes/James Clifford, George E. Marcus, Writing Culture.md",
-    "Social Anthropology/Notes/Bibliography notes/Chisungu, A girl's initation ceremony among the Bemba of Zambia.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Symbolism.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Riddles of Power.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Practice Theory and Marxism.md",
-    "Z. Root/Misc/Placeholder for new files/Michel Foucault.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Interpretivism and Structuralism.md",
-    "Z. Root/Misc/Placeholder for new files/Clifford Geertz.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Explaining Stability and Change.md",
-    "Z. Root/Misc/Placeholder for new files/Evans-Pritchard.md",
-    "Social Anthropology/Projects/So what do you think is ethnography anyway,.md",
-    "Z. Root/Misc/Placeholder for new files/Malinowski.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Concept, puzzles and theories.md",
-    "Sociology/Notes/Lecture and Focused Notes/Nations and nationalism.md",
-    "Sociology/Notes/Lecture and Focused Notes/Media, Social Media and Capitalism.md",
+    "Sociology/Projects/Discuss the strengths and weaknesses of Benedict Anderson's theory of the rise of nationalism.md",
+    "Sociology/Projects/SOC1 essay Anderson Feedback.md",
+    "Sociology/Projects/Discuss the strengths and weaknesses of Benedict Anderson's theory of the rise of nationalism plan.md",
+    "International Relations/Projects/Should International Relations theories be able to explain international politics at all times and all places.md",
+    "Politics/Archived Material/Politics Supervision 23,10,23.md",
+    "Politics/Archived Material/List of lectures for Politics.md",
+    "Sociology/Archived Materials/Deadlines for Sociology.md",
+    "Sociology/Notes/Lecture and Focused Notes/Welfare State And the Politics of Social Inclusion and Exclusion.md",
+    "Sociology/Notes/Lecture and Focused Notes/Power, Politics and Society.md",
+    "Sociology/Notes/Lecture and Focused Notes/The State, What Is It and Who Rules It.md",
+    "Sociology/Notes/Lecture and Focused Notes/Theories of Modernity.md",
+    "International Relations/Notes/Bibliography Notes/Anarchy is What States Make of It, The Social construction of Power Politics.md",
+    "International Relations/Notes/Lecture and Focused Notes/Constructivist Theory.md",
+    "International Relations/Notes/Bibliography Notes/The Promise of Constructivism in International Relations.md",
+    "International Relations/Notes/Lecture and Focused Notes/Nations and States in the Americas.md",
+    "International Relations/Notes/Bibliography Notes/The Company and the Shogun, The Dutch Encounter with Tokugawa Japan.md",
+    "International Relations/Notes/Bibliography Notes/States and Power in Africa, Comparative Lessons in Authority and Control.md",
+    "International Relations/Notes/Bibliography Notes/Sovereignty, International Relations, and the Westphalian Myth.md",
+    "International Relations/Notes/Bibliography Notes/Of Things of the Indies.md",
+    "International Relations/Notes/Bibliography Notes/Keohane, After Hegemony.md",
+    "International Relations/Notes/Bibliography Notes/International Orders in the Early Modern World, Before the Rise of the West..md",
+    "International Relations/Notes/Bibliography Notes/Harmony and War, Confucian Culture and Chinese Power Politics.md",
+    "Z. Root/Z. Photo Dump/Pasted image 20231107180312.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231107162231.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231106234623.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231105232246.png",
+    "Politics/Notes/Bibliography notes/Arendt",
+    "Z. Root/Z. Photo Dump/Pasted image 20231105192133.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231105185900.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231105142554.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231105142540.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231105141402.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20231105140945.png",
     "Z. Root/Misc/Placeholder for new files",
-    "Z. Root/Z. Photo Dump/Pasted image 20231104180945.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231103205001.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231103194859.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231103194851.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231102172042.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231102170454.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231101172240.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231101172231.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231101172054.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20231031202556.png",
     "Politics/Notes/Bibliography notes/Hayek",
     "Politics/Notes/Bibliography notes/Constant",
     "Politics/Notes/Bibliography notes/Weber",
@@ -267,7 +260,6 @@
     "Untitled 1.canvas",
     "International Relations/Projects/IR Supervision",
     "General University Folder/1. Projects/Politics Supervision",
-    "General University Folder/2. Areas/Ongoing Supervisions",
-    "Social Anthropology/Archived Material/Untitled"
+    "General University Folder/2. Areas/Ongoing Supervisions"
   ]
 }

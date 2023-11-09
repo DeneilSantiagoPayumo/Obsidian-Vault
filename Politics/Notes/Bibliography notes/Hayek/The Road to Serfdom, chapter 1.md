@@ -39,7 +39,6 @@ This growth made humanity better. We found the dark spots, and exterminated it.
 
 We cannot do justice to this growth if we measure it by our present standards. We must believe that this success surpassed man's wildest dreams.
 
-
 There is nothing to make liberalism a stationary creed - we should make as much use as possible of the spontaneous forces of society and resort as little as possible to coercion.
 
 18

@@ -1,4 +1,4 @@
-[[Realist Theory]]
+[[Liberal Institutionalism]]
 ### Single-play Prisoners' Dilemma and the Problem of Collective Action
 
 The difficulties of cooperating is called through "mixed-motive games" characterised by a combination of "mutual dependence and conflict, of partnership and competition" - both players can benefit from mutual cooperation but each can gain more from double-crossing the other one.
@@ -101,7 +101,7 @@ Therefore we can criticize Realism's bleak picture of the inevitability of hegem
 
 85
 
-We explore why political market failure occurs and how internationalr egimes can help cover it.
+We explore why political market failure occurs and how international regimes can help cover it.
 
 ## Political Market Failure and The Coase Theorem
 
@@ -231,7 +231,7 @@ Regimes make cooperation rational.
 ```ad-example
 title: Nuts 'n bolts:
 collapse: open
-Suppose, for example, that a member of GATT is under pressurefrom domestic manufacturers of nuts and bolts to enact import quotas on these products. Even if the government perceives that it has a myopic self-interest in doing so, it knows that such an action in violation of the rules would have negative implications for it on other trade questions—let us say, in opening markets for its semiconductors abroad. The principles and rules of the regime, since they facilitate linkage among issues, will in such circumstances render pursuit ofmyopic self-interest less attractive. Indeed, the prospect of discord asa result of its rule-violation may lead the government to continue to engage in cooperation, whereas if it could have gotten away with the violation without risking discord, it would have gone ahead.
+Suppose, for example, that a member of GATT is under pressure from domestic manufacturers of nuts and bolts to enact import quotas on these products. Even if the government perceives that it has a myopic self-interest in doing so, it knows that such an action in violation of the rules would have negative implications for it on other trade questions—let us say, in opening markets for its semiconductors abroad. The principles and rules of the regime, since they facilitate linkage among issues, will in such circumstances render pursuit ofmyopic self-interest less attractive. Indeed, the prospect of discord asa result of its rule-violation may lead the government to continue to engage in cooperation, whereas if it could have gotten away with the violation without risking discord, it would have gone ahead.
 
 ```
 

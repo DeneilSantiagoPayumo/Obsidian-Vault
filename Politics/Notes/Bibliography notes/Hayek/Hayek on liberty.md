@@ -117,6 +117,8 @@ A medical need involving relieving pain is not ranked against one involving the 
 
 Each (referring to physicians) should be rewarded according to the value of their services to their patients. The principle of rewarding people according to the value of their services to others shows clearly that the only principle of justice application to distribution in a free society is that of commutative justice - attempts to impose any other principle on the free exchange of free men involves imposing upon them a hierarchy of ends and goals, a ranking of values about which no consensus exists.
 
+One could not know enough - all such efforts at correct market distribution entail ... unsuccessful ... denies that social justice has any clear sense at all.
+
 The modern ideas of social justice threaten the transformation of the free order into a totalitarian organization.
 
 ## ECONOMIC THEORY AND PUBLIC POLICY 76

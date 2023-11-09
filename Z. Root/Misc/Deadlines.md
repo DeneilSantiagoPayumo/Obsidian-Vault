@@ -7,50 +7,41 @@ Finish SOC essay.
 
 What do I need to do next week? I need to 
 
-~~**Monday**: Politics and Sociology 30
-Finish one text of Hayek Done!
-Start reading new content for Sociology. Not done.
-Create bibliography for Social Anthropology Done!
+Monday: Politics and Sociology 06
+
+Finish Hayek essay
+Make a start on Hannah Arendt (2x)
+
+Sociology, finish some of the previous work we haven't done
 
 **Tuesday:** International Relations and Social Anthropology 31
 
-International Relations start the new reading (skim heavily)
-Social Anthropology read for newest lecture ... all I have is time of the gypsies
-Read two short texts for Sociology ... to be done after my supo!
+Constructivism reading
+Finish Durkheim reading
+Start Kinship reading.
+We moved away from kinship reading as systems.
+
+Plan IR essay
+
+Apply for student account Done
 
 **Wednesday** Politics and Sociology 1
 
-International Relations start the new reading (skim heavily)
-Politics read the other Hayek book.
-Sociology read for previous lecture
-
-Potentially, we could skip two of the Sociology lectures and get started on the bottom text. It may be worth it to write on the next Hayek text...? If we do that, we can begin writing on the 5th?
+Start one book for Kinship reading
+International Relations - read Gender in the International System
 
 **Thursday** International Relations and Social Anthropology 2
 
-Keohane
-Politics, final Hayek book
-Sociology read for today's
-
-
-Need to go to HSBC to get my 100.
-
 **Friday** Politics and Sociology 3
 
-Politics start new politics reading
-Sociology, finish part 1.
+Start new sociology readinf
+Start new politics reaading
+Plan and write POL2 essay
 
 **Saturday** International Relations and Social Anthropology 4
 
-![[Pasted image 20231104180945.png]]
-
-IR reading's all done!
-
-Make an essay plan for Hayek.
-
 **Sunday** Politics and Sociology 5
 
-Politics - Hayek, begin writing essay, start reading more on Arendt
 
 ---
 Supervision questions:
@@ -90,15 +81,13 @@ John Dunn, ‘Liberty as a substantive political value’, in Interpreting polit
 Hobbes, an introduction
 Weber's main theory.
 Constant's main theory
-Hayek last text
 Arendt's text
 
 Sociology:
-Capitalism [[Social Media, a critical introduction]]
+Capitalism Social Media, a critical introduction (!)
 Hartsock, Nancy. 1983 “An Alternative Tradition: Women on Power.” in
 Money, Sex, and Power p. 218-226
-Jessop, Bob. 2014. ‘Marxist Approaches to Power.’ in Amenta, Nash, & Scott
-Du Bois
+Feminist on the State
 
 Social Anthropology:
 
@@ -115,10 +104,8 @@ Jaime E. Rodríguez, “The Emancipation of America.” American Historical Revi
 ---
 Clubs:
 Sidney Film night - 7 November, 21 November LGBTQ
-Writing in the dark session - 3rd November, Trinity Blue Boar Room, 8-10 PM Blackbird
 Poetry night with SU and GEM - 14th November, Clare cellars, 8PM
 22nd November, Newnham - Twas the night before bridgemas, food and open night.
-6th November, 1500 Nihon Room
 
 ---
-![[Pasted image 20231030120259.png]]
+![[Pasted image 20231107162231.png]]
