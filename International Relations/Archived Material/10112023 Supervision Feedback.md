@@ -1,0 +1,26 @@
+States exist in a mechanic way. There is a bit of a chink in that firm boundaries drawn by the liberals, drawn back to 1997, Joseph Nigh (who?) talked about interdependence that inter-vulnerability that makes the internal and external boundaries not so clear cut.
+
+**Rationality**
+
+Neo-realism: why don't we look at the internal things? It is simply too complicated. Except classical realists did think in terms of more than systemic values - had a list of systemic factors that might impact on policy and state action. Things like morality and ideology were factors that the state had to take in account but they are all subordinate to the ideas of power and security, that rational security of cost and benefits analysis but security and power trumps it all. Classical realists have a different attitude than neo-realists who are just interested in international structures.
+
+There are neo-classical theorists: classical, offensive, defensive and so on. Boundaries are super cool. For classical realists, it wasn't so straight forward as it later became for the structural and offensive realists. Second issue, rationality: rationality is in the eyes of the beholder, and that there are different kinds of rationality. Rationality in terms of nested games: game theory. Whose rationality are we talking about? Realists take rationality as determined by the international system, the cost-benefit analysis. Liberal-institutionalist take different kinds of rationality, two different kinds of economic actors both domestic and international and they might have a different kind of rationality to a government or state. You could even nest the games differently.
+
+Rationality is something to be treated carefully: there are multiple rationalities.
+
+**Causation**
+
+Theories allow us to predict by simplifying certain things, all other things being equal.
+
+The more how questions we have, in what way, we end up having an incredibly complex causality. We have a whole number of different 'how' questions before we have a satisfying answer. It is on this basis that theories are predicative as we can add one new variable and it changes this in a certain and new way. The variables set out already add something new to the outcome. Theories are highly predictive in this sense. Both liberalism and neo-liberalism to that extent are theories that relate to causality.
+
+
+We've got boundaries, actors, rationality, causality. These play out different between realist and liberal-institutionalist theories. Some philosophers think "man is evil" and liberal believes that "man is good" but that's incredibly simplistic and reductionist.
+
+In the sociology department, let's consider Anthony Giddens - the interactions between agents and the structure and that they're mutually constitutive. We cannot understand what is going ion until we understand the relationship between the agent and the structure and we like the idea of constructivism relating to the idea of that: let's consider Putin's ideological relations and we're not going to understand Russia's position until we understand Putin's belief - ex-KGB and an employee of the soviet union, somebody who is totally corrupt and has ways therefore of playing politics. Given his use and abuse of history, his own cultural background as a KGB member, this could've begun to understand the self-perception of Russia but (for me) that is going incredibly reductionists and going incredibly into the state and their interactions with government, ideology and international system and that becomes important.
+
+That's a constructivist approach. But it's gone much further (than what I argued) in looking at how on earth did Russia, under Putin, take these sorts of decisions: what was his mismatch? How did he underestimate the response of the west? Given the nature of government and governance that explains quite a lot, given what Putin wanted (resurrection of Russia, fears of Baltic states moving to NATO and more) it all makes sense... for him. That relationship between Serb and Russia is a very important one.
+
+If as (taking a very idiosyncratic view of Constructivism) Realism is far too limited in that it takes only a certain number of variables, liberal institutionalism takes more variables, economic actors are important in all areas, but if we want to get into the how's and why's we must take things in a deeper level. We must look at ideology, history and more before we get a serious understanding of how the international system works.
+
+Katzenienstein - Sill | wrote this article on eclecticism which was wonderful - they begin to recognise stuff. One of the interesting things is that if we want to look at international laws and how states do or do not accept international norms, then we take bits from all overs. Constructivism can pinch menus and disciplines from other menus and approaches. Hence, this is interesting why Constructivism is seen as a theory and not an approach. It is not seeking to explain, it is seeking to understand.
