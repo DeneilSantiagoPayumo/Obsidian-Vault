@@ -67,7 +67,7 @@ This is Edward Said's study of orientalism with may studies coming to take the i
 
 But this idea of the Europeans destroying the Asians is not correct.
 
-The argument that this cannot be strung into a pattern has been recognized by a group of scholars argued against what Tonio Andrade, a leading representative of this revisionist approach calls the "1492 Schema" of history that seeks to equate the voyages of exploration with "the rise of teh west".''
+The argument that this cannot be strung into a pattern has been recognized by a group of scholars argued against what Tonio Andrade, a leading representative of this revisionist approach calls the "1492 Schema" of history that seeks to equate the voyages of exploration with "the rise of the west".''
 
 (page 6)
 

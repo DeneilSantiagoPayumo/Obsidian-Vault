@@ -80,5 +80,13 @@
       ],
       "key": "-"
     }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "\\"
+    }
   ]
 }

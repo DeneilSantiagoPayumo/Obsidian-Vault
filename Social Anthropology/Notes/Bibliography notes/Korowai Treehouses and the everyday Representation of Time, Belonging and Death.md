@@ -1,6 +1,6 @@
 Rupert Stasch
 Link to Interpretivism - [[Clifford Geertz]]
-[[Symbolism]]
+[[Symbolism Series]]
 
 ```ad-abstract
 Treehouses can be described as artwork for Korowai, in the sesne that numerous surrounding categories and principles of people's lives are poetically superimposed in sensory experience of the physical buildings. Houses represent termporality, social belonging, and fear of death. Indexical links of causation or spatiotemporal continguity are a central mode of representationn through which houses have their force.

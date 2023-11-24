@@ -1,8 +1,6 @@
 
 The principles for today: the nation-state principle, the emergence of sovereign, territorial nation states in the Americas and war and state-making.
 
-# GIVE NOTES TO GRACE!!
-
 30/10/23
 
 Sovereign is an organized political community that is a recognised as an authority beyond its borders.
@@ -55,7 +53,7 @@ Borders weren't set in stone so disputes over boundaries didn't largely exist. T
 
 So, this was far ahead from the United States - the largely local political elites (members of a political colony) and the original 13 colonies of the United States allowed the United State to expand territorially by Louisiana and France
 
-### War-making and the rise of the "Yankee Leviathan" (Richard Bensel)
+### War-making and the rise of the "Yankee Leviathan" ([[Richard Bensel]])
 
 Let's consider [[Bringing the State Back In]] that argued the state was built in a cycle of protection and creation, creating a bureaucracy that can extract resources efficiently that determines the power of the state. How did the US become so powerful? Well, they focused on creating revenue through customs (tax on import and export of good) - a person sitting on the phone talking about goods coming in and out. It is unlikely that people of the country will demand representation on this, whereas they might for diect taxation.
 

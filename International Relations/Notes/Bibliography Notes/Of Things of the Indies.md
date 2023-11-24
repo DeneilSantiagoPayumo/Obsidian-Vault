@@ -248,7 +248,7 @@ Religion and politics were grafted onto basic institutions of the indigenous eth
 
 330
 
-The overall picture in central Mexico is that of an indigenous system readily acceptig but also transforming anything from the outside that was closely parallel in structure and function but wanting to continue with those aspects of the system that was not compensated for.
+The overall picture in central Mexico is that of an indigenous system readily accepting but also transforming anything from the outside that was closely parallel in structure and function but wanting to continue with those aspects of the system that was not compensated for.
 
 This experience is not universal, standing at one end of a wide spectrum.
 
@@ -260,7 +260,7 @@ That said, some methods, tools and materials did help but the indigenous people 
 
 Acceptance and resistance is a function of degree of convergence. Among the sedentary people, resistance was the residue left after the operation of the primary convergences that made European occupation possible.
 
-Much of this rapproachement occured within the context of a situation where each side (332) tended to presume that the approximately equivalent phenomenom on the other side was identical to its own.
+Much of this rapproachement occurred within the context of a situation where each side (332) tended to presume that the approximately equivalent phenomenon on the other side was identical to its own.
 
 
 

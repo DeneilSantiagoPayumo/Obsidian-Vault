@@ -31,7 +31,7 @@ In Crowley's own terms: socials structures are relatively stable patterns of soc
 
 Position in social structure **conditions but does not determine** action - it can be constraining or enabling but it cannot determine our actions. We cannot look at somebody's position and infer exactly what they are going to do.
 
-## Topic one: The Welfare State as misnommer
+## Topic one: The Welfare State as misnomer
 
 ```ad-quote
 title: Textbook definition of the welfare state

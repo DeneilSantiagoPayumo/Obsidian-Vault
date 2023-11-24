@@ -2,7 +2,7 @@ pp 1-3, 7-9, 205-236. 433-448
 
 [[Emile Durkheim]]
 
-[[Symbolism]]
+[[Symbolism Series]]
 
 1-3
 

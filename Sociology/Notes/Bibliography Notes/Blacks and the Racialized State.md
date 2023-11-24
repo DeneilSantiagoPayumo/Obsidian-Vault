@@ -78,3 +78,21 @@ It also accelerated racial segregation and inner-city decay: it continued the pr
 Thus state policy has an enormous impact on racially shaping private markets. The credit maps produced by these practices had a self-fulfilling prophecy: neighbourhoods that were redlined were denied the resources necessary to maintain themselves regardless of the qualities of the residents.
 
 It became clear that the housing needs of the poor needed to be addressed. Thus led to the Public Housing Program.
+
+
+## The Curious Case of Public Housing
+
+The United States is the only major post-industrial democracy that has rejected the belief that government has a responsibility to correct market failures and provide decent housing for its poor. In comparison to Europe - England started housing assistance as early as the 1868s whereas the US did not get started until the 1930s. In contrast, in the US the argument has been popular that the government should avoid providing housing but that safety and other housing codes should be enforced as little as possible because they led to rent raises and housing abandonment.
+
+The Roosevelt administration launched its own public housing market because the administration argued that the private market never built low-quality housing... but it ran into problems. The federal government then attempted to use its power of imminent domain to assemble parcels fo real estate for large-scale development.: Judge Charles Dawson argued that this federal power was unconstitutional as it is not a governmental function to construct buildings in a state for the purpose of selling them to private citizens for occupancy as houses.
+
+The result was the United States Housing Act where public housing funding would be directed to localities that would form a local housing administration and the localities would assemble the shape of the packages locally. The Act was enhanced in 1949 - the effect was a slum-clearance program.
+
+The requirement of local participation options meant that suburbs could effectively block the siting of public housing in their communities - the requirement that slum units had to be eliminated for every unit built meant that stable working-class and lower middle-class communities would not be eligible. Public housing was built upwards and became the housing of last resort for the most distressed urban poor in unprecedented  numbers which overwhelmed the governmental and welfare services of a city.
+
+The structures of racial subordination institutionalized in New Deal era national programs would be reinforced and extended - the latter often acting violently against their fellow black citizens.
+
+Chicago provides an excellent example of the complex but reinforcing interaction between national state policy, the actions of local officials, and the behaviour of white businesses and citizens acting in a civil society to maintain the racial order. There was a housing proposal crafted by the activist leadership of the Chicago Housing Authority but was opposed by white Chicagoans - the result was that the only projects approved were the two that were located in the black communities, leading to 100 net units to the black housing stock, setting the pattern for further public housing projects. Violence was used in Chicago to enforce this segregated housing.
+
+Well into the 1960s a combination of ficials coincided to preserve racial boiundaries.
+

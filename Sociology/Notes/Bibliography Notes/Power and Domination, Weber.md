@@ -1,4 +1,5 @@
 [[Max Weber]]
+[[Power, Politics and Society]]
 Page 53 (page 163 in website)
 
 Power (Macht) is the probability that one actor within a social relationship will be in a position to carry out his own will despite resistance regardless of the basis on which this probability rests.

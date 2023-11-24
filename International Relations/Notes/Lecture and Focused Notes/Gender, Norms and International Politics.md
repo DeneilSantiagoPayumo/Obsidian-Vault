@@ -8,7 +8,7 @@ Contrast this with rational action - instrumental maximizing means-ends. Norms h
 
 There are many regulative and constitutive norms - gender as a social construct or social fact and people comply with them for many reasons: habit, internal emotion and external peer pressure.
 
-### [[Finnemore and Sikkink's]] Norm Life-Cycle
+### [[International Norm Dynamics and Political Change]] Norm Life-Cycle
 
 IR really neglects gender. This constructivist article is quite important thereof.
 

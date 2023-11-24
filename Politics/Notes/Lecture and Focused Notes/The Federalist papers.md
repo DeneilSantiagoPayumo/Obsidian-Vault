@@ -91,3 +91,175 @@ This becomes a serious retort to Hobbes. The question that this raised is whethe
 
 But there is this idea that ultimate sovereignty came directly from the consent of the governed.
 
+---
+
+Lecture: The Federalist papers II
+Date: 14-11-23
+Lecturer: Helen Thompson
+
+---
+## Lecture notes:
+
+To send to Rafa and Nikolas!
+
+## How the constitution was set up: representation
+
+1. House of representatives: elected very two years by districts based on population with 1 slave treated as 3/5 of a person
+2. The Senate: Two members per state chosen by state legislatures for 6 years
+3. The President: Chosen for 4 years by an electoral college of the states with states deciding methods of their representatives
+4. Justices (now 9) nominated by the president and confirmed by the senate.
+
+There's a pattern here: a balance of power, a system of checks and balances. Ambition must be made to counteract ambition.
+
+**The separation of powers: executive, legislature, judiciary**
+
+Legislation: majority in house of representatives and in the senate and president signs. 2/3 in HoR (House of Representatives) to beat the veto.
+
+Only Vice-President can be in more than one branch.
+
+Divided war authority; right to declare war belongs to Congress, Commander in Chief is the President.
+
+**The separation of powers: federalism**
+
+Powers of the Federal Congress: the power to tax, authority over the western lands and to 'provide for the common defence and general welfare of the United States'
+
+Restrictions on states: list of acts they were forbidden to do, including taxing imports.
+
+Exception on federal power: no slave abolition until 1808.
+
+Given that taxing imports was the primary means a state could raise taxes, that takes away the authority of the state to tax. That said, it hasn't worked in practice. This is the only thing that the American constitution forbid - getting rid of slave trade.
+
+## Anti-federalists: Brutus (probably Robert Yates)
+
+Note how he took a Roman name, one that is highly charged. Brutus is the man who killed Julius Caeser.
+
+From his point of view, what he created was a betrayal of societal values: he made tons of cheap shots at the federalists but we'll go through the main objections of the constitution that Brutus made. These show how much of a political contest the constitution was, and that there is pertinence to some of Brutus' objections.
+
+Let's start with objection one.
+
+### Brutus: republics must be small
+
+```ad-quote
+title: Letter 3
+"The house of assembly ... will not ... in the nature of things be a proper one - sixty five men cannot be found in the US who hold the sentiments ... of this vast country."
+```
+
+Republics have to be small because they are a form of government of the people, in which the people's interest and beliefs and values of held. If you create a republic the size of the United States, it won't be representative of the diversity of the United States.
+
+### Brutus: different class interests must be represented
+
+Brutus says that there are multiple classes in America each group, each class, must be represented separately.
+
+```ad-quote
+title: Letter 3
+"This extensive continent is made up of a number of different classes of people, and to have a proper representation of them, each class ought to have an opportunity of choosing their best informed men ... in this assembly, the farmer ... ought to be represented according to their respective weight and numbers."
+
+```
+
+For Brutus, you need to recognise that in this society there are profound divisions of interests that means individuals must be represented in politics.
+
+If you don't then...
+
+### Brutus: the republic will entail the constitutionalised rule of the rich: 'tyrannic aristocracy'
+
+```ad-quote
+title: Letter 3
+"In reality there will be no part of the people represented, but the rich, even in that branch of the legislature, which is called the democratic."
+```
+
+and.
+
+```ad-quote
+title: This republic will be dominated by the slave states
+"By this mode of appointment, the representatives of the different parts of the union will be etremely unequal ... the slaves are naerly equal in number to the free men ... this will give them unreasonable strength."
+```
+
+### **Brutus: This federal republic will become a national state**
+
+We take the national questions: debt, future expansion, and we'll keep local issues to the state. We'll have a politics that concentrate on the common good of the country, politics that pertains to particular parts of the state, Madison argues.
+
+Brutus says that this doesn't matter: power is mainly through who gets to tax, who decides to collect money - if you move the power to tax to the federal government, the federal government will dominate the states.
+
+```ad-quote
+title: Letter 1
+"And are by this caluse invested with the power of making all laws ... they may so exercise this power as entirely to annihilate all the state governments and reduce the country to one single government."
+```
+
+This turned out to be wrong, and partly that's because there are many ways to tax.
+
+### Brutus:  This republic will end your liberties
+
+Why would we think that giving these power won't threaten us?
+
+```ad-quote
+title: Letter 3
+"The powers, rights, and authority,, granted to the general government by this constitution, are as complete ... as that of any state government. There is the same reason, therefore, that the exercise of power ... should be restrained within popular limits as in that of the state government"
+```
+
+Essentially we need a **bill of rights**, rights that the government can't interfere with at any costs.
+
+Just because we've got representatives doesn't mean that we can trust people in power. Rulers have the same institutions as other men, they are likely to use power for their personal ways.
+
+```ad-quote
+title: Letter 2
+"But rulers have the same propensities as other men; they are as likely to use the power with which they are vested for private purposes, and to the injury and oppression of those over whom they are placed, as individuals in a state of nature are to injure and oppress one another."
+```
+
+Federalists don't acknowledge this possibility; we're choosing a government of people, a republic. A republic of virtuous leaders, so why don't we trust the previous leaders?
+
+Hamilton makes the alternative argument: we don't need the bill of rights as we'll see later.
+
+## Who is the sovereign in the constitution?
+
+1. Constitution is unclear as to who upholds the constitution
+2. Bill of Rights complicated the issue - "Congress shall have the power ... to provide for the common defence and general welfare of the United States (Article 1, section 8)"
+"The powers not delegated to the United States (federal government), nor prohibited by it to the States, are reserved to the States respectively, or to the people (10th amendment)."
+
+Let's look at Roe Vs Wade - the power of the state, or the people?
+
+3. Madison in 1798 said the states.
+4. But, let's take a look at the supreme court: The Supreme Court in Marbury v Madison in 1803 said the Supreme Court. The Supreme Court decided that it can decide for itself.
+
+In making that argument, the Supreme Court turned to Hamilton: they looked at what Hamilton wrote in the federalist.
+
+```ad-quote
+title: Federalist 78
+"No legislative act, therefore, contrary to the Constitution, can be valid. To deny this would be to affirm that the deputy is greater than his principal; that the servant is above his master..."
+```
+
+Can't the Supreme Court be tyrannical too?
+
+```ad-quote
+title: Thomas Jefferson
+"The constitution has ereceted no single tribunal, knowing to whatever hands confided, with the corruptions of time and party, its members would become despot."
+
+```
+
+The whole idea is that ambition must be made to counteract ambition. But who are going to check judges? Isn't this the point of getting rid of George III? Wasn't he despotic?
+
+Hamilton makes an argument, not for him if it only has authority.
+
+```ad-quote
+title: Federalist 78
+"It may truly be said to have neither force nor will but merely judgement; and must ultimately depend upon the aid of the executive arm even for the efficacy of its judgement."
+```
+
+In other words, you can't enforce anything because it doesn't have power, just authority. It is power, not authority, that makes people tyrannical.
+
+One of the most important supreme court cases is Brown v the Board of Education that said that racial segregation in schools was unconstitutional. Here's a point: the authority / power distinction have some merit.
+
+## But authority wasn't enough in 1861 when the civil war began.
+
+1. The constitutional question: did the state have a constitutional right to secede from the Union?
+2. If the people of the republic were the peoples of states and they could claim a tacit right to secede did that have to accept if that new sovereignty was to be used to establish a rival slave state?
+3. Each question settled by war and then the victors reformed the constitution by flat.
+
+Madison believed factions was generated by property and was a fundamental part of human nature. He believed constitutions to be the main way of reducing the power of factions.
+
+1. The constitution is still a site of factional conflict: the Supreme Court's authority, federal versus state authority, the electoral college, and the two-Senator per state provision
+2. Slavery was central to original factionalism and its legacy remains in these constitutional conflicts.
+3. These ongoing constitutional contests yield instability and fraying consent to the rules of the republic.
+
+Look over conflicts over Donald Trump - having him run for president next year without affirming constitutional right.
+
+[[Tocqueville]] argues otherwise that what we need to think about democracy isn't about constitutional rule - it's what citizens are like under conditions of authority.

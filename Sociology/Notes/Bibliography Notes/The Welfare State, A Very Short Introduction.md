@@ -154,7 +154,7 @@ The working class benefits more than they put in.
 
 *Social assistance* refers to the safety net on non-contributory, income-support programmes that relieve those whose income is insufficient for their basic needs.
 
-these benefits are selective and means-tested: food stamps, earned income tax credits, child tax credits.
+These benefits are selective and means-tested: food stamps, earned income tax credits, child tax credits.
 
 It is funded out of general taxation and is modestly redistributive: strongly gendered with primary recipients being women and children. This is the least popular with the public and prompts moral panic about work-shy scroungers.
 
@@ -162,9 +162,9 @@ It is funded out of general taxation and is modestly redistributive: strongly ge
 
 These public services come close to being social rights - being provided as of right and operating outside the market: employee rights like minimum wages, paid holidays, parental leave...
 
-*Social work and personal social services* - provide forms of support such as social work with families, children's services, social care for the elderly, community care for the mentally ill. In these instances, social work professionals engage iwth clients in ways that combine care and control.
+*Social work and personal social services* - provide forms of support such as social work with families, children's services, social care for the elderly, community care for the mentally ill. In these instances, social work professionals engage with clients in ways that combine care and control.
 
-They aim to normalize and discipline - targeting lower-class populations. [[Jacques Donzelot]]describes these as ways to police the family where families deemed problematic are inspected and pressed to be normal. In these ways, welfare states regulate and secure families, regulating and securing economies.
+They aim to normalize and discipline - targeting lower-class populations. [[Jacques Donzelot ]]describes these as ways to police the family where families deemed problematic are inspected and pressed to be normal. In these ways, welfare states regulate and secure families, regulating and securing economies.
 
 *Government of the economy* - these programmes depend upon the operation of large-scale government controls on economic life: monetary policy, tax laws, fiscal policy, and so on. Here, nationalization of industry are instruments of economic management used in welfare states,
 
@@ -267,7 +267,7 @@ The social market economy Germany established designed to enable an organized ap
 
 Lowest levels of government social expenditure, social provision more partial, redistributes less, leading to high poverty and equality in the developed world.
 
-19th century America was a leader in state welfare but it lacked a reformed civil service so government corruption discredited these programs/
+19th century America was a leader in state welfare but it lacked a reformed civil service so government corruption discredited these programs/.
 
 The social security act of 1935 created a system of social insurance but due to the Southern resistance and racial hierarchies, its coverage was far from universal. Black people suffered.
 

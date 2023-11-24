@@ -65,7 +65,6 @@ A piece on the theory of anthropology - for instance, the US where she introduce
 
 "I will argue that a new key symbol of theoretical orientation is emerging, which may be labelled "Practice" for "action" or "praxis". This is neither a theory nor a method but a symbol in the name of which a variety of theories and methods are being developed. 
 
-
 ## Examples:
 
 Ghliko.

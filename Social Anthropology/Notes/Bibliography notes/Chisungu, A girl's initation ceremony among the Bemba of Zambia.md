@@ -1,4 +1,5 @@
-Links to [[Explaining Stability and Change]], mainly with [[Functionalist]] theories.
+Links to [[Explaining Stability and Change]]
+[[Audrey Richards]]
 
 ---
 

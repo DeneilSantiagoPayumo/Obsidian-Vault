@@ -77,7 +77,7 @@ Other scholars traced a line of influence from broader left politics into the ne
 
 ...
 
-These accounts suggest a complex view of the transformation of the 19970s and 80s - Thatcher was just one outcome and there were 'roads not taken'. New Labour operated in a post-Thatcherite landscape but it was not a simply a vehicle for neoliberal ideas. Thatcherism may have been the outcome of some contingent and unstable developments but some moves in the direction of neoliberal ideas were probably on the cards even if Callaghan won.
+These accounts suggest a complex view of the transformation of the 1970s and 80s - Thatcher was just one outcome and there were 'roads not taken'. New Labour operated in a post-Thatcherite landscape but it was not a simply a vehicle for neoliberal ideas. Thatcherism may have been the outcome of some contingent and unstable developments but some moves in the direction of neoliberal ideas were probably on the cards even if Callaghan won.
 
 ### Economic History 15
 
@@ -99,7 +99,7 @@ This outcome suggests that the financialization of British society was a rationa
 
 Tomlinson argued that a fundamental effect of deindustrialisation was to compromise the ability of politicians to implement the neoliberal rollback of the welfare states - it created a situation where governments were forced to subsidise wages.
 
-Centring deindustrialisation prompts us to ask what cause the disappearance of industrial work. An orthodox economist would point to technological change, relative factor costs and increased demand for services in an affluent economy. Evidence of the decline of industrial jobs used to prove this point, suggesting that neoliberalism is a distraction from the transformation of glboal capitalism.
+Centring deindustrialisation prompts us to ask what cause the disappearance of industrial work. An orthodox economist would point to technological change, relative factor costs and increased demand for services in an affluent economy. Evidence of the decline of industrial jobs used to prove this point, suggesting that neoliberalism is a distraction from the transformation of global capitalism.
 
 ...
 

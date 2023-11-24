@@ -1,5 +1,4 @@
-
-## Yongjin Zhang, "Curious and Exotic Encounters: Europeans as Supplicants in the Chinese Imperium, 1513-1793" pages 55-75
+### Yongjin Zhang, "Curious and Exotic Encounters: Europeans as Supplicants in the Chinese Imperium, 1513-1793" pages 55-75
 
 Tags: [[First Encounters and Origins of Global Relations]] 
 
@@ -7,7 +6,7 @@ Tags: [[First Encounters and Origins of Global Relations]]
 
 (Pages 55)
 ### Introduction
-The ageing Emperor Qianlong wrote a poem  after receiving Lord Macartney's mission in 1793, alluding to three ideas.
+The ageing Emperor Qianlong wrote a poem after receiving Lord Macartney's mission in 1793, alluding to three ideas.
 
 ```ad-question
 title: The three questions:
