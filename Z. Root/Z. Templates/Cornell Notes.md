@@ -1,7 +1,14 @@
-Lecture: {{title}}
 Date: {{date}}
 Lecturer:
-Tags: [[]]
+
+---
+## Lecture information:
+
+```ad-tldr
+
+
+```
+
 
 ---
 ## Lecture notes:
@@ -40,3 +47,7 @@ Tags: [[]]
 
 
 ## Summary:
+
+---
+
+## Main readings:

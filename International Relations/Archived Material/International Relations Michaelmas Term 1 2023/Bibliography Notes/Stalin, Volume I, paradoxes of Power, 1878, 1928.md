@@ -1,0 +1,1 @@
+Stephen Kotkin, Stalin: Volume I: Paradoxes of Power, 1878–1928 (London: Allen Lane, 2014), pp. 553-563

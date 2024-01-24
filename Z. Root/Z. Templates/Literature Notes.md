@@ -1,44 +1,30 @@
-{{title}}
+This is part of the X series:
 {{date}}
 
-## Chapter 1
+## Blurb
 
-## Chapter 2
+>[!summary]
 
-## Chapter 3
+## A summary of the book:
 
-## Chapter 4
+## A collection of key ideas from the text
 
-## Chapter 5
+### Idea 1
 
-## Chapter 6
+```ad-quote
 
-## Chapter 7
 
-## Chapter 8
+```
+### Idea 2
 
-## Chapter 9
+```ad-quote
 
-## Chapter 10
 
----
+```
 
-## Chapter 1
+### Idea 3
 
-## Chapter 2
+```ad-quote
 
-## Chapter 3
 
-## Chapter 4
-
-## Chapter 5
-
-## Chapter 6
-
-## Chapter 7
-
-## Chapter 8
-
-## Chapter 9
-
-## Chapter 10
+```
