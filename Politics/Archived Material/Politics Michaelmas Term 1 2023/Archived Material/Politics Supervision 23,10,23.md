@@ -1,6 +1,7 @@
 Needs to be in surname order
 Need to cite the year of the website
 Call the references a 'bibliography'
+[[Why according to Hobbes should subjects obey the sovereign]]
 
 Available at: weblink, access from, date
 Structure - original, beginning, end, each paragraph holds itself together (not overly long or is repetitive) the overall organizations of an essay is coherent. There isn't a set structure about essays.

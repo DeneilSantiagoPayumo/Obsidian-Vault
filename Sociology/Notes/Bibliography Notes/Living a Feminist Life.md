@@ -1,5 +1,6 @@
 Ahmed, Sara. 2017. Living a Feminist Life. Durham: Duke University Press. Ch 1
 This is part of the [[The Sociology of Gender]] series:
+[[Sara Ahmed]]
 
 ## Article Introduction - Feminism is Sensational
 

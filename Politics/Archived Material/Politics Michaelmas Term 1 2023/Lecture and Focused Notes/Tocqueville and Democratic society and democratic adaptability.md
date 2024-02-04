@@ -126,6 +126,7 @@ The contradiction: we move to the ideal and the real.
 
 These four sections overlap with each other in some respect. We start by describing Tocqueville's language in calling democracy 'fate' or 'god's providence', the tension between the 'ideal' and the 'real'. the issue of democracy strengths and weaknesses in relation with time and tie it to what Tocqueville says about democracy as progress, and the tension between that and how the [[The Federalist papers|federalists]] saw the tension between the people and the public.
 
+
 ## Democracy as fate
 
 ```ad-quote
@@ -137,6 +138,8 @@ It is fated - it is universal, it will and always happen. What we see in America
 He argues that this is because of God's work: "This whole book has been written under the impulse of a king of religious dread ... effort to halt democracy appears as a fight against God Himself..."
 
 In a way we can see Tocqueville influenced by this conclusion by the language of the federalist used. Through that we can see an ideal of what America as a place, and the constitutional republic came about.
+
+
 ## American democracy as faith in an ideal: the Declaration of Independence
 
 "We hold these truths to be self-evident, that all men are created equal" and if I see Thomas Jefferson I'mma tell him to put women in the sequel - work!

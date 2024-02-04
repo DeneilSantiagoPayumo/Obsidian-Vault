@@ -6,7 +6,7 @@ This is part of the [[Love]] series:
 ## Blurb
 
 >[!summary]
->These “sugar daddy” relationships , as discussed by Bongani and his father, are an example of the widespread link between gifts and sex that this article examines. These type of relations fall outside of both local and Western definitions of “prostitution ” — the usual focus of studies on the materiality of non-marital sex and a frequent explanatory factor for the rapid spread of AIDS. Indeed, while prostitution is one important factor driving HIV infection, it cannot explain the tremendous speed and persistence with which the virus has spread in South Africa. Prostitution may well have propelled HIV quicky through the major migrancy and transport routes in tis early states, but today with an estimated 225 per cent of South Africans HIV positive - most people clearly acquire HIV from other types of relations.
+>These “sugar daddy” relationships , as discussed by Bongani and his father, are an example of the widespread link between gifts and sex that this article examines. These type of relations fall outside of both local and Western definitions of “prostitution” — the usual focus of studies on the materiality of non-marital sex and a frequent explanatory factor for the rapid spread of AIDS. Indeed, while prostitution is one important factor driving HIV infection, it cannot explain the tremendous speed and persistence with which the virus has spread in South Africa. Prostitution may well have propelled HIV quicky through the major migrancy and transport routes in its early states, but today with an estimated 225 per cent of South Africans HIV positive - most people clearly acquire HIV from other types of relations.
 >
 
 ## A summary of the book:
@@ -16,6 +16,7 @@ This article's central argument is that the close association between sex and gi
 There are three factors that lead to transactional sex: the privileged economic position of men, masculine discourse that place a high value on men having multiple sexual partners and finally the agency of women itself - approaching these relations to access power and resources that both challenge and reproduce patriarchal structures.
 
 This article compares different forms of transactional sex in Isithebe Informal Settlement and Sundumbili Township, two localities only a few kilometres apart in Mandeni. It notes how *sex linked to subsistence* is prominent in the informal settlement whereas *sex linked to consumption* is more prominent in the township - linked to the different structural positions of women and social meanings. On the former, processes of industrialisation, de-industrialisation and migration created acute gendered inequalities that comes together to fuel transactional sex. In the township, most of the large youth population is able to acquire subsistence and thus women invoke discourse of 'rights' to justify freedom of movement.
+
 ## A collection of key ideas from the text
 
 ### Masculinity and Money in Mandeni
@@ -46,7 +47,7 @@ Subtle reworkings of *isoka* and *isoka lamanyala* constitute these practices - 
 
 "This causalisation of male/female relationships ... transforms the flow of resources between families, individuals and sexes. With marriage unaffordable for many men and women, men's gifts to multiple-girlfriends have increasingly replaced *ilobolo* payments to parents." (108). Now, sexual relationships are cemented with gifts from men. 
 
-These relationships are not seen as prostitutions - women will *qoma* (choose) a lover whereas a prostitute will sell her body. Prostitutes are see as scarce in Mandeni and are positioned as outsiders.
+These relationships are not seen as prostitutions - women will *qoma* (choose) a lover whereas a prostitute will sell her body. Prostitutes are seen as scarce in Mandeni and are positioned as outsiders.
 
 Men's privileged economic position allows them considerable control over women's bodies - including the use of contraception. Women on the other hand face dilemmas over using birth control - although the risk of childbirth falls, there is a risk of contracting AIDS from unprotected sex.
 
@@ -60,19 +61,23 @@ This is underwrit with class differences - in a winner-takes-all sexual economy,
 
 This segment looks at women's motivations for engaging in these relationships, emphasising how transactional sex varies across space. Two groups are compared: migrant women in the informal settlement and young women in Sundumbili Township.
 
-#### Isithebe Informal Settlement: Subsistence before Consumption
+#### Isithebe Informal Settlement: Subsistence before Consumption (110-111)
 
 Most migrants prefer to stay in the informal settlement where accommodation is cheaper. They will receive support from relatives and friends, and rely on men to provide them with subsistence - rent. Women will choose a man in regards to subsistence.
 
-Women typically see multiple-boyfriends as a means to gaining control over their lives. The vocabulary of sex is suggestive of women's agency - transactional sex grants resources directly to women themselves, having a sense of choice.
+Women typically see multiple-boyfriends as a means to gaining control over their lives. The vocabulary of sex is suggestive of women's agency - transactional sex grants resources directly to women themselves, having a sense of choice. (111)
+
+"Indeed, women typically see multiple-boyfriends as a means to gaining control over their lives , rather than as simply acts of desperation - although the two of course are linked. The very vocabulary of sex centred, for women, around the verb qoma (to choose a man) is suggestive of women’s agency. Certainly, unlike the lobola system that is based on male-to-male transactions, transactional sex does grant resources directly to women themselves.
 
 Sex linked to subsistence coexists with sex linked to consumption in multiple ways: some boyfriends' presents are used to make women more desirable in the eyes of other men. The author uses Thandi's story on how her sexual partners function to support the household economy and provide consumption goods.
 
-#### Sundumbili Township: Fashion and Sugar Daddies
+#### Sundumbili Township: Fashion and Sugar Daddies (113-115)
 
 This township was extended to accommodate workers from Isithebe's growing number of factories. Roads, water and everything! Owning one of the four-roomed 'matchbox' houses gave men a secure base to launch investments in small businesses. Today, residents see the township as civilised in comparison with the informal settlements that are seen as *"at the farms".
 
-Access to consumer goods is dependent on one's economic standing or partner - sugar daddies are at the apex of the social structure, operating taxis, working as teachers and more. There is a mixture of sex linked to subsistence and sex linked to consumption but the balance leans towards the latter. Gifts from these relationships will contribute to the household economy.
+Access to consumer goods is dependent on one's economic standing or partner - sugar daddies are at the apex of the social structure, operating taxis, working as teachers and more. There is a mixture of sex linked to subsistence and sex linked to consumption but the balance leans towards the latter. Gifts from these relationships will contribute to the household economy. (114)
+
+For some women, money is not the only advantage of sugar daddies - they are more experienced and they have TLC.
 
 The final difference is the importance of the English language dominated media to the construction of sexual identities in the township. Here, images from the TV, radio and magazines signify modernity.
 

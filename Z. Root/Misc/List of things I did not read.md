@@ -27,7 +27,6 @@ Lent:
 
 ```ad-failure
 collapse: open
-Connell, R.W. 2002. Gender. Cambridge: Polity (N/A online)
 ```
 
 ^5fcaff

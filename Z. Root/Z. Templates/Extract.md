@@ -4,7 +4,13 @@ This is part of the X series:
 # Chapter X
 ## Article Introduction
 
->[!summary]
+### Why study this specific event or phenomenon?
+
+
+### How is the article organised?
+
+
+### What are the key takeaways?
 
 
 ## A collection of key ideas from the article
@@ -15,6 +21,7 @@ This is part of the X series:
 
 
 ```
+
 ### Idea 2
 
 ```ad-quote
@@ -22,34 +29,6 @@ This is part of the X series:
 
 ```
 
-### Idea 3
-
-```ad-quote
-
-
-```
-
----
-# Chapter X
-## Article Introduction
-
->[!summary]
-
-
-## A collection of key ideas from the article
-
-### Idea 1
-
-```ad-quote
-
-
-```
-### Idea 2
-
-```ad-quote
-
-
-```
 
 ### Idea 3
 
@@ -57,5 +36,3 @@ This is part of the X series:
 
 
 ```
-
----

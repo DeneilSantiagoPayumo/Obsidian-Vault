@@ -168,7 +168,7 @@ There is “**a well-trained bureaucracy** of good standing and tradition” (p
 
 “Democratic Self-control” (p. 261). **Participants in the system accept the rules of the political game**, i.e., to accept as legitimate laws that are passed by legislative majorities, and the authority of the executive; to leave office when defeated, and to seek to return via the electoral mechanism, etc. (Cf. Donald Trump.)
 
-- there is a struggle going on but there is a set of rules that people abide by
+- There is a struggle going on but there is a set of rules that people abide by
 
 ## **What should we make of Schumpeter’s argument?**
 

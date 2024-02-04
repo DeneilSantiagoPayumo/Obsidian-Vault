@@ -1,7 +1,7 @@
 {
   "accentColor": "#e51599",
   "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "cssTheme": "Aura",
   "enabledCssSnippets": [
     "autofading-ui",
     "bigger-link-popup-preview",

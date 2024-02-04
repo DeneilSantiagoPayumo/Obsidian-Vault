@@ -1,5 +1,7 @@
 Barry Buzan and Lene Hansen, The Evolution of International Security Studies (Cambridge: Cambridge University Press, 2009), pp.68-87
 
+**Buzan B, Hansen L. _The Evolution of International Security Studies_. Cambridge University Press; 2009.**
+
 This is part of the [[The Cold War and Nuclear Weapons]] series:
 12-01-24
 
@@ -34,9 +36,9 @@ The author quotes Browns (1977:153) that:
 
 There was a fear that a failure to keep up would make one's nuclear forces vulnerable to first strike by the enemy. Any development would neutralise the effects of mutual deterrence by fear of retaliation. (paraphrased, 77)
 
-"In other words, possession of a nuclear arsenal sufficient for 'assured destruction' would basically suffice, leading to a so-called 'minimum deterrence' strategy. Others, taking a maximum deterrence strategy, calculated that a ruthless rational actor ... would require not only a **threat** of high damage, but also a near certain **probability** that such a retaliation would be delivered, before deterrence could be effective."
+"In other words, possession of a nuclear arsenal sufficient for 'assured destruction' would basically suffice, leading to a so-called 'minimum deterrence' strategy. Others, taking a maximum deterrence strategy, calculated that a ruthless rational actor ... would require not only a **threat** of high damage, but also a near certain **probability** that such a retaliation would be delivered, before deterrence could be effective." 80
 
-This was based under the *ex ante ex post* dilemma - threat that 'leaves something ot chance', where potential attackers would be deterred by a fear of an irrational response by an individual level or bureaucratic one.
+This was based under the *ex ante ex post* dilemma - threat that 'leaves something to chance', where potential attackers would be deterred by a fear of an irrational response by an individual level or bureaucratic one.
 
 **Minimum deterrence** - stability in easy parity but vulnerable to ruthless opponents.
 
@@ -67,7 +69,7 @@ Bipolarity and nuclear weapons were not the only driving forces in play - Berlin
 
 Crisis in Berlin and Korea events that confirmed the expansionist view of the Soviet and the need for containment, inaugurating a major rearmament in the US and consolidated the idea of a 'communist bloc' and provided an example of ED and containment problems.
 
-The Cuba Missile Crisis generated an interest in crisis management as an area of concern - underlining the dangers of escalation and exposed the need for reliable communication between Washington and Moscow - understanding the actual and potential production of irrationality in foreign policy making.
+The Cuba Missile Crisis generated an interest in crisis management as an area of concern - underlining the dangers of escalation and exposed the need for reliable communication between Washington and Moscow - understanding the actual and potential production of irrationality in foreign policy making ... arms control, detente, hotline
 
 The Middle East crisis underlined the problem of unwanted escalation as a consequence of being drawn into regional conflicts on behalf of their allies - the interlocking of their alert systems signalled a form of escalation in which automated systems ratcheted up levels of alerts.
 
@@ -78,7 +80,7 @@ This drew the US into the Middle East on the side of Israel, creating contradict
 The Vietnam war - theories of US containment policy, domino effect, events in Africa and Central America combining to literature on guerrilla war and counterinsurgency and exposing the difficulties for the US in fighting limited wars as part of containment.
 
 It generated doubt in the US about the utility of force in general.
-(66-67 all)
+(86-87 all)
 
 ![[Pasted image 20240123150637.png]]
 

@@ -67,7 +67,7 @@ Wang says that China is powerful and aggressive - when it is weak it is defensiv
 
 Anarchy leads to insecurity, and is a universal constant of international politics.
 
-He has a theory that war makes states in Asia like Europe - for example, Tilly's [[Bringing the State Back In]]
+He has a theory that war makes states in Asia like Europe - for example, Tilly's [[Charles Tilly]]
 
 Wang concentrates on the wars that China fought in - to a certain extent, we've got a selection bias in that China had relations to the East, and relations in the North. The relations to the rest of North were very violent, and relations to the East were very much peaceful.
 

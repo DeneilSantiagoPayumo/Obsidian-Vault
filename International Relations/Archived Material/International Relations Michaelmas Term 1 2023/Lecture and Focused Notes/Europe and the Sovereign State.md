@@ -148,5 +148,5 @@ Conclusions:
 
 ## Readings
 
-[[Bringing the State Back In]]
+[[Charles Tilly]]
 [[The Sovereign State and Its Competitors]]

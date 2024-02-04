@@ -1,5 +1,6 @@
-Adom Getachew, Worldmaking after Empire: The Rise and Fall of Self-Determination
-(Princeton: Princeton University Press, 2019), intro. and chap 3.
+Adom Getachew, Worldmaking after Empire: The Rise and Fall of Self-Determination (Princeton: Princeton University Press, 2019), intro. and chap 3.
+
+**Getachew, A. Worldmaking after Empire: The Rise and Fall of Self-Determination (Princeton: Princeton University Press, 2019), intro. and chap 3.**
 
 This is part of the [[De-colonisation and the End of Empires]] series:
 12-01-24
@@ -38,7 +39,7 @@ Historians treat anticolonial politics at the UN as an extension of the organisa
 
 ```ad-quote
 title: 77
-In the context of twentieth-century decolonization, self-determination was the target of this kind of reinvention. Staking out the countours of anticolonial reinvention requires rethinking the politics of appropriation as a creative intervention that responded to specific political questions and conditions ... On this view, the right to self-determination was not continuous with prior versions of the principle. Instea,d it was remade and reconstituted in response to a particular way of posing the problem of empire ... anticolonial nationalists increasingly framed empire as enslavement and conceived of the right to self-detemrination as the response to this problem. In the pairing of question and answer, the anticolonia account of self-determination was invented.
+In the context of twentieth-century decolonization, self-determination was the target of this kind of reinvention. Staking out the countours of anticolonial reinvention requires rethinking the politics of appropriation as a creative intervention that responded to specific political questions and conditions ... On this view, the right to self-determination was not continuous with prior versions of the principle. Instead it was remade and reconstituted in response to a particular way of posing the problem of empire ... anticolonial nationalists increasingly framed empire as enslavement and conceived of the right to self-determination as the response to this problem. In the pairing of question and answer, the anticolonia account of self-determination was invented.
 ```
 
 The historical background helped to elevate this response: (78)
@@ -54,7 +55,7 @@ Du Bois and peers linked the enslavement of Africans to the emergence of the Bou
 
 They highlighted the ways in which slavery was a modern form of labour extraction and exploitation, establishing continuities between New World slavery and colonialism in the 19th and 20th centuries.
 
-The through-line linking New World slavey and the scramble for Africa was a structure of domination and exploitation that helped to transcend limited definitions of slavery, combining an emphasis on arbitrary power and domination with a Marxist critique of exploitation. (paraphrased, 81).
+The through-line linking New World slavery and the scramble for Africa was a structure of domination and exploitation that helped to transcend limited definitions of slavery, combining an emphasis on arbitrary power and domination with a Marxist critique of exploitation. (paraphrased, 81).
 
 They revealed that the economic interests of European powers were the underlying motivations for imperialism - a long history of economic exploitation.
 

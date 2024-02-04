@@ -55,7 +55,7 @@ So, this was far ahead from the United States - the largely local political elit
 
 ### War-making and the rise of the "Yankee Leviathan" ([[Richard Bensel]])
 
-Let's consider [[Bringing the State Back In]] that argued the state was built in a cycle of protection and creation, creating a bureaucracy that can extract resources efficiently that determines the power of the state. How did the US become so powerful? Well, they focused on creating revenue through customs (tax on import and export of good) - a person sitting on the phone talking about goods coming in and out. It is unlikely that people of the country will demand representation on this, whereas they might for diect taxation.
+Let's consider [[Charles Tilly]] that argued the state was built in a cycle of protection and creation, creating a bureaucracy that can extract resources efficiently that determines the power of the state. How did the US become so powerful? Well, they focused on creating revenue through customs (tax on import and export of good) - a person sitting on the phone talking about goods coming in and out. It is unlikely that people of the country will demand representation on this, whereas they might for diect taxation.
 
 This pattern varies heavily during war - peak in revenue and the expansion of state capacity increased during war: shifts power from local to national. For the civil war, the federal government has an army, a bureaucracy, to protect us from the inside and outside and extract resources and thus state capacity increases. We have another one of these spikes after WW1 and (to a lesser extent) WW2.
 

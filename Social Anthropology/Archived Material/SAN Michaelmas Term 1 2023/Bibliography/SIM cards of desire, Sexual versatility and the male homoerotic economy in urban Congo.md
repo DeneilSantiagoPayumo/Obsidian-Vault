@@ -1,4 +1,5 @@
-This is part of the X series:
+This is part of the [[Love]] and [[Gender and Bodies]] series:
+Hendriks, Thomas 2016. “SIM cards of desire: Sexual versatility and the male homoerotic economy in urban Congo” in American Ethnologist, Vol. 43, No. 2, pp. 230–242
 10-01-24
 
 ## Blurb
@@ -18,7 +19,7 @@ Here, we will look at how local erotic practices and performative identities res
 
 The vernacular differentiation between active and passive worlds emerges in frequent discussions about the conceptual problems posed by men and boys who are, and can simultaneously or successively occupy both subject position.
 
-Suh discussion are a direct consequence of the binary organization of the homoerotic matrix - everyday reality shows that hybrid experiences are far more common than people often admit.
+Such discussion are a direct consequence of the binary organization of the homoerotic matrix - everyday reality shows that hybrid experiences are far more common than people often admit.
 
 ```ad-example
 Returning back to Herve, the young man who tries to combine a tough and noneffeminate gender identity with unspoken desires for his aventurier friends. He accepts the proposals of a somewhat older reglo with whom he managed to stay for several months.
@@ -26,10 +27,12 @@ Returning back to Herve, the young man who tries to combine a tough and noneffem
 While avoiding dates with fioto men, he accepts the proposal of a somewhat older reglo. His lover eventually accused him of having a double sim card. This expression strikingly reflects the issue of sexual versatility.
 ```
 
-By analogy, people who 'have a dual SIM card' are supposedly unreliable and untrustworthy - you never know whose side they are on and they can always turn against you. Dual-SIM accusations point at an internal classification problem within the homoerotic matrix.
+By analogy, people who 'have a dual SIM card' are supposedly unreliable and untrustworthy - you never know whose side they are on and they can always turn against you. Dual-SIM accusations point at an internal classification problem within the homoerotic matrix. (237) We in the west may simply call this sexual versatility.
+
+The difference between actif and passif emerges in discussions - hybrid discussions are more common than people think.
 
 ```ad-quote
-
+title: 237
 Dual-SIM accusations point at an internal classification problem within the homoerotic matrix, a problem within the homoerotic matrix, a problem about 'sexual versatility' - similar accusation are not voiced against what seems to be 'bisexuality.' Urban Congolese do not consider male desire for both men and women as a form of hypocrisy but rather take it for granted as the default state of "normal" desire. From a fioto perspective, "normal" men's cross-sex desires need to be stronger than their same-sex ones in order to remain normal ... As a result, enduring same-sex love somehow appears a logic (if not practical) impossibility because of the gendered logics at work in the homoerotic economy itself.
 
 
@@ -39,7 +42,7 @@ This practical versatility does not redefine their erotic subjectivity as a sexu
 
 What really matters is the absence of passive desires (to be penetrated) which overrule "normal" desires when it comes to everyday erotic identification and classification.
 
-Why is it that fioto desire needs to be explained and accounted for: firstly, many consider male passive desires for penetration a taboo as they open up male bodies, attacking normal masculinity and secondly because fioto desire is a dissident force because people see it as essentially excessive and out of control and are unable to control their *folle* nature.
+Why is it that fioto desire needs to be explained and accounted for: firstly, many consider male passive desires for penetration a taboo as they open up male bodies, attacking normal masculinity and secondly because fioto desire is a dissident force because people see it as essentially excessive and out of control and are unable to control their *folle* nature. (238)
 
 The vernacular conceptualisation of sexual versatility as a dual SIM card suggests certain assumptions about the "nature" of desire that are not directly voiced as such by my interlocuters but can be inferred from the logics inherent in the homoerotic economy.
 
@@ -47,7 +50,15 @@ Sexually versatile people are said to possess two SIM cards, those positioned at
 
 Many assume that the encoding of desire to be a gradual process, moulded by environment and social interactions. The conceptualization of desire through the language of SIM cards thus suggested that one's desires are effectively changeable over time. This changeability strongly resonates with understandings that one gets "initiated" into the homoerotic economy as a passive partner of a usually older man to be promoted into a normal position.
 
-### The axis:
+"The inferred "normal" and fioto SIM cards thus conceptualize desire as a gendered actualization of the body's inherent erotic possibilities." (238) Dominant Fioto men see themselves as both born this way, having both a normal and fioto SIM card and gradual encoding of desire.
+
+"It is exactly because of male bodies "universal" passive potential that "normal" men continually need to distance themselves from possible passivity and that fioto men need to carefully police their lovers' masculinity." (239)
+
+As effeminate hunters of men, they threaten the position of so-called men. (238)
+
+Masculinity therefore is an object of prized female and fioto desire that reconfirms masculinity.
+
+### The axis: (233)
 
 ```ad-important
 ![[Pasted image 20240110175632.png]]
@@ -60,11 +71,6 @@ Fioto reflects subject positions marked by effeminate masculinity, signalled thr
 The X axis represents another distinction along the lines of respectability. Those who "respect themselves" and avoid "bringing shame" to their families conform to social norms that label same-sex practices as sinful. On the lower side of this scheme, this axis of reputation mark a distinction between *folles* and *reglos* - the latter designate unremarkable fioto men and boys who keep their erotic identity within the boundaries of respectability, the former are "crazy" enough to be publicly visible.
 
 On the upper side of the scheme, the axis of reputation differentiates between men who conform to moral and social expectations of male adulthood of responsibility and restraint and those who transgress such gendered norms.
-
-```ad-quote
-
-
-```
 
 ### \Erotic labels - *naza branche*
 
@@ -85,15 +91,21 @@ The homoerotic economy is an extant and imaginary network of interrelated subjec
 Labelled identities arise from erotic subject positions as side effects of larger socioeconomic dynamics at work in contemporary urban culture.
 
 
-The axis of respectability introduces a gradient which one occupies. The *reglo* interlocutors keep their effeminacy in check and only showcase their true faces whenever they are protected by darkness, and even the craziest of *folles* restrain themselves in front of parents, pastors, and state agents. Even the most daring aventuriers keep a low profile when they find themselves in spaces where an explicit performance of transgressive masculinity have them removed.
+The axis of respectability introduces a gradient which one occupies. The *reglo* interlocutors keep their effeminacy in check and only showcase their true faces whenever they are protected by darkness, and even the craziest of *folles* restrain themselves in front of parents, pastors, and state agents. Even the most daring aventuriers keep a low profile when they find themselves in spaces where an explicit performance of transgressive masculinity have them removed. (235)
 
-The second axis has a productive contradiction between publicly valued respectability and fascination with transgression. The axis of respectability seems to account for a *generational* dynamic - in the economy that pushes people, as they grow older, from the right hand side to the left hand side, also reflecting how hegemonic masculinity is shifting from the respectable *papa* to the urban *aventurier*.
+The second axis has a productive contradiction between publicly valued respectability and fascination with transgression. The axis of respectability seems to account for a *generational* dynamic - in the economy that pushes people, as they grow older, from the right hand side to the left hand side, also reflecting how hegemonic masculinity is shifting from the respectable *papa* to the urban *aventurier*. (235)
 
 Ongoing socioeconomic changes, which make attaining male status as a married and providing housefather increasingly difficult, produce a context in which such performances of transgression become central to alternative masculinities. (235)
 
+That is to say, the performance of transgression has become a feature of masculinity, that undermines the distinction between respectability and transgression. (See *papas*) 
+
 The homoerotic economy needs to be understood as a historically situated assemblage of subject positions.
 
+This accounts for an internal generational dynamic - hegemonic masculinity shifts from the respectable *papa* to the urban *aventurier*.
+
 These axes reproduce broader cultural registers of penetration and reputation - the matrix they give rise to provides a heuristic structure to understand the overall dynamics of homoerotic desire. Interlocutors occupy different subject positions.
+
+"This productive contradiction of respectability-transgression fundamentally reflects larger societal shifts with regard to age and class and simultaneously reasserts and inverts generational and social transgression." (235) Men who have fathered children may however identify as youth, and the separation between respectable and transgressive subject conditions brings together rather than separates men from different socioeconomic background.
 
 ```ad-example
 Herve is an aventurier regular who rejects the sexual propositions of fioto men. Instead, he wants young *swaggeurs* like himself - his desires emerge from the homoerotic affordances and possibilities of homoerotic aventurier masculinity while his refutations of effeminacy signal his struggles against the gendered ideology of penetration that would push him towards a fioto position.

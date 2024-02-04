@@ -75,7 +75,7 @@ Commitment was variable:
 - In judges' chambers there were daily tussles between prosecutors and probation officers: the one arguing for a prison sentence, the other for non-custodial alternatives; one pressing the moral discourse of law with its stress on agency... 
 - Positions were invoked in political ideologies. Liberals believed that treatment was better than punishment whereas conservatives spoke of the need of capital punishment, letting the police get on with their job. The disagreement was the right balance, not about the range of considerations.
 
-In practice, penal-welfarism shaped the habits of practitioners and policy makers. "Itt was the field's overall character that ... gave rise to an institutionalized ontology that dictates how it could be known ... shaping the spectrum of penal politics, determining what was progressive and reactionary." (38)
+In practice, penal-welfarism shaped the habits of practitioners and policy makers. "It was the field's overall character that ... gave rise to an institutionalized ontology that dictates how it could be known ... shaping the spectrum of penal politics, determining what was progressive and reactionary." (38)
 
 It had two axioms - the first was that social reform together with affluence would eventually reduce the frequency of crime, and that the state is responsible for the care of offenders as well as their punishment and control.
 

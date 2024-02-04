@@ -1,5 +1,6 @@
-This is part of the [[Gender and Bodies]]] series:
+This is part of the [[Gender and Bodies]] series:
 12-01-24
+Kulick, Don 1997. ‘The gender of Brazilian transgendered prostitutes’, American Anthropologist 99(3): 574-585.
 
 ## Article Introduction
 
@@ -41,7 +42,7 @@ Also, in social and economic terms, the sexual marketplace does not require male
 Additionally, travestis do not need to have sex with their clients - rather for a large part of their income, they just rob them by pick pocketing the client, assaulting him or threatening to create a public scandal. It is possible to derive money from prostitution and not consume hormones or inject silicone.
 
 
-Travestis frequently refer to biological males by using feminine pronouns and feminine adjectival endings - this classificatory system is subtle and complex, travestis narrating their lives will use masculine pronouns when discussing themselves as children but switch to feminine when referring to their present-day lives. Clients are referred to as 'she' but the same client will be referred to with different gendered pronouns depending on the actions they perform.
+Travestis frequently refer to biological males by using feminine pronouns and feminine adjectival endings - this classificatory system is subtle and complex, travestis narrating their lives will use masculine pronouns when discussing themselves as children but switch to feminine when referring to their present-day lives. Clients are referred to as 'she' but the same client will be referred to with different gendered pronouns depending on the actions they perform. (579)
 
 There is no third sex here - travestis only arise based on a strict dichotomy. They have a different gender system. Here, the gender system is not based on genitals, but rather on sexuality.
 
@@ -50,7 +51,7 @@ It depends on actions - those that want to be anally penetrated disqualifies the
 This explains why most travestis do not wish to have an operation - they are already equivalent to women. A sex-change operation culturally speaking would not give her anything. Simply put, they share a gender with women even though they are not women themselves.
 
 ```ad-quote
-The desire to be attractive for persons of the opposite gender puts pressure on individuals to attempt to approximate cultural ideals of beauty, thereby dawing them into patriarchal and heterosexual imperatives that guide aesthetic values and that frame the direction and the content of the erotic gaze ... [travestis] appropriate nad incorporate the ideals of beuaty that tehir culture offers them in order to be attractive to men.
+The desire to be attractive for persons of the opposite gender puts pressure on individuals to attempt to approximate cultural ideals of beauty, thereby dawing them into patriarchal and heterosexual imperatives that guide aesthetic values and that frame the direction and the content of the erotic gaze ... [travestis] appropriate and incorporate the ideals of beuaty that tehir culture offers them in order to be attractive to men. (581)
 
 
 ```

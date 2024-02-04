@@ -19,21 +19,21 @@ collapse: closed
 
 Lesotho is a country surrounded by the Republic of South Africa. Dominant feature is male migrant labour, and men migrate to South Africa leaving women in Lesotho without fathers, brothers, husbands and sons.
 
-Employment for women are few and poorly paid, forcing them to depend on male earnings and subsistence agriculture. It prevents adultery, non-support, desertion and more. Girls lave their natal kin and move to their husband's home, and spend their early years of marriage waiting for the migrant husband's occasional visits.
+Employment for women are few and poorly paid, forcing them to depend on male earnings and subsistence agriculture. It prevents adultery, non-support, desertion and more. Girls leave their natal kin and move to their husband's home, and spend their early years of marriage waiting for the migrant husband's occasional visits.
 ```
 
 ### Mummy-baby relations
 
 Basotho girls engage in three activities where they act out different aspects of adult female roles - pretending to cook, performing mock-marriages without husbands and "in dyadic mummy-baby friendships they experience the nurturing aspects of mothering and being mothered, without the risks of childbirth or the responsibilities of child-care". (99)
 
-Through these means, these girls are socialized into adult female roles. In Sesotho custom, girls are usually forbidden from discussing sexual matters since they haven't borne children, so these mummy-baby relationships help fictive mothers provide what a biological mother cannot.
+Through these means, these girls are socialized into adult female roles. Lesotho custom, girls are usually forbidden from discussing sexual matters since they haven't borne children, so these mummy-baby relationships help fictive mothers provide what a biological mother cannot.
 
 Three aspects of traditional female society helped provide these mummy-baby relationships: firstly, special gift-exchange partnerships, secondly an underlying influence of female initiation traditions and finally the practice of lengthening the labia minora to enhance sexual pleasure during intercourse.
 
 These relationships are most common among pre-adolescent and adolescent school girls. Older unmarried girls who have dropped out and remain in the village or those who've gone into towns to seek employment often maintain old ties and form new ones in the urban environment.
 
 ```ad-quote
-"Once two girls agree to be mummy and baby, the relationships develops through arranged encounters and by material, nurturant, and emotional exchanges which vary with relative age and marital status of the partners. (103)"
+"Once two girls agree to be mummy and baby, the relationship develops through arranged encounters and by material, nurturant, and emotional exchanges which vary with relative age and marital status of the partners. (103)"
 ```
 
 The dominant member of the dyad arranges the meetings and deferential behaviour towards the older women are expected.  Often, these schoolchildren will issue one another love letters to express their feelings.
@@ -54,7 +54,7 @@ There are three distinct levels of intimacy:
 Features of initiative, secrecy and more are common here. These romantic dramas of attraction, proposals, jealousy, reconciliation are features of this game. This game stands in contrast to the formal rules of marriage where women are constrained by the patriarchal family and economic system.
 
 ```ad-quote
-"In addition to the female-to-female interactions sof ar considered, mummy-baby relations provide a training situation through which older girls help to introduce their juniors into the world of heterosexual relationships." (108)
+"In addition to the female-to-female interactions so far considered, mummy-baby relations provide a training situation through which older girls help to introduce their juniors into the world of heterosexual relationships." (108)
 
 
 ```

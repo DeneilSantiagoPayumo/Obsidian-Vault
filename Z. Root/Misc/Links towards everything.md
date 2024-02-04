@@ -1,10 +1,10 @@
-
 ---
-![[What do I want to do for the week]]
+
 
 ---
 
 ![[Supervision questions and timings]]
+
 ---
 ## Club activities:
 
@@ -19,3 +19,7 @@
 ## Meals!
 
 ![[Meals!]]
+
+---
+
+[[Ideal]]

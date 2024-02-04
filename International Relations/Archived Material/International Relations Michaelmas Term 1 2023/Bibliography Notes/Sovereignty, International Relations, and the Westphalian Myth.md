@@ -171,7 +171,7 @@ Some discussion that will be touched upon later.
 
 The post-1648 Holy Roman Empire and the seventeenth and eighteenth-century European empire do not represent mutually exclusive paradigms but are part of a spectrum.
 
-277 IR scholars have assumed that sovereignty presupposed the ability of actors to defend themselves against each other ... according to [[Bringing the State Back In]], "until recently only those states that survived that held their own with other states" (63).
+277 IR scholars have assumed that sovereignty presupposed the ability of actors to defend themselves against each other ... according to [[Charles Tilly]], "until recently only those states that survived that held their own with other states" (63).
 
 This power-political view has been criticized. John Gerard Ruggie has pointed out that the transition to the early modern period brought changes.
 

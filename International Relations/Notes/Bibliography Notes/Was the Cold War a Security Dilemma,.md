@@ -1,5 +1,7 @@
 Robert Jervis, “Was the Cold War a Security Dilemma?” Journal of Cold War Studies 2001 3(1): 36-60.
 
+**Jervis, R. (2001). Was the Cold War a Security Dilemma? _Journal of Cold War Studies_, _3_(1), 36–60.**
+
 This is part of the [[The Cold War and Nuclear Weapons]] series:
 12-01-24
 

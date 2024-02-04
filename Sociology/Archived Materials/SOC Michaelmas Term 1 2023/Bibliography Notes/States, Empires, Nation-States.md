@@ -16,7 +16,7 @@ Conquest and settlement became what fuelled further conflicts and transformation
 
 Organized rule appears in settings that Michael Mann described as "social cages" - the containment of human beings behind clear, fixed, confined social and territorial boundaries. As states emerge through the exercise of central control over local systems of inequality, competition creates. There are two ways of exerting that control.
 
-indirect rule - co-opt local and regional powerholders without utterly transforming their bases of power. A would-be ruler would have no choice but to bargain with authorities of competing centres ([[Bringing the State Back In]])
+indirect rule - co-opt local and regional powerholders without utterly transforming their bases of power. A would-be ruler would have no choice but to bargain with authorities of competing centres ([[Charles Tilly]])
 
 These systems rest on bargains between the central ruler and those now-local notables.
 

@@ -35,7 +35,7 @@ Consent understood thus is then the real interests of those consenting - conditi
 
 10
 
-[[Bringing the State Back In]] - if ordinary domination so consistently hurts the well-defined interests of subordinate groups, why do subordinates comply? Why don't they rebel or resist?
+[[Charles Tilly]] - if ordinary domination so consistently hurts the well-defined interests of subordinate groups, why do subordinates comply? Why don't they rebel or resist?
 1. The premise is incorrect and subordinates rebel covertly
 2. Subordinates get something in return for their subordination
 3. They get esteem or identity, becoming implicated in exploitive systems

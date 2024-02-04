@@ -7,4 +7,5 @@ What, if any, are the limits of forms of belonging based on **two or more** of t
 
 "The meaning of words or other symbols are often intrinsically connected to use, rather than existing separately from practical life". Discuss. Or "are people aware of the symbolic connotations through which they live."
 
-"Why have anthropologists been increasingly interested in the study of romantic love and desire."
+"Why have anthropologists been increasingly interested in the study of romantic love ands desire."
+
