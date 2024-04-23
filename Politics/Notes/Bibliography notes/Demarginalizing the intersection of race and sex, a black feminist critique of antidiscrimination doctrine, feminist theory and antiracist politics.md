@@ -1,0 +1,24 @@
+Kimberlé Crenshaw, ‘Demarginalizing the intersection of race and sex: a black feminist critique of Antidiscrimination doctrine, feminist theory and antiracist politics’, University of Chicago Legal Forum, volume 1989, no. 1, article 8. http://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8.
+
+[[Towards a Feminist theory of the state]]
+
+
+```ad-quote
+title: 148-149
+Perhaps it appears to some that I have offered inconsistent criticisms of how Black women are treated in antidiscrimination law: I seem to be saying that in one case, Black women's claims were rejected and their experiences obscured because the court refused to acknowledge that the employment experience of Black women can be distinct from that of white women, while in other cases, the interests of Black women were harmed because Black women's claims were viewed as so distinct from the claims of either white women or Black men that the court denied to Black females representation of the larger class. It seems that I have to say that Black women are the same and harmed by being treated differently, or that they are different and harmed by being treated the same. But I cannot say both.
+
+This apparent contradiction is but another manifestation of the conceptual limitations of the single-issue analyses that intersectionality challenges. The point is that Black women can experience discrimination in any number of ways and that the contradiction arises from our assumptions that their claims of exclusion must be unidirectional. Consider an analogy to traffic in an intersection, coming and going in all four directions. Discrimination, like traffic through an intersection, may flow in one direction, and it may flow in another. If an accident happens in an intersection, it can be caused by cars traveling from any number of directions and, sometimes, from all of them. Similarly, if a Black woman is harmed because she is in the intersection, her injury could result from sex discrimination or race discrimination. 
+
+To bring this back to a non-metaphorical level, I am suggesting that Black women can experience discrimination in ways that are both similar to and different from those experienced by White women and Black men. Black women sometimes experience discrimination in ways similar to white women's experiences; sometimes they share very similar experiences with Black men. Yet often they experience double-discrimination-the combined effects of practices which discriminate on the basis of race, and on the basis of sex. And sometimes, they experience discrimination as Black women-not the sum of race and sex discrimination, but as Black women.
+
+```
+
+```ad-quote
+title: 159-160
+In sum, sexist expectations of chastity and racist assumptions of sexual promiscuity combined to create a distinct set of issues confronting Black women." These issues have seldom been explored in feminist literature nor are they prominent in antiracist politics. The lynching of Black males, the institutional practice that was legitimized by the regulation of white women's sexuality, has historically and contemporaneously occupied the Black agenda on sexuality and violence. Consequently, Black women are caught between a Black community that, perhaps understandably, views with suspicion attempts to litigate questions of sexual violence, and a feminist community that reinforces those suspicions by focusing on white female sexuality. The suspicion is compounded by the historical fact that the protection of white female sexuality was often the pretext for terrorizing the Black community. Even today some fear that antirape agendas may undermine antiracist objectives. This is the paradigmatic political and theoretical dilemma created by the intersection of race and gender: Black women are caught between ideological and political currents that combine first to create and then to bury Black women's experiences.
+
+```
+
+166:
+
+If any real efforts are to be made to free Black people of the constraints and conditions that characterize racial subordination, then theories and strategies purporting to reflect the Black community's needs must include an analysis of sexism and patriarchy. Similarly, feminism must include an analysis of race if it hopes to express the aspirations of non-white women. Neither Black liberationist politics nor feminist theory can ignore the intersectional experiences of those whom the movements claim as their respective constituents. In order to include Black women, both movements must distance themselves from earlier approaches in which experIences are relevant only when they are related to certain clearly identifiable causes (for example, the oppression of Blacks is significant when based on race, of women when based on gender). The praxis of both should be centered on the life chances and life situations of people who should be cared about without regard to the source of their difficulties.

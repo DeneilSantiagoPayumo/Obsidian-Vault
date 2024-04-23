@@ -36,7 +36,7 @@ In a social universe like French Society, these fundamental social powers are: (
 1. Economic capital (volume)
 2. Cultural capital (composition)
 3. Social capital (evolution, trajectory "Agents are assigned a position ... defined by their relative position))
-4. Symbolic capital, the form  that capital take once they are perceived and recognised as legitimate
+4. Symbolic capital, the form that capital take once they are perceived and recognised as legitimate
 
 This product of the relational mode of thinking will be interpreted in a realist and substantialist way - classes as logical classes are then see as real constituted groups. The more accurate the theoretical construction of theoretical classes, the greater the chance that they will be seen as real groups.
 
@@ -47,7 +47,7 @@ The means used to construct and exhibit the social space obscure it from view - 
 The dispositions acquired in the position occupied involve an adjustment to this position - what [[Erving Goffman]]  call the "sense of one's place" - a sense of one's place in a situation of interaction, prompts those whom we call in French *les gens humbles* that keep people in their place and keep their distance. (paraphrased, 5) This follows timidity or arrogance.
 
 ```ad-summary
-"To sum up so far: constructed classes can be characterized in a certain way as sets of agents who, by virtue of the fact that they ocupy similar positions in social space ... are subject to similar conditions of existence and conditioning factors and, as a result, are endowed with similar dispositions which prompt them to develop similar practices." (7)
+"To sum up so far: constructed classes can be characterized in a certain way as sets of agents who, by virtue of the fact that they occupy similar positions in social space ... are subject to similar conditions of existence and conditioning factors and, as a result, are endowed with similar dispositions which prompt them to develop similar practices." (7)
 
 ```
 
@@ -58,14 +58,14 @@ One can follow like [[Karl Marx]] does that the theoretical classes are the real
 One argues: these conditions will assert itself over time. Another may argue for an 'awakening of consciousness' or any combination of the two.
 
 ```ad-quote
-"It remains nonetheless that, contrary to what Marxist theory assumes, the movement from probability to reality, from theoretical class to practical class, is never given: even though they are suppored by the "sense of one's place" and by the affiniy of habitus, the principle of vision and divison of the social world at work in the construction of theoretical classes have to compete, in reality, with other principles, ethnic, racial or national, and more concretely still, with principles imposed by the ordinary experience of occupational, communal and local divisons and rivalries." (8)
+"It remains nonetheless that, contrary to what Marxist theory assumes, the movement from probability to reality, from theoretical class to practical class, is never given: even though they are supported by the "sense of one's place" and by the affiniy of habitus, the principle of vision and divison of the social world at work in the construction of theoretical classes have to compete, in reality, with other principles, ethnic, racial or national, and more concretely still, with principles imposed by the ordinary experience of occupational, communal and local divisons and rivalries." (8)
 
 ```
 
 In short:
 By assuming that actions and interactions can be deduced from the structure, and keeping a sharp distinction between the logic of things and the things of logic, even those which are best adjusted to the logic of things, we can establish several positions:
 1. Classes-in-struggle do not exist
-2. Classes can assent to a definite form of existence only at thee cost of a specific work of which the specifically theoretical of which a theoretical production of a representation of the divison is a decisive element
+2. Classes can assent to a definite form of existence only at the cost of a specific work of which the specifically theoretical of which a theoretical production of a representation of the divison is a decisive element
 3. This political labour is likely to succeed when it is armed with a theory well-founded in reality
 
 A theory of theoretical classes leads one to pose that the political work aimed at producing classes in the form of objective institutions, at once expressed and constituted by permanent organs of representation.

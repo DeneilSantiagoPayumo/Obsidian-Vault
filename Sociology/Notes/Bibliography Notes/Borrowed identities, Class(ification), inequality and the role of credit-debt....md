@@ -1,8 +1,9 @@
 This is part of the [[Class and Inequality]] series:
 12-01-24
 [[Mathew Sparkes]]
+Sparkes, M. (2019). Borrowed identities: Class(ification), inequality, and the role of credit-debt in class making and struggle. The Sociological Review. 
 
-# Borrowed identities: Class)ification, inequality and the role of credit-debt in class making and struggle.
+# Borrowed identities: Class(ification), inequality and the role of credit-debt in class making and struggle.
 ## Article Introduction
 
 ```ad-abstract

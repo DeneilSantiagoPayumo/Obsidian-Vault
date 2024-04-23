@@ -1,5 +1,4 @@
 [
-  "colored-text",
   "obsidian-file-color",
   "flashcards-obsidian",
   "highlightr-plugin",
@@ -11,5 +10,10 @@
   "obsidian-checklist-plugin",
   "dataview",
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-day-planner",
+  "easy-typing-obsidian",
+  "obsidian-minimal-settings",
+  "khoj",
+  "homepage"
 ]

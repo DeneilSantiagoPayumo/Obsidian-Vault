@@ -2,6 +2,7 @@ Date: 25-01-24
 Lecturer:
 
 ---
+event-id: kou0l6ulusv332h01or6vs3b2c
 ## Lecture information:
 
 ```ad-tldr
@@ -61,49 +62,83 @@ The rise of alternative:
 3. Liberated technology - possibilities we have yet to understand.
 
 ```ad-quote
-title: Phillip N. Howard, Pax TEchnica: How the Internet of Things May Set Us Free or Lock Us Up (2015), p.224 - quoted in Runciman.
+title: Phillip N. Howard, Pax Technica: How the Internet of Things May Set Us Free or Lock Us Up (2015), p.224 - quoted in Runciman.
 "We have to fundamentally change the way we think of political units and order. Digital media have changed the way we use our social networks and allowed us to be political actors when we choose to be. We use technology to connect to one another and to share stories. The state, teh political party, the civic group, the citizen: these are all old categories from a pre-digital world ... the agency of the individual is being enhanced by the device networks in the internet of things." 
 
 ```
 
+---
 
+06/02/2024
 
+Representation: in the Federalist Papers especially Madison's Federalist X
+Liberalism: Tocqueville's account of the aristocratic features that temper democracy
 
+Democracy:
+Taking on a principled meaning from the early 19 the century, converting a term that probably meant "the rule of the person who had the masses as his followers" to one that is commonly traced out to mean the 'rule of people'
 
-## Topic one
+What we end up with is the idea of representative government that plays on the authority of the people.
 
-```ad-quote
+Notions of democracy become entrenched with professional ideals. The idea of representation.
 
+On the 18 century, democracy might deliver peace and prosperity. It's a way to see its force as a political system, as a way to innovate and cope with challenges.
 
-```
+Many of you who have studied about politics and citizenships will have learned that democracy is about 'the rule of the people'.
 
-## Topic two
+It wasn't even practices in ancient Greece firstly but the false etymology and false narrative history, that this is a European idea that has been a 'gift' to the world becomes part of the way in which that idea of democracy takes a form of appellation - a term stuck from Ancient Greek like an ear worm but still takes the way that ideas is obtained.
 
-```ad-quote
+We see this through Tocqueville's account - a form of life that fosters equality. It's getting in power in contrast to social and political systems where some forms of hierarchy between people, with some forms seen as correct, that removes that legitimacy (?) - the force of democracy gains its oppositions from that contrast, no forms of legitimacy to actualise that form of government. We are all equally authorized to have equal rights, and any form of government that rejects that idea is bad (?).
 
+We have a description of certain types of political systems alongside the idea of democracy as getting a set of ideals: things we should aspire, principles in which governments should behave. In that sense it becomes a type of regime and a way to hold that relationship.
 
-```
+...
 
-## (Topic three)
+The idea in that sense that Democracy is a systems of government, equality in the face of inequality requires a form of mental gymnastics but maintains power over the rules of that period - see India. 
 
-```ad-important
+There's a risk of complacency. There's this conception that Democracy will 'sort itself out' and that these problems will no longer exist and that democracies can take care of itself. The idea that democracy will exist as a coherent conception, it forces us to reconsider and question many of those judgements and question many of the ideas that go with that idea that democracy sets a set of solution with how we should live.
 
+Therein, it looks like a messy set of compromises and diffuse practices that have every potential to fall apart. We can question whether the diagnosis is right and whether in some sense the world seen through that literature is the world seen through the eyes of Trump.
 
-```
+The seams of that now still hold true.
 
-```ad-error
+The key problem that this literature follows is that the democracy rests on the judgement of people: it is supposed to rest on our idea to make evaluations about our lives. Who or what should rule. Not if our systems are up to scratch but if people can make judgements by themselves.
 
+Example
+- Slovakia, parliamentary elections of September 2023
+- Progressive Slovakia led by Michal Simecka
+- Ahead in (some) opinion polls - but ended up trailing in second. 32/150 seats.
+- Larger share of votes, opinion polls placed it first or second but two days before the election, there was a blockade by the parties to record and report on speeches by the press (two day period for populations to make decisions on themselves), during those two day auditorium with the leader of the progressive Slovakian party discussing how to use strategic bribes in order to rig the elections. Another recording went around having the same leader discussing race and revenue, increasing alcohol taxes.
+- Both recordings were fake. They were made through artificial intelligence. It could not be debunked because of the two day block. In the end, the progressive Slovakian lost the election.
 
-```
+Those discussions seeking to publicise threats are under threat from institutions benefitting from those fakes - Elon Musk removing content moderation from Twitter.
 
+The gap between the ability to identify it and the ability to recognise it becomes an increasing part of democratic life. There are new stories of Trump that Trump argues is 'fake news' - where using fakes by political strategies defeats the nature and identification of 'real fakes'.
 
-## Questions I had:
+A sceptic may say we have to believe this critically, but in a system on choosing a candidate on what they say they will do, it's difficult to be both a sceptic and a participant in a representative, participative democracy. 
 
-> [!Question] Question
-> Place question here
+In some sense, they are not arbitrary judgements.
 
+Levitsky and Runciman are two different arguments, It's set by forms of exaltation by the authors. Levitsky and Ziblatt tells us that we must recognise democratic norms and extend it - what those 'we' are remains to be seen.
 
-## Summary:
+We need to think seriously about forms of other conceptions - epistocracy, technocracy, we need to think of a world **beyond** democracy. Thinking of that, and things we can adopt, forms history, heritage, liberal democracy. That death of democracy in literature has a clear meaning.
+
+It's interesting that Levitsky and Ziblatt do not dispute the ideas that democracy is just what people **think** it is - Venezuela. Most Venezuelans thought that their country was democratic. We, the academics, 'knows better'  and that the people are being 'fooled' into thinking their country is democratic. Levitsky and Ziblatt are presupposing an idea of democracy that leaves individual engagement. That comes out in the ways in which, for the past 50 years and so,
+
+Measure democracies in two ways: who's democratic and who's not. The other right is an impeding organisation from the Economist that produces a democracy based on those basis.
+
+For example, measuring from the EIU: gender equality, right to an abortion, proportion of the population that follows the news, percentage of population who prefer rule by experts (inversely).
+
+US State Democracy: freedom house, state ownership, inhibiting forms of economic opportunities, if you have a nationalised history, state government, anti-democratic government. Economic terms.
+
+When South Africa and otherwise, is it a democracy? Terms of white people. Multiple different ways of engaging with those concepts. In that context, the idea that in some sense democracy has core, fixed terms, becomes to be one that is drawn into question.
+
+The characterisation of systems democratic or not become part of the ways political speech or arguments, and whom is a candidate for political elections.
+
+The ever-blurring boundaries between individual rights and collective well-being, especially in the context of the climate crisis.
+
+The multiple potential forms of representation, choice, mandatory delegation, lottery, rotattion
+
+Democracy remaining a powerful term that authorises governments to act, but with meanings globally that have been multifaceted, ambiguous, contradictory.
 
 ---
 
@@ -116,4 +151,5 @@ Full books:
 Extracts:
 [[On democratic backsliding]]
 [[Disorder, Hard Times in 21st Century]]
-
+[[What's gone wrong with democracy]]
+[[Is This Really How it Ends,]]

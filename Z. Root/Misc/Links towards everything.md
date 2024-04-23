@@ -3,6 +3,13 @@
 
 ---
 
+## Schedule
+
+![[Schedule]]
+
+---
+
+
 ![[Supervision questions and timings]]
 
 ---
@@ -18,8 +25,26 @@
 
 ## Meals!
 
-![[Meals!]]
 
 ---
 
 [[Ideal]]
+
+---
+
+Career Opportunities:
+Future Talent Program - Consultant April 2028 Done?
+Faststream Civil Service (applications open September) 
+The Bright Network - April-May Done! (more?)
+August GCSE - shadowing scheme
+
+---
+
+
+```query
+Waltz
+
+```
+
+
+NEED TO DO: STALIN WAITING FOR HITLER VOL 2 / HITLER POWER WASN'T ENOUGH

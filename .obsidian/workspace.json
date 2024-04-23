@@ -20,15 +20,53 @@
                 "source": false
               },
               "pinned": true
-            }
+            },
+            "group": "4716215cc70c95e7"
           },
           {
-            "id": "28dbcfca681c43b6",
+            "id": "51e084b2428ce92a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "google-calendar-view-week",
+              "state": {},
+              "pinned": true
+            },
+            "group": "4716215cc70c95e7"
+          },
+          {
+            "id": "a3fe8c8b85488df2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/Justifying inherited wealth between the bank of mum and dad....md",
+                "file": "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "376835828c78ddf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politics/Notes/Bibliography notes/Hobbes/The Leviathan.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cef2335006d8b6e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociology/Projects/Workshop 23 04 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,20 +119,12 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "d285b5b3318a3d3f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 611.5091133117676
+    "width": 459.5091133117676
   },
   "right": {
     "id": "b111db0526a562cd",
@@ -110,9 +140,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/Justifying inherited wealth between the bank of mum and dad....md",
+                "file": "Sociology/Projects/Workshop 23 04 2024.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -127,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/Justifying inherited wealth between the bank of mum and dad....md",
+                "file": "Sociology/Projects/Workshop 23 04 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sociology/Notes/Bibliography Notes/Justifying inherited wealth between the bank of mum and dad....md"
+                "file": "Sociology/Projects/Workshop 23 04 2024.md"
               }
             }
           },
@@ -163,7 +193,7 @@
             }
           },
           {
-            "id": "134264ca02179adc",
+            "id": "6a46a99f53bc7ea8",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -171,15 +201,7 @@
             }
           },
           {
-            "id": "ea99d8ddb30ab8ba",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-month",
-              "state": {}
-            }
-          },
-          {
-            "id": "3cb1ba617331f4bb",
+            "id": "e846b1eade1d7c71",
             "type": "leaf",
             "state": {
               "type": "google-calendar-view-event_details",
@@ -191,13 +213,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
+    "width": 529.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
@@ -207,58 +229,62 @@
       "publish:Publish changes...": false,
       "flashcards-obsidian:Generate flashcards": true,
       "janitor:Janitor: scan vault": true,
-      "templater-obsidian:Templater": true,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-day-planner:Timeline": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "khoj:Khoj": false
     }
   },
-  "active": "28dbcfca681c43b6",
+  "active": "cef2335006d8b6e5",
   "lastOpenFiles": [
-    "Sociology/Notes/Bibliography Notes/The making of Class and Gender through visualizing moral subject formation.md",
-    "Sociology/Notes/Bibliography Notes/The Jack Wills crowd, toward a sociology of an elite subculture.md",
-    "Sociology/Notes/Bibliography Notes/Living a Feminist Life.md",
-    "Sociology/Notes/Bibliography Notes/Justifying inherited wealth between the bank of mum and dad....md",
-    "Sociology/Notes/Bibliography Notes/'Unruly Places', Inner-City Comprehensives, middle class imaginaries....md",
-    "Sociology/Notes/Bibliography Notes/Lessons from Grenfell, poverty propaganda, stigma and class power.md",
-    "Sociology/Notes/Bibliography Notes/Feminist Theory, From Margin to Center.md",
-    "Sociology/Notes/Bibliography Notes/Classificatory struggles.md",
-    "Sociology/Notes/Bibliography Notes/Borrowed identities, Class(ification), inequality and the role of credit-debt....md",
-    "Sociology/Notes/Bibliography Notes/Gender Trouble, Feminism and the Subversion of Identity.md",
-    "Sociology/Notes/Bibliography Notes/What makes a class a social class....md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Anthropology Now/Infrastructure.md",
+    "Sociology/Projects/Workshop 23 04 2024.md",
+    "Politics/Notes/Bibliography notes/Hobbes/The Leviathan.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Political Representation.md",
+    "Politics/Notes/Bibliography notes/Hobbes/John Dunn, The history of political theory, and other essays.md",
+    "Politics/Notes/Bibliography notes/Hobbes/Hobbes Introduction ix-xxxvi.md",
+    "Politics/Notes/Lecture and Focused Notes/Hobbes and the Problem of Order.md",
+    "Politics/Notes/Bibliography notes/Weber/Weber, P and V of Politics Set Text.md",
     "Z. Root/Misc/Links towards everything.md",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Anthropology Now/Debating Race.md",
-    "Sociology/Projects/Sociology Supervision Lent 1.md",
-    "Politics/Notes/Bibliography notes/Disorder, Hard Times in 21st Century.md",
-    "Politics/Notes/Lecture and Focused Notes/The end of representative democracy.md",
-    "Politics/Notes/Bibliography notes/On democratic backsliding.md",
-    "Politics/Projects/POL1 Supervision.md",
-    "Z. Root/Misc/Ideal.md",
-    "Z. Root/Z. Photo Dump/Pasted image 20240203164335.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20240203164329.png",
-    "Sociology/Notes/Bibliography Notes/White middle-class parents, identities, education ....md",
-    "Bennett et al.md",
-    "Sociology/Notes/Bibliography Notes/Gender.md",
-    "Z. Root/Z. Photo Dump/Pasted image 20240203144956.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20240203144738.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20240203144544.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20240203144536.png",
-    "Sociology/Notes/Lecture and Focused Notes/Class and Inequality.md",
-    "Z. Root/Z. Templates/Extract and Methods.md",
-    "Z. Root/Z. Photo Dump/Pasted image 20240203135335.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20240203134616.png",
-    "Z. Root/Z. Templates/Extract.md",
-    "Z. Root/Z. Photo Dump/Pasted image 20240202163947.png",
-    "Z. Root/Z. Photo Dump/Pasted image 20240201123133.png",
+    "Politics/Notes/Bibliography notes/Hobbes/The Oxford Handbook of Hobbes, the Sovereign.md",
+    "Politics/Notes/Lecture and Focused Notes/Weber and the profession and vocation of politics.md",
+    "Politics/Notes/Lecture and Focused Notes/Hayek and Economic Liberty.md",
+    "Politics/Archived Material/Why for Hayek was state planning the road to serfdom.md",
+    "Politics/Archived Material/Why according to Hobbes should subjects obey the sovereign.md",
+    "Politics/Archived Material/Politics Supervision 23,10,23.md",
+    "International Relations/Notes/Lecture and Focused Notes/Post-Colonial States and Intervention.md",
+    "International Relations/Notes/Bibliography Notes/Quasi States, Sovereignty....md",
+    "International Relations/Notes/Bibliography Notes/The Purposes of Intervention.md",
+    "Z. Root/Z. Photo Dump/Pasted image 20240422173907.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20240422173904.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20240422173545.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20240422173531.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20240422173512.png",
+    "Z. Root/Misc/What do I need to do (write on Calender).md",
+    "International Relations/Notes/Lecture and Focused Notes/International Human Rights.md",
+    "International Relations/Notes/Lecture and Focused Notes/Regulating the Use of Force.md",
+    "International Relations/Notes/Bibliography Notes/The Territorial Integrity Norm.md",
+    "International Relations/Notes/Bibliography Notes/Why States No Longer Declare War.md",
+    "International Relations/Notes/Bibliography Notes/The Last Utopia.md",
+    "International Relations/Notes/Bibliography Notes/Evidence for Hope, Making Human Rights Work in the 21st Century.md",
+    "International Relations/Notes/Lecture and Focused Notes/The End of the Cold War.md",
+    "International Relations/Notes/Bibliography Notes/Explaining the Cold War's End.md",
+    "Z. Root/Z. Photo Dump/Pasted image 20240419203332.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20240418185638.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20240416185115.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20240416185012.png",
+    "Z. Root/Z. Photo Dump/Pasted image 20240415192228.png",
+    "Sociology/Untitled.canvas",
+    "Z. Root/Pembroke/Other things",
+    "Z. Root/Pembroke/Poetry",
+    "Sociology/Notes/Bibliography Notes/Unsettling the Coloniality of Being/Power/Truth",
+    "Sociology/Notes/Bibliography Notes/Unsettling the Coloniality of Being/Power",
+    "Sociology/Notes/Bibliography Notes/Unsettling the Coloniality of Being",
+    "Coloniality and Modernity",
     "Social Anthropology/Notes/Bibliography notes/Critical Issues, Political and Economic Life",
     "Social Anthropology/Notes/Bibliography notes/Anthropology Now",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Critical Issues, Political and Economic Life",
-    "Social Anthropology/Notes/Lecture and Focused Notes/Anthropology Now",
-    "Politics/Archived Material/Politics Michaelmas Term 1 2023/Bibliography/Schumpeter",
-    "Sociology/Archived Materials/SOC Michaelmas Term 1 2023/Lecture and Focused Notes",
-    "Sociology/Archived Materials/SOC Michaelmas Term 1 2023/Bibliography Notes",
-    "Sociology/Archived Materials/SOC Michaelmas Term 1 2023/Archived Materials",
-    "Sociology/Archived Materials/SOC Michaelmas Term 1 2023",
-    "Social Anthropology/Archived Material/SAN Michaelmas Term 1 2023/Lectures and Focused Notes",
+    "Social Anthropology/Lectures and Focused Notes/Critical Issues, Political and Economic Life",
+    "Social Anthropology/Lectures and Focused Notes/Anthropology Now",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

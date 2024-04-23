@@ -9,6 +9,7 @@ This is part of the X series:
 
 ```
 
+### Vignette
 
 ### Why study this specific event or phenomenon?
 

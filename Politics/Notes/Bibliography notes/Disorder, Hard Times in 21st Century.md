@@ -1,5 +1,6 @@
 This is part of the [[How democracy ends]] series:
 Helen Thompson, Disorder: Hard Times in the 21st Century (Oxford: Oxford University Press 2022), part III
+Thompson H. Disorder: Hard Times in the 21 st Century (Oxford: Oxford University Press 2022), part III
 12-01-24
 
 ## Blurb
@@ -29,10 +30,9 @@ See Abraham Lincoln - he used in the Gettysburg Address to take blood spilled in
 "Attempts to strengthen nationhood where it was weak, or create it where it was absent, could entail more coercion than a democratic state could bear." (181). Unable to absorb Irish Catholics into an idea of British nationhood, the British democratic state could not accommodate Ireland into its constitutional order.
 
 There had to be people that identified with it and those whose rights had to be denied - democracies were tied up with nationhood and at risk from it.
-```ad-quote
 
 
-```
+``
 #### Time and Excess
 
 The passage of time destabilizes all claim to nationhood (182) - "significant changes in geopolitical and economic conditions in time often lead to groups and individuals migrating from one state to another. Where democratic states move to restrict such movements, they then undermine the languages of nationhood used to include past migrants in the idea of national citizenship."
@@ -53,23 +53,213 @@ Under the articles of Confederation, states had the capacity to tax and service 
 
 For [[James Madison]], the Senate would be able to defend against democratic excess. For [[Brutus]], the constitution would only lead to the rule of the rich and the rich would rule for themselves (189). 
 
+For those who feared aristocratic excess, the American republic descended into something from Roman history due to its debt. 
+
 "In part, politics in the American republic became repeated contests around these debt-driven dynamics and their relationships to class conflicts and competing conceptions of American nationhood." (189)
 
 For the next few decades, the economic aristocracies created by the New York banks and links to railroads dominated the republic's politics through its ability to buy political influence and protect its sectoral monopoly power.
- 
-**READ 189-192**
 
+Over the next years, the American Populists' attempts at democratic reform demonstrated several destabilizing tendencies that arise: they pushed national unity but this showed the divisiveness of trying to appeal to a nation in those terms.
 
-### Idea 2
+"The Populists imagined the American republic in class terms, such that they pitted a democratic, 'American', and producer class of farmers and factory labourers against a non-productive, aristocratic, internationalist and parasitic creditor class. This language easily lend itself to antisemitism." (190)
+
+The political era that followed the Populist rebellion was one of democratic reform against aristocratic excess - progressives took aim at railroad owners, pushed for free elections, introduced primaries and more.
+
+In turning to economic nationhood, Roosevelt's progressive politics displayed an explicitly racial discourse that excluded African and Asian Americans.
+
+"The Progressives also demonstrated that representatives democracies could yield another version of aristocracy, namely technology where political privileges accrued to experts. Although they saw the plutocratic concentration of wealth and corruption as threats to the republic, some Progressives also thought that there was a growing administrative state that should produce its own aristocracy constituted by those possessing scientific and technical knowledge, and this elite would not be subject to corruption through time." (191)
+
+#### Between the Wars
+
+(192)
+The interwar years demonstrated representative democracies weaknesses,
+
+Wilson argued that the end of internal European empires meant an age of democratic nation-states. In reality, its pursuit was destabilizing, especially when coercion was deployed against minority groups of citizens.
+
+There were a ton of democracies out there. "In a number of democracies, governments sought to return to Bismarck's understanding that nationhood could at least in part be constructed by extending material protection to citizens through a welfare state ... this left governments choosing between a more full-blown economic nationalism that threatened international trade, or curtailing expenditure on the welfare state" (193)
+
+Appeals for restrictive nationhood was an alternative to economic nationhood: after the economic depression of the early 1920s, Congress passed laws to curtail immigration from Southern and Eastern Europe.
+
+Democratic politics need for nationhood was demonstrated during the interwar years. Each party (in the first Austrian republic), the Christian Socials and Social Democrats sought to remake the Austrian republic according to the cultural and religious identity cultivated. (193)
+
+Most graphically, the French democratic state’s ability to tax was eroded in the mid 1920s by these fears when, having been unable to restore the franc to the gold standard, the French government could scarcely borrow in capital markets. What, as governments came and went, appeared to be democratic chaos in France drove the rich to sell short term financial assets and move capital abroad. Since this ensured that the franc kept losing external value, capital flight became a self-perpetuating phenomenon.  Together, tax havens and the fear of capital flight meant that the tax systems that emerged under full franchise democratic politics eventually generated as much a risk of aristocratic as democratic excess. By the mid 1920 s governments were making fiscal decisions on the premise that the rich had the practical means to protect their wealth and income from taxation. Tax avoidance by the wealthiest Americans was so effective that Congress passed tax cuts in hope this would reduce avoidance, significantly diluting the intent behind the Sixteenth Amendment that the rich should pay a higher share of tax. (195)
+
+#### The New Deal
+
+Roosevelt's act did begin a qualitatively different way of conceiving democratic reform around economic nationhood that his Treasury officials later sought with Keynes to embed in the post-war international monetary system. For Roosevelt, the ability of banks and the rich to use an international economy where capital flowed freely to defend their material interests, not least with regard to taxation, was an aristocratic power, and one in a democracy had to be curtailed. (196)
+
+- Financed by new taxes on the richest Americans
+- Demonstrated the tension between idea of nationhood as shared democratic economic fate and exclusionary languages of nationhood.
 
 ```ad-quote
+title: 197
+In promising a national economic rejuvenation, Roosevelt included in the Democratic political coalition Catholic and Jewish immigrants from Southern and Eastern Europe who had been defined out of American nationhood by the restrictive immigration laws passed in the 1920s. But Roosevelt also acquiesced to what had become the prevalent political discourse of American nationhood defined in terms of those who were ethnically white and European in origin.
+```
+
+- Tied to the American republic's historical relationship to race to oil. Roosevelt imbued legislation to push prices back up to profitable levels, having consequences for the territorial balance of power within the American republic. See, 1935 - six oil-producing states led by Texas formed the Interstate Oil Compact.
+
+```ad-quote
+title: 198
+In this respect, as in others, the legacy of the interwar years was very different for American democracy than it was even for those European countries where democracy survived. From 1933, the American republic was economically reformed to rebalance the distribution of class influence, but it did not become a full franchised democracy and, in an energy producer country with a federal constitution, the states acquired some structural power in ways that qualified the idea of economic nationhood. 
+```
+
+### The Rise and Decline of the Democratic Tax State
+
+```ad-quote
+title: 223
+
+"As economic nationhood hollowed out, democracies were left with the particular notions of 'the people' that were acquired during their earlier historical experience, with all the attendant complications in relation to migration, and in the US, to the ongoing legacy of slavery. In good part, losers' consent still prevailed, helped by the fact that election results were often decisive, not least in the United States. Although nationalist movements in Western Europe’s three multinational states the UK, Spain, and Belgium grew, they did not come close to dissolving any existing unions in the 1980s. By the 1980s’ end, however irreversible the path towards aristocratic excess, the majority of citizens’ living standards were still rising and the corporations that a few decades later would permeate everyday life while paying minimal taxes did not exist."
+
+Nonetheless, nationhood had not disappeared from democratic polit ics as either a presence or a danger. What remained was largely an imaginative story about a shared past. Virtually everywhere, especially in the United States, these historical stories resonated with many citizens while they were challenged by many others who believed they were too archaic and too burdened with imperialism and racism to unify.
+
+```
+
+### Whither Reform
+
+#### Maastricht and Monetary Union
+
+They established towards a not-quite common currency - monetary union began as a French reform project and became at Maastricht a French failure. It rested on a firm separation between economic policy and monetary policy.
+
+Despite Maastricht Treaty's ratification, the second round pitched two candidates - Chirac and the Socialist Lionel Jospin - against each other who entertained serious doubts about France joining the single currency.
+
+With neither main French party able to act upon its leaders' reservations about monetary union, support for each began to erode.
+
+For Germany, legitimatising the treaty generated a different problem - ratification became a judicial rather than democratic context. The constitutional Court upheld the treaty's legality. Nonetheless, it insisted that any act outside the transfer of sovereignty laid out in that would not be valid in Germany, and that any further treaty change around monetary union would have to be compatible with German Basic Law. (228)
+
+In agreeing the Maastricht Treaty, the German government had laid out safeguards against Italy's accession to the euro becoming a live question. But for Italian democracy, the criteria for qualification for the euro generated an immediate political crisis, the resolution of which opened a path to the country joining the Eurozone.  (229)
+
+The technocrats who headed Italy's Maastricht negotiating team were under paltry ministerial direction. Effectively, they made the choices that privileged euro membership over maintaining the First Republic.
+
+```ad-quote
+title: 230
+Nonetheless, the political demands of joining monetary union left a legacy. The huge fiscal retrenchment weakened the Italian economy. By 1997, unemployment was above 11 per cent and growth was poor. In avoiding a secessionary crisis, the discontent reappeared on the other side, with the South suffering persistently high unemployment. Moreover, being subject to the Stability and Growth Pact, Italian governments had fewer economic instruments to pursue interven tionist policies towards the region. 22  Inside the euro, the debt the Second Republic inherited from the First could be serviced signifi cantly more cheaply. But this necessarily circumscribed the space for Italian democratic politics, particularly for the centre right. While under Berlusconi’s leadership it played little part in executive government during the 1990s Berlusconi served a seven month term as prime minister in 1994–95 it was far from a spent political force. Berlusconi’s commitment to euro membership was variable at best and near non existent around the Stability and Growth Pact, especially since his whole personal operation was bound to the First Republic patronage networks. When he became prime minister again in 2001, just as the growth benefits generated by euro membership were disappearing, he began to lash out at monetary union, claiming in 2005 that ‘Prodi’s Euro has screwed everybody.’
 
 
 ```
 
-### Idea 3
+
+#### The French 'No'
 
 ```ad-quote
+title: 231
+Constitutionally, the enlarged EU of the post Cold War world could not be the same as the Cold War EC. Facilitating the 2004 accession of the ten new states necessitated revisiting the rules for majorities in those legislative votes where each member state did not have a veto. The first attempt to deal with these issues was the 2001 Nice Treaty. This new treaty caused a legitimation issue in Ireland where a majority voted in a referendum against ratification. It also quickly became discredited.
+
+Despite the fact that Germany had a significantly bigger populace than any other country and the new system in principle allocated votes to states according to population size, Chirac had successfully insisted that the Franco German parity be retained. By giving Spain and, on accession, Poland nearly the same voting rights as Germany, despite them having half the population, majorities could not easily be mobilized. Needing a way out, the EU declared at Laeken that it now sought a constitution to bring it ‘closer to its citizens’, less than a year after the Nice Treaty had been agreed and before a second a referendum had taken place in Ireland.
+
+Unlike Maastricht, the eventual Constitutional Treaty proved impossible to ratify. Ever since then, the fallout from that legitimation crisis has been a source of disruption within the EU.
+
+In Britain, the argument pressed in 1972 and 1975 that membership did not have constitutional implications fell flat over an explicitly named Constitutional Treaty. For months, the British prime minister, Tony Blair, resisted demands for a referendum, only, in April 2004, finally to concede. Blair’s decision prompted a succession of other governments in states that had never previously held a referendum on a treaty, as well as some of the new states, to follow suit.
+```
+
+French voters, when asked, declined to ratify the treaty as did the Dutch. The two referendum revealed a growing perception that the EU shut down democratic political contest over economic policy.
+
+```ad-quote
+title: 232
+The French ‘no’ doomed the Constitutional Treaty. But the EU’s decision making structure could not be left as it was without retaining the voting rules agreed at Nice. In response, the EU governments repackaged the Constitutional Treaty as the Lisbon Treaty and encouraged each other to eschew referendums. Former French president Giscard D’Estaing, who had presided over the convention that preceded the Constitutional Treaty, privately explained this strategy in blunt terms when he said that ‘public opinion will be led without knowing it to adopt the policies we would never dare present to them directly. All the earlier proposals will be in the new text but will be hidden or disguised in some way.’ When the Irish government, constrained as it was by the Irish constitution, did hold a referendum and elicited another rejection, the other states offered a few concessions before Irish voters were asked to reconsider.
+
+```
+
+For Britain:
+
+```ad-quote
+title: 234
+For British prime minister Gordon Brown, the Lisbon Treaty was like wise a democratic burden. Had he put it to a referendum, ‘no’ would almost certainly have won. Faced with this reality, Brown repudiated Labour’s 2005 manifesto promise to hold a referendum over the Constitutional Treaty, again with the spurious argument that Lisbon was qualitatively different from its predecessor.
+```
+
+Here, British Conservatives were opposed to the treaty itself and parliamentary ratification. Under David Cameron's leadership, the Conservatives offered a 'cast-iron' guarantee that if ratification had not occurred by the time a Conservative government took office there would be a referendum, and said that the party would campaign against the treaty. Consequentially, the Lisbon Treaty's fate became a race between the second Irish referendum and the death throes of Gordon Brown's government.
+
+#### Eurozone Creditor-Debtor Politics
+
+For the democracies inside the monetary union, the Eurozone crisis let loose a set of difficult dynamics around debt.
+Eurozone debt crisis?
+
+```ad-summary
+title: 246-247
+Achieved via a treaty that could not readily be reformed, monetary union placed immense strains on EU democracies. Some of the destabilizing dynamics were in place from the start. There was a radically insufficient political consensus to support its essentially German terms being constitutionalized across member states, not least given the general issues caused by the awkward relationship between national elections and EU treaties. Elections, especially in France, produced demands for change that could not be met. In Italy, the euro acted as a safeguard against a democratic contest about debt that if it had taken place would have risked a financial crisis. But although monetary union made Italy’s debt serviceable, it also imposed a non democratic straitjacket around who could exercise power and narrowed party competition between those who did. The ins and outs of a territorially incomplete monetary union pushed the constitutionalized single market into British democratic politics. As Hollande campaigned in 2012 against a treaty he was in no position to reject, so Cameron had campaigned in 2010 for an immigration target he was in no position to implement.
+
+By reopening German politics to questions about the euro, the post 2008 monetary environment and the need to transform the ECB without the possibility of treaty change added more disruptive capacity to these foundational dynamics. The 2015 border crisis complicated further the politics generated by Germany’s position inside the EU and the Eurozone. It turned the AfD into the party standing outside constitutional norms and post war German nationhood on migration while laying claim to be the party of strict constitutional propriety where the euro was concerned.
+
+In Britain, democratically expressed discontent prevailed only to produce more instability in the UK’s multinational union. Elsewhere, democratic discontent with very different aspects of the euro had to be suppressed. In Germany, and especially Italy, this contributed to the move to grand coalition politics. In France, this was not an option because the euro and EU treaties had so weakened the main parties. There, street protest politics grew, eliciting an at times brutally coercive response from the French state. In Spain, the Catalan question seems to preclude grand coalitions; even more than in France, it has produced considerable coercion. Within the Eurozone itself, the structural pressure has moved towards a possible democratic contest over a new treaty that could accommodate the post 2010 ECB and the prospect of permanent EU issued debt. Yet the very political difficulties treaties cause for EU democracies, the severity of the contest that would ensue, and the fact that the EU and the Eurozone are not aligned ensure that such a treaty would become the source of another serious disruption for the EU.
+
+```
+
+#### The American Repair That Wasn't
+
+```ad-summary
+title: 250
+But these hopes proved illusory. The 2008 result rested just as much on the relative turnouts of antagonistic demographical coalitions as those in 2000 and 2004. Obama was more a symbol of the aspiration for political change than the agent of it. His biography could indeed be projected into a repurposed American nationhood, and his rhetoric sought to reclaim the republic’s foundations for an inclusive American people.88  In declaring his candidacy, he made democratic renewal his rallying call, appealing to those like him who believed that ‘we can be one people’ and articulating a faith in democratic repair made possible because the ‘genius of our founders ... designed a system of govern ment that can be changed’. But there was little if anything in his economic policy that distinguished him from his primary Democratic opponents. In office, his presence in the White House did serve as a transcendent symbol, but one that also appeared to make some white voters more responsive to contrary appeals to race and ethnicity. If no leader in a democracy can personally be a vehicle of national unity without delegitimating democratic political conflict, the messianic hopes not infrequently projected onto Obama amplified this problem by tacitly denying it.
+
+Even without the fallout of the 2008 crash, the conditions for a class politics driven by anger at aristocratic excess remained in place throughout the two Obama presidencies. In 2008, Obama raised massive sums of money from Wall Street. In breaking away from the public financing system that placed limits on election expenditure, Obama ensured a subsequent money raising arms race. The Supreme Court then accelerated this competition by its insistence in 2010 in the Citizens United case that corporations have a constitutional right to spend as much money as they like during elections.
+
+During the Obama presidency, large corporations continued to employ those who had previously worked in the executive. Non profit organizations and foundations set up by former politicians, like Bill Clinton, still financed charity work through donations from the same people who amply funded political candidates, as well as foreign governments. Large corporations that operated off Pentagon contracts and furnished a regular line of party donors still often failed to supply the military wherewithal for which they bid. If the point of vast military expenditure was to win wars, the reality, by 2016, appeared to be a continuous supply of tax revenue to a small number of firms while American military forces struggled at best to impasse and at worse to disaster in the Middle East and Afghanistan.
+
+```
+
+#### Oil's Return 
+
+```ad-quote
+title: 251-252
+After disappearing as a potent domestic issue during the 1990s, oil complicated how the American republic could contain these destruc tive forces. Oil’s overt reappearance began with George Bush Jr’s bid for the presidency. Bush raised large sums of money from the oil and gas industry, and was repeatedly attacked as the energy sector’s candi date.93  He then made Dick Cheney—the CEO of Haliburton, a large oil field services corporation his vice presidential nominee, and a perception that business energy interests dominated the administration intensified through the build up to the Iraq war. 94  The war’s failure to reactivate Iraqi production decisively reopened the 1970s divide between energy producing states, consuming states, and environmental groups. From 2005, the administration had to prioritize what had always been the domestic side of its energy agenda, namely increased national oil production. In his 2007 State of the Union address, Bush ventriloquized Nixon and Carter: ‘For too long our nation has been dependent on foreign oil. And this dependence leaves us more vulnerable to hostile regimes and terrorists who could cause huge disruptions of oil shipments and raise the price of oil and do great harm to our economy.’ 95 In 2005 and 2007, Congress passed two pieces of legislation—the second of which was named the ‘Energy Independence and Security Act’—to remove some of the regulations on production and to provide con siderable subsidies to oil and gas firms.
+
+The allure of energy independence facilitated by the shale boom made democratic politics in the United States oil centric after the crash too. Well aware that many voters wanted lower prices, less corporate profit making, and more action on climate change, Obama tried to face all ways in office. In March 2010, his administration announced it would allow new offshore drilling. But after the Deepwater Horizon oil spill in the Gulf of Mexico the following month, it reversed this decision. Caught between the price and environmental imperatives, Obama delayed for six years making a decision on whether the fourth stage of the Keystone XL pipeline— commissioned in 2010 to carry tar sands oil from Alberta in Canada to the Gulf of Mexico— could go ahead. During the 2014 mid term elections, the Republicans used the issue as part of their successful effort to win back the Senate. But, holding a vote even before the new Congress sat, the Republican majority leader fell one vote short of the sixty required to force approval. In 2015, without any further elections to worry about, Obama finally announced he would not approve the pipeline. In his statement rejecting the pipeline, Obama suggested oil had become a symbolic issue divorced from its actual content on both sides, where the only frames for discourse were either the evil of the oil companies, or ill-informed passion blocking what economic growth and jobs made necessary. But he also introduced his own levels of disingenuousness by conflating the very different questions of ‘clean’ energy and ‘home grown’ energy for both of which he wished to claim political credit.
+```
+
+#### American Creditor-Debtor Politics
+
+```ad-quote
+"The immediate practical necessity of shale production and its dependence on vast credit helped shape a relatively broad political consensus in the United States around zero interest rates that was absent in the German dominated Eurozone. Nonetheless, after the crash there was severe political conflict about whose debt the federal government and central bank’s resources should support." (253)
+
+"Across left and right, a common belief that the American republic was neither politically nor morally equipped to respond to economic grievance was now palpable. This would have been a heavy democratic burden in its own right even without the racial fallout of the fore closures crisis. The debtors who lost their property, including to systematic fraud, were disproportionately African American and Hispanic. 105 Consequently, what had been long standing racial inequalities in wealth sharply increased after 2007. In the five decades after the civil rights reforms that restored citizenship to African Americans in the South, American politicians had proved unable to extend the same economic benefits in federal support for home ownership to African American and Hispanic citizens that their predecessors once had to white citizens. Indeed, in attempting to remedy the problem by using internationalized banking to provide the money, American politicians had only made it worse. Against this backdrop, African American voting rights also became severely politicized. A number of Republican controlled legislatures, including in the South, pushed changes to state electoral law that were prohibited under the 1965 Voting Rights Act." (254)
+
+"As the contest over which citizens could in practice exercise their constitutional right to vote increased within states, the federal contest over whether the millions of resident non citizens should be made citizens and what to do about the Mexican border continued. Another reform bill that included a path to citizenship for unauthorized migrants failed to pass Congress in 2013. After Republicans took control of the Senate and increased their House majority in the 2014 mid term elections—in part by using the border issue—Obama issued executive orders to grant legal reprieves for some long standing residents and extend visa programmes in a number of economic sectors. This move took the conflict ever more into the judicial sphere. The Texas state government and twenty four other states pursued a case against Obama’s executive orders. After a lower federal court ruled the orders unconstitutional, the Supreme Court, with only eight judges sitting due to Justice Antonin Scalia’s death, tied 4–4 on the case in June 2016, leaving the lower court ruling standing. As on other some other matters, the American republic appeared trapped: it could neither resolve the citizenship issue nor control the border, and any attempt to do either only reminded its citizens how little they agreed about what it meant to share a democracy with each other." (255)
+```
+
+#### Trump's Insurgency
+
+```ad-quote
+title: 255
+
+Without the political potency of the citizenship and border issues, there would probably not have been a path for Donald Trump to the Republican presidential nomination in 2016. In utilizing the issue, Trump drew from the deep wells of restrictive American nationhood. 
 
 
+```
+
+```ad-quote
+title: 257-258
+What made Trump’s presidency singular was not so much what he did but his rhetorical and presentational relationship to the office: for many citizens his very presence in the White House was always democratically illegitimate and he regularly acted to aggravate that perception as much as possible. The fact that Trump did not win the popular vote, and that this was the second presidential election in sixteen years where the republic’s federal features had prevailed over its democratic, immediately weakened losers’ consent. Long before his extraordinarily reckless and shameful conduct after the 2020 election, those never able to accept Trump’s presidency saw his inflammatory nativist rhetoric and administrative incompetence as evidence of how democracy decays into chaos without enforced constitutional con straints and norms. For Trump’s defenders before the 2020 election, some of their fellow citizens’ unwillingness to accept defeat in 2016 was an attack on democracy motivated by class interests. Underneath weak losers’ consent lies the problem of American nationhood and its relationship to federalism. Issues about American historical memory, and the founding of the American republic in particular, ignite disintegrative political passions. Accepting the confederacy’s history as part of the collective American historical experience was part of the post–Civil War compromise. But, in a Union where former slaves became citizens, that left the language of American nationhood viciously restrictive. The republic has not yet found a story about the past that can imaginatively ground the idea of an American people that includes all American citizens. The one that once politically pre vailed—where the republic’s foundations were upheld as an ideal to be fulfilled in time—now appears insufficient. That notion was always at odds with the changes that time would bring in the demographics of who enjoys citizenship, as well as the sheer difficulty of economic reform in a republic so dominated by moneyed interests. But for many, any idea that the beginning of the American republic is irredeemable and cannot inspire democratic regeneration appears an attack on their understanding of what it means to be an American citizen. This clash of judgements is compounded by the fact that population changes mean that the Senate’s anti majoritarian structure weighs ever more heavily on political outcomes. Under these political conditions, not only do elections risk democratic crisis, but the constitution itself, including the rules of statehood, has become increasingly democratically contested.
+
+```
+
+#### Pandemic Democracies
+
+```ad-quote
+title: 258
+As it did geopolitically and economically, the pandemic shone a harsh light on the long term fault lines running through democracies. Again, the American experience was distinctive, and again what happened in the large European democracies, outside Britain, was inexorably tied to the EU and the Eurozone. That governments had to take extraordinary decisions urgently made the early politics of the pandemic a matter of who had the authority to decide what. Executives, not legislatures or judiciaries, became pivotal. This exposed those democracies where the legitimacy of the authority at the centre was eroded. While, in the United States, the federal government might have been expected to use its powers to lead an emergency response, Trump was either unwilling or unable to mobilize the administrative state to devise one. Left largely to their own devices, state governors asserted their states’ autonomy.
+
+With the African American George Floyd’s death at the hands of a white Minneapolis police officer in May 2020, all of the American republic’s legitimacy difficulties were laid bare. In the first instance, this was obviously a matter of the legacy of slavery and the racial hierarchy that persisted long after its abolition. The protests, the police brutality, and the riots that followed, then, became inseparable from the con tested legitimacy of Trump’s presidency and Trump’s cultivation of the emotion raged against him. For many American citizens during these months, whether there was a constitutional and moral right to protest during a health emergency was a function of neither state law nor the health risks but the political cause professed. Little sense that citizens shared the same constitutional rights was evident. Indeed, what those protesting the lockdowns or racial injustice perceived as legitimate about their own cause and its relationship to the emergency, they often denied for others. In this political atmosphere, a presidential election took place where it was clear before a single vote had been cast both that the sitting president did not accept as a self evident truth the democratic necessity for him to leave office if defeated and that his reelection would produce a political crisis. When Trump lost, he endeavoured to drag the republic’s highest court and its legislature into his disastrous attempt to hang onto office. After some Trump supporters attacked the Capitol, Joe Biden was inaugurated as president in a Washington DC that looked more like an occupied military zone than the physical centre of the American republic.
+```
+
+```ad-quote
+title: 262
+The now three decade propensity in the second Italian republic towards technocratic prime ministers and finance ministers is unlikely to be democracy’s general future. Nonetheless, Italy is revealing of the difficulties that European democracies now find in structuring political conflict around competing political parties except for ministries inside executives. 119  In Italy, as in other countries where there has been a move to grand coalition politics, citizens as voters cannot reliably choose who will make decisions. Although electoral systems based on proportional representation have long diluted this property of democ racies, this occurrence is now not infrequent. In the case of France, with its presidential system, the same general problem manifests rather differently in the absence of the conventional two parties of the centre right and centre left. Under Macron at least, French democracy looks more like what Charles de Gaulle described as republican monarchy in which the conflicts within the people represented by the French state are not politically articulated within the institutional structures of the republic. This problem is exacerbated because distributional conflicts are intensifying not diminishing as will be discussed in the conclusion. Unburdened by the demands of a supranational monetary union, democratic political competition in the United States and Britain still accommodates sharper conflicts. But this is in good part because the constitutional shape these democracies take is being quite bitterly con tested. In both instances, albeit in different forms, this makes losers’ consent precarious and the stakes of elections higher than democracies can easily bear.
+
+```
+
+---
+
+```ad-quote
+title: Conclusion
+The pandemic has been both a catalyst for substantial change and part of a continuum of the older disruption. This is perhaps particularly true around energy, where several Western governments had sought in 2019 to accelerate energy change and the Biden administration, propelled into office by the pandemic and events during it, then joined them. Green ambitions in Western countries appear simultaneously directed at the climate crisis, Made in China, weak growth, and democratic stability. Geopolitically, an energy change will necessarily result in upheaval. If Britain was the power that climbed to dominance during the age of coal and the United States the power that ascended during the age of oil and coal, the spectre haunting Washington is that without a decisive American strategic turn to renewables and electrification, the new energy age that depends on metals and minerals will belong to China. For the EU, there is the hope that green energy will prove an escape from the world of oil and gas that through the twentieth century did so much to weaken the European powers. Economically, large-scale green investment justifies a turn towards big fiscal stimuluses, after a decade in which relying on monetary policy to boost financial markets, lower government borrowing costs, and alleviate the oil crisis could not restore higher growth. In recreating manufacturing jobs and swelling the construction sector, green-driven growth, in principle, offers the prospect of a higher return to labour. Even if a considerable volume of the investment required in technologies like carbon capture is commercially unviable, this need not matter if it is part state-funded and the necessary government borrowing is supported by central banks. Democratically, the possible political pay-  offs include a new version of economic nationhood. 
+
+```
+
+```ad-quote
+title: 277
+Personal transportation, in particular, will become a site of political conflict. Electric vehicles are some distance away from being the equivalent of Henry Ford’s Model T. The future could well entail a return to the pre-  Fordist world where car ownership was a luxury good and a source of class resentment. At some point, the difficulties around oil and the difficulties of electrifying the transportation sector will meet. As the distributional implications for personal energy consumption become clearer, how carbon neutrality should be achieved— not least how much carbon can be offset rather than eliminated—will move beyond governments announcing targets into the realm of elector  al contest. In those Eurozone democracies that struggle to structure much economic conflict in the electoral contests between parties, there will be pressures that pull in the opposite direction from the need to minimize macro-  economic dissensus. Here, there is considerable potential for geopolitics to continue to fuel democratic disruption. Since winning a competition with China over electric vehicles has become a matter of technological prowess, governments and investors appear to be pushing the sector regardless of the democratic political risks attached to minority car ownership. Economically, green energy and electrification also are not panaceas that will curtail the wider predicaments of the last few decades. 
+
+```
+
+```ad-quote
+title: 278
+Where they are pursued as growth strategies in economies in which manufacturing has been particularly hollowed out, as in Britain, or in democracies, as in the United States, riddled with aristocratic excess from the relationship between politicians and corporate lobbying and campaign donations, they may well reinforce old problems. If past national economic weaknesses mean foreign companies dominate markets, it is far from clear how many domestic jobs will be generated: in Scotland, where, thanks to the volume of wind, the proportion of electricity generated by renewables is extremely high, many fewer jobs have been created by the transition than was hoped. Meanwhile, large-  scale infrastructure projects are open invitations to cronyism when contracts are awarded: the Obama administration’s provision of funds to a huge construction project to give California a high-speed railway produced not a new public transport system for the state but a bonanza for consulting firms. In approaching the energy revolution, politicians in Western democracies, and the investors who started in 2019 to abandon fossil fuels, have made a wager that yet to be invented technology will allow much about present material conditions to be replicated with different energy sources. To succeed, this technology will have to facilitate an energy revolution, leaving nuclear power aside, in which lower-  density primary energy supplants higher-  density energy. Thus far, renewable energy has increased overall energy consumption rather than replacing fossil fuel energy consumption. Indeed, since 1995—the year of the first United Nations climate summit—primary coal consumption has risen by more than two-  thirds, oil consumption by more than a third, and gas by more than four-  fifths. While most Western countries have seen falls in oil consumption and some also large drops in coal consumption, this is in part the consequence of offshoring significant amounts of industrial production to Asia. For the moment at least, the attempted energy revolution is also entirely reliant on the fossil fuel energy inputs it seeks to replace, as well as potentially scarce materials like rare earth metals. It is more likely that there will be a long energy transition than a rapid one. In one sense perhaps, this outlook is nothing new: uncertainty, hoping for the best, and investing with a ‘can-do’ mindset have always been the basis of capitalist economies. But, since energy is the foundation of all economic activity, including the production of food, and is subject to the laws of physics, needing technological innovation in energy is quite a different requirement. There is already a considerable history going back to the 2000s of governments and corporations unveiling plans for fossil fuel–free energy that have proved near entirely fanciful.
 ```

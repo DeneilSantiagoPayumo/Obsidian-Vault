@@ -126,7 +126,7 @@ Ex-colonial self-determination established the categorical right to independence
 
 Numerous peoples have been barred from entering the international community: Ewes, Gandans, Karen, Katchin, Kurds, Sikhs and more, often termed as 'separatists', 'secessionists' or 'irredentists.'
 
-New statemen have been united to bar ethnonationalities from the club as it would result in a loss of jurisdiction over the territories in question and remaking of international frontiers. Additionally, if they were admitted, "most existing Third World states would crumble into far smaller particularisms." (42). It's important to note that these states may be more coherent domestically but it would fragment existing international society.
+New statement have been united to bar ethnonationalities from the club as it would result in a loss of jurisdiction over the territories in question and remaking of international frontiers. Additionally, if they were admitted, "most existing Third World states would crumble into far smaller particularisms." (42). It's important to note that these states may be more coherent domestically but it would fragment existing international society.
 
 
 ```ad-quote

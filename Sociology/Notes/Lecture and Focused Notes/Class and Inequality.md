@@ -170,7 +170,6 @@ title: Moor L and Friedman S (2021) Justifying inherited wealth: Between 'the ba
 There is an implication that imaginary others, with Les, it is contingent on financial impulse that can redirect criticism of fancy wealth. This inflicts the gaze on those who do not have the same ethos.
 
 
-
 Let us focus on groups of individuals who are not benefitting from these classifications. What does it mean for individuals who are just outside of those circles?
 
 ## Stigma in 'neoliberal' times
@@ -317,6 +316,12 @@ title: Lamont, 2019
 [[What makes a class a social class...]]
 [[The making of Class and Gender through visualizing moral subject formation]]
 [[Classificatory struggles]]
-
 [[The Dignity of Working Men]]
 [[Social Class in the 21st Century]]
+
+[['Unruly Places', Inner-City Comprehensives, middle class imaginaries...]]
+[[Borrowed identities, Class(ification), inequality and the role of credit-debt...]]
+[[Lessons from Grenfell, poverty propaganda, stigma and class power]]
+[[Poverty talk, how people experiencing poverty deny their poverty and why they blame 'the poor']]
+[[The Jack Wills crowd, toward a sociology of an elite subculture]]
+[[Justifying inherited wealth between the bank of mum and dad...]]

@@ -1,4 +1,5 @@
 David Runciman, How democracy ends (London: Profile, 2018)
+Runciman, D. How democracy ends. (London: Profile, 2018)
 
 This is part of the [[The end of representative democracy]] series:
 25-01-24
@@ -32,6 +33,16 @@ Democracy can be awakened by sense of collective identity, but now the destructi
 
 Also, inequality is a big problem that drives inequality. "The most successful democracies are the ones that have managed to limit violence, ensure against disaster and protect the peaceful lives of their citizens. As a result, inequality has slipped free from the democratic grip it was once held." (60-61)
 
+```ad-quote
+title: 50-51
+Donald Trump embarked on his bid for national office by embracing one of the most persistent conspiracy theories about President Obama, that he was not an American citizen. The ‘birther’ movement was quintessential losers’ politics: voters who believed that Obama did not speak for them latched on to the idea that he could not speak for them because he was a secret alien. Trump rode this idea most of the way to the White House, only half-heartedly ditching it as Election Day approached. But he did not ditch the mindset it represents, even after he won. Trump as president has continued to peddle conspiracy theories from the Oval Office. He accused his defeated opponent of having stolen the popular vote by widespread electoral fraud. He accused his critics in the mainstream media of deliberately creating fake news stories to discredit his presidency. He accused his predecessor of having tapped his phones. There was little or no evidence for any of this. Trump the winner was behaving as though he had lost. He did this in order to cement the terms on which he had won and keep himself firmly aligned with his core constituency.
+
+After Trump’s victory, defeated Democrats quickly turned from dismissing conspiracy theories about the old president to spreading them about the new one. He was soon engulfed by accusations that he was a stooge of the Russians. Trump and his acolytes fought back in the only way they knew how. They turned the conspiracy theories back on the Democrats. They were the ones in the power of the Russians. They were the ones faking the news. One reason it can seem conspiracy theories are everywhere at present is that the various sides are no longer taking it in turns to question the bona fides of the others. Now they are doing it simultaneously.
+
+This is entirely characteristic of a period when populism has come to dominate democratic politics. The basic idea behind populism, whether from the left or the right, is that democracy has been stolen from the people by the elites. In order to claim it back, the elites have to be flushed out from their hiding places, where they conceal what they are up to by paying lip service to democracy. Conspiracy theory is the logic of populism. Trump’s inaugural address was a concise expression of this line of thought. Its rhetoric aligned Trump with other populist leaders around the world, who frame politics in much the same way.
+
+```
+
 
 ### Catastrophe
 
@@ -44,7 +55,7 @@ Runciman briefly outlines three types of catastrophes:
 
 This mindlessness is what links environmental catastrophe, nuclear wars and genocidal oblivion. It may take place in some distraction in which we do not realise that our homes are being destroyed, we may be too hyper-attentive: too focused on the game of nuclear deterrence or or we could be obedient to a course of actions that everyone else is doing. (paraphrased, 66-67)
 
-Why has the warnings of environmental catastrophy no longer resonating as they once did? (68-69)
+Why has the warnings of environmental catastrophe no longer resonating as they once did? (68-69)
 1. "Success: there is less to fear once our earlier fears have been dealt with. The greater risk now is complacency. Having seen off one threat, we are tempted to think that any fresh dangers are being exaggerated, forgetting what it was that rescued us first time around."
 2. "The politics of environmental regulation are more divisive than they were half a century ago." - what is the value of public goods, how much should be distributed?
 3. "The third reason for the change is that Carson's vision of the worst that can happen has long been superseded by another kind of threat. The space for worrying about environmental disaster is now fully occupied by the idea of climate change." 
@@ -65,7 +76,7 @@ If nuclear weapons are fatal to democracy, how did it survive? In the Cold War, 
 
 Game theory infected politics with ideas of perfect competition and efficient market. But now it has turned bread and butter politics into a nuclear-stand off: it treats the choices faced by individuals as though they can be modelled into existential terms. (63-64)
 
-Another fear - inter-connection. Our world has become m ore vulnerable as everything is joined to everything else. "What makes networks frightening is the thought that they could collapse without any warning. There does not need to be human intent involved. A network might simply out." (85)
+Another fear - inter-connection. Our world has become more vulnerable as everything is joined to everything else. "What makes networks frightening is the thought that they could collapse without any warning. There does not need to be human intent involved. A network might simply out." (85)
 
 We may simply just sleepwalk to disaster. The fear of being interconnected and permanently alert politicians to the dangers of making irreversible mistakes. What happens if we shock a sleepwalker then? "Sleep walking and tightrope walking are both features of contemporary democracy. It is what gives our politics its peculiar double quality of attentiveness and carelessness." (87)
 

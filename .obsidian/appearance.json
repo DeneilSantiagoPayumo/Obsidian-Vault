@@ -1,7 +1,7 @@
 {
   "accentColor": "#e51599",
   "theme": "obsidian",
-  "cssTheme": "Aura",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "autofading-ui",
     "bigger-link-popup-preview",
@@ -15,7 +15,7 @@
     "tag-pills",
     "custom-icons-for-specific-folders"
   ],
-  "baseFontSize": 17,
+  "baseFontSize": 19,
   "translucency": true,
   "nativeMenus": true
 }

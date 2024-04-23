@@ -42,7 +42,7 @@ When the statistician forgets that all the properties he handles, not only those
 It provided "a nuanced account of why and how hierarchies of social class persist, even under the ostensibly less stratified conditions of liberal democratic welfare states in post-war Europe.", class hierarchies are shown to emerge not only in struggles between labour and capital, but in and through 'cultural struggles': expression of everyday 'tastes' or 'dislikes', the 'internalization of distinctive signs and symbols of power' and/or the acquisition of cultural competencies. (500)
 
 It gives an array of conceptual tools it bequeathed to sociologists of class. Class, Self, Culture (2004), Bevereley Skeggs draws on feminist and critical race theory - on new formations of the middle classes as acquisitive, individualized and 'flexible' subjects of value. This normative middle-class self is the neoliberal subject par excellence, mobilized as a form of governmentality through (and against) which judgements about class-others are produced 'within popular and political' imaginaries. (500) (Skeggs, 2011: 502). The meritocratic political imaginaries which [[Pierre Bourdieu]] argued mystified class relations have been displaced by hostile forms of class othering.
-
+[
 Skegg argues that the working class are depicted as "abject and irresponsible, ungovernable, dirty white..." (Skeggs, 2011: 502). Bourdieu fails to account for the potential of working-class resistance to discursive practices of othering despite his emphasis on class as struggle.
 
 "In other words, classification are not descriptive of the world, "they have consequences in the world and are "operative" - defining the possibilities for action and bounding one's sense of agency." (Waterton, 2003: 113)" (500)

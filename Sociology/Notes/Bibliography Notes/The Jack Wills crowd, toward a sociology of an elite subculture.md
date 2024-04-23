@@ -1,5 +1,5 @@
 This is part of the [[Class and Inequality]] series:
-Names: [[Anthony King]] [[Daniel Smith]]
+Names: Anthony King Daniel Smith [[King and Smith]]
 King A and Smith D (2018) The Jack Wills crowd: Towards a sociology of an elite subculture. _The British Journal of Sociology_ 69(1): 44–66.
 
 12-01-24
@@ -9,7 +9,7 @@ King A and Smith D (2018) The Jack Wills crowd: Towards a sociology of an elite 
 ## Article Introduction
 
 ```ad-abstract
-British sociologists have long been interested in youth sub-cultures. However British sociologists have tended to focus on working class subcultures and avoid edengagement with exclusive sub-cultures of elite social groups. This article seeks to attend to this gap by examining the subculture of a British elite: ex-public schoolstudents at select universities in the UK in the twenty-first century. This groupconsists of a relatively small group of young adults, aged between 18 and 23, whoattended public schools, especially one of the nine Clarendon schools (Eton, Winchester, Westminster, St. Paul’s, Merchant Taylor’s, Shrewsbury, Rugby,Harrow and Charterhouse), and were students at a selective group of British universities, primarily Oxford and Cambridge, Durham, Bristol, Exeter, Bath, Manchester, St Andrews and Edinburgh. The article examines the way in which this group has reconfigured and re-constituted itself in the face of globalizing challenges. Specifically, it examines the way in which participation of ex-public school students in events run by and under the patronage of the high street retail-ing company, Jack Wills, has played a galvanising role for this group in the last decade. The Jack Wills crowd is an example of how some young adults form exclusive social networks and reproduce prevailing forms of privilege. The social networks built around the Jack Wills subculture is likely to provide them with advantages in the job market through a prodigious network of connections and patrons. The Jack Wills subculture potentially contributions to the socio-economic reproduction of the higher professional middle classes.
+British sociologists have long been interested in youth sub-cultures. However British sociologists have tended to focus on working class subcultures and avoid engagement with exclusive sub-cultures of elite social groups. This article seeks to attend to this gap by examining the subculture of a British elite: ex-public schoolstudents at select universities in the UK in the twenty-first century. This groupconsists of a relatively small group of young adults, aged between 18 and 23, whoattended public schools, especially one of the nine Clarendon schools (Eton, Winchester, Westminster, St. Paul’s, Merchant Taylor’s, Shrewsbury, Rugby,Harrow and Charterhouse), and were students at a selective group of British universities, primarily Oxford and Cambridge, Durham, Bristol, Exeter, Bath, Manchester, St Andrews and Edinburgh. The article examines the way in which this group has reconfigured and re-constituted itself in the face of globalizing challenges. Specifically, it examines the way in which participation of ex-public school students in events run by and under the patronage of the high street retail-ing company, Jack Wills, has played a galvanising role for this group in the last decade. The Jack Wills crowd is an example of how some young adults form exclusive social networks and reproduce prevailing forms of privilege. The social networks built around the Jack Wills subculture is likely to provide them with advantages in the job market through a prodigious network of connections and patrons. The Jack Wills subculture potentially contributions to the socio-economic reproduction of the higher professional middle classes.
 
 
 
@@ -115,3 +115,5 @@ This is an account of class reproduction in contemporary British society.
 title: Critique of Social Class in the 21st Century (2015), 64
 ![[Pasted image 20240203135335.png]]
 ```
+
+Class formation, self-consciousness, rethink modes of social order. Generational class networks, social networks.

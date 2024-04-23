@@ -1,5 +1,6 @@
 This is part of the [[The end of representative democracy]] series:
 Nancy Bermeo, ‘On democratic backsliding’, Journal of Democracy, vol. 27 (2016), pp. 5-19
+Bermeo, N. ‘On democratic backsliding’, Journal of Democracy, vol. 27 (2016), pp. 5-19
 12-01-24
 
 

@@ -2,7 +2,7 @@ Martha Finnemore, The Purposes of Intervention: Changing Ideas about the Use of 
 
 Finnemore M. The Purposes of Intervention: Changing Ideas about the Use of Force. Ithaca: Cornell University Press, 2003), pp.1-23
 
-This is part of the X series:
+This is part of the [[Post-Colonial States and Intervention]] series:
 12-01-24
 
 
@@ -55,3 +55,13 @@ What changed were the understandings states collectively held of the relationshi
 States intervening to collect debts justified their actions on legal grounds. "After 1902 Latin American states argued that sovereign equality of states was the foundational principle of international law and, indeed, of international order. States could not use force against one another except in self defence." (25)
 
 Thus the rising influence of international law and lawyers was a systemic change that altered behaviours. [[Paul DiMaggio and Walter Powell]] argued that one important mechanism whereby norms influence organizational behaviour in patterned ways is through socialization by the professions of people inhabiting those organisations.
+
+---
+
+Steady erosion of force's normative value in international politics - end in itself, but now less.
+Steadily increasing influence of equality norms in many aspects of global political life. Sovereign equality has influenced intervention rules - normative and legal notion that has restrained military intervention. When conflicts become legalized, then does the 'weak' gain power.
+Interstate uses of force are shaped by Weberian rational-legal authority structure (debt collection negotiated as part of a legal framework than otherwise)
+![[Pasted image 20240422173907.png]]
+![[Pasted image 20240422173545.png]]
+
+![[Pasted image 20240422173512.png]]

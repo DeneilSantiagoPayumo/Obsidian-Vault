@@ -1,18 +1,18 @@
 This is part of the [[Class and Inequality]] series:
 [[Crozier G, Reay D, James D, et al]]
+Crozier G, Reay D, James D, et al. (2008) White middle‐class parents, identities, educational choice and the urban comprehensive school: dilemmas, ambivalence and moral ambiguity. _British Journal of Sociology of Education_ 29(3): 261–272. DOI: 10.1080/01425690801966295.
 12-01-24
 
 # Chapter X
 
 ```ad-abstract
-At a time when the public sector and state education (in the United Kingdom) is under threat from the encroaching marketisation policy and private finance initiatives, our research reveals white middle-class parents who in spite of having the financial opportunity to turn their backs on the state system are choosing to assert their commitment to the urban state-run comprehensive school. Our analysis examines the processes of 'thinking and acting otherwise', and demonstrates the nature of the commitment the parents make to the local comprehensive school. However, it also shows the parents' perceptions of the risk involved
-and their anxieties that these give rise to. The middle-class parents are thus caught in a web of moral ambiguity, dilemmas and ambivalence, trying to perform 'the good/ethical self while ensuring the 'best' for their children.
+At a time when the public sector and state education (in the United Kingdom) is under threat from the encroaching marketisation policy and private finance initiatives, our research reveals white middle-class parents who in spite of having the financial opportunity to turn their backs on the state system are choosing to assert their commitment to the urban state-run comprehensive school. Our analysis examines the processes of 'thinking and acting otherwise', and demonstrates the nature of the commitment the parents make to the local comprehensive school. However, it also shows the parents' perceptions of the risk involved and their anxieties that these give rise to. The middle-class parents are thus caught in a web of moral ambiguity, dilemmas and ambivalence, trying to perform 'the good/ethical self while ensuring the 'best' for their children.
 
 ```
 
 ## Article Introduction
 
-Educational strategies are key to studies. This paper explores how strategies that appear t be 'acting against self-interest' are related to wider senses of identity and identification, and the extent to which these are influenced by class fraction, ethnicity and gender.
+Educational strategies are key to studies. This paper explores how strategies that appear to be 'acting against self-interest' are related to wider senses of identity and identification, and the extent to which these are influenced by class fraction, ethnicity and gender.
 
 [[Andrew Sayer]] argues that the moral dimension of social life not only a basis of social order but also a basis for resistance to the existing order.
 
